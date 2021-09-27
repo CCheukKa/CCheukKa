@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### I truly believe I am a human
 
+- 📚 I'm currently studying Biomedical Engineering at the Chinese University of Hong Kong
+- 📫 How to reach me:
+  - 📧 Email: [contact.CCheukKa@gmail.com](mailto:contact.CCheukKa@gmail.com)
+
 <!--
 **CCheukKa/CCheukKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
