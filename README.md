@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I truly believe I am a human
 
-- 📚 I'm currently studying Biomedical Engineering at the Chinese University of Hong Kong
+- 📚 I'm currently studying [Biomedical Engineering](http://www.bme.cuhk.edu.hk) at the [Chinese University of Hong Kong](https://www.cuhk.edu.hk)
 - 📫 How to reach me:
   - 📧 Email: [contact.CCheukKa@gmail.com](mailto:contact.CCheukKa@gmail.com)
 
