@@ -1,10 +1,9 @@
-# Introduction
+# Introduction <!-- omit in toc -->
 See [Starting this journal](#starting-this-journal).
 
 ---
 
 # Table of Contents <!-- omit in toc -->
-- [Introduction](#introduction)
 - [2021](#2021)
   - [September](#september)
     - [26-09-2021](#26-09-2021)
