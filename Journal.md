@@ -1,5 +1,5 @@
 # Introduction <!-- omit in toc -->
-See [Starting this journal] (#starting-this-journal).
+See [Starting this journal](#starting-this-journal).
 
 ---
 
