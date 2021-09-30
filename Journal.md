@@ -86,4 +86,4 @@ See [Starting this journal](#starting-this-journal).
 
 ### 30-09-2021
 #### Journal page on my website
-> This entry marks the establishment of the ++[/journal page on my github.io site](https://ccheukka.github.io/journal)++. This shall act as a test entry or something like that. This is not really a real entry. I have made it so that the page would fetch the journal in its most updated form every single time. So ideally, I can still just edit the journal as usual, and without having to tinker with anything else, one should just be able to read the thing on my site.
+> This entry marks the establishment of the *[/journal page on my github.io site](https://ccheukka.github.io/journal)*. This shall act as a test entry or something like that. This is not really a real entry. I have made it so that the page would fetch the journal in its most updated form every single time. So ideally, I can still just edit the journal as usual, and without having to tinker with anything else, one should just be able to read the thing on my site.
