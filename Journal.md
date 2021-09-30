@@ -1,7 +1,7 @@
 # Introduction <!-- omit in toc -->
-> See [Starting this journal](#starting-this-journal).
-> 
-> Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md) / [Github.io site](https://ccheukka.github.io/journal)
+See [Starting this journal](#starting-this-journal).
+
+Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md) / [Github.io site](https://ccheukka.github.io/journal)
 
 ---
 
