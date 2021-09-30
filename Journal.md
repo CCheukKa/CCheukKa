@@ -16,6 +16,8 @@ See [Starting this journal](#starting-this-journal).
     - [29-09-2021](#29-09-2021)
       - [Spoon-feedy education](#spoon-feedy-education)
       - [Undiagnosed ailments](#undiagnosed-ailments)
+    - [30-09-2021](#30-09-2021)
+      - [Journal page on my website](#journal-page-on-my-website)
 
 ---
 ---
@@ -81,3 +83,7 @@ See [Starting this journal](#starting-this-journal).
 > Did you think anaemia was the biggest thing? Far from it. I suspect I may also have some type of ***diabetes***. Thinking back, I believe the earliest sign was from my primary school years. I would always get thirsty when I'm trying to sleep. I would get up every minute or so to have sips of water, then I'll have to use the washroom because of all the water, and the cycle continues. It would take a really long time for me to fall asleep because of this. I basically can only rest when this whole ordeal tires me out to the point where I forget that I'm thirsty. Fast forward to today, I still drink water more frequently than those around me. It's like I'm doing transpiration all the time or something like that. Even when I'm just sitting still doing nothing I could still feel thirsty. And on bad days I could chug a whole bottle of water and it would do nothing to quench my thirst. I am always feeling dry. Washroom is a very popular venue in my daily routine. All this fuss about hydration and here I am suffering from basically the opposite problem. Now that I think about it, this could also go hand-in-hand with my anaemia to make me very prone to light-headedness, 'cus it also make my blood sugar level fluctuate quite a bit; could also be another reason why I'm always feeling tired.
 >
 > I'm well aware I am weak and frail like some 80-year-old. I'm already looking for a full-body check and hopefully I can get one soon. Let's see how accurate my self-diagnosis is, although I'm not sure I'd like to be proven correct.
+
+### 30-09-2021
+#### Journal page on my website
+> This entry marks the establishment of the [/journal page on my github.io site](https://ccheukka.github.io/journal). This shall act as a test entry or something like that. This is not really a real entry. I have made it so that the page would fetch the journal in its most updated form every single time. So ideally, I can still just edit the journal as usual, and without having to tinker with anything else, one should just be able to read the thing on my site.
