@@ -28,6 +28,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Reality and dreams](#reality-and-dreams)
     - [04-10-2021](#04-10-2021)
       - [Checking-in to my new hostel](#checking-in-to-my-new-hostel)
+    - [05-10-2021](#05-10-2021)
+      - [Moving in to my new hostel](#moving-in-to-my-new-hostel)
 
 ---
 ---
@@ -125,3 +127,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 04-10-2021
 #### Checking-in to my new hostel
 > This will be a short entry. Today I was finally able to check-in to my new hostel place. I quitted the old one after shenanigans happened there. Maybe I will talk about it some other day, but today I'd mainly like to rant about how slow the staff can be when handling stuff. First of all, I have handed in the application via email on 17-09 to the general email and again on 21-09 to the secretary herself. I was then promptly put onto the waiting list and was instructed to wait, and that was the end of it for a while. On 24-09, an email was sent to me notifying that a new hostel place has been offered to me and that I should accept it before 27-09, which I promptly did on 25-09. No response was given to me so I restated my confirmation on 27-09. They replied that the check-in arrangements shall be sent to be later that day, which did not happen. I even sent an email enquiring about the arrangements on 28-09 which they promptly ignored. The next time I shall establish any contact was being sent an email from the warden on 03-10 asking about why I did not check-in during my allotted time, which was supposedly on 02-10. Anyhow, after much hassle of explanations and re-arrangements. I have finally managed to check-in to my hostel place. It was a 3-person room, and I can already tell you the living conditions and whatnot is unimaginably better than my original hostel place. I looked around and ended up staying there for around half an hour or so. My roommates still weren't there by then so I just left. It was quite anti-climatic but it's honestly whatever. I'm packing the stuff for my actual move-in as of the writing of this so this journal shall be expecting updates soon.
+
+### 05-10-2021
+#### Moving in to my new hostel
+> This will be another short entry. Today morning I dropped off my stuff into my room, but my roommates were not awake yet so once again we didn't get the chance to properly meet before I have to leave for lectures. After my lectures, I went back there and started cleaning the place. It was quite filthy to be brutally honest. I think I spent the better part of 2 hours wiping down the whole place with alcohol. I went through half a bottle of alcohol by the time I finished, or rather gave up having decided that the particularly stubborn stains are tolerable. One of my roommates came back while I was in the middle of cleaning and we started talking. I unpacked the things that I had brought at the time before I had to leave for a doctor's appointment which I ended up failing to oblige to. Yes, this is not a particularly interesting entry but I'll be moving into the place for real tomorrow so tomorrow's entry should be mildly more interesting.
