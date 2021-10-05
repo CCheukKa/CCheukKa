@@ -30,6 +30,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Checking-in to my new hostel](#checking-in-to-my-new-hostel)
     - [05-10-2021](#05-10-2021)
       - [Moving in to my new hostel](#moving-in-to-my-new-hostel)
+      - [Toby moved to Oxford](#toby-moved-to-oxford)
 
 ---
 ---
@@ -131,3 +132,5 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 05-10-2021
 #### Moving in to my new hostel
 > This will be another short entry. Today morning I dropped off my stuff into my room, but my roommates were not awake yet so once again we didn't get the chance to properly meet before I have to leave for lectures. After my lectures, I went back there and started cleaning the place. It was quite filthy to be brutally honest. I think I spent the better part of 2 hours wiping down the whole place with alcohol. I went through half a bottle of alcohol by the time I finished, or rather gave up having decided that the particularly stubborn stains are tolerable. One of my roommates came back while I was in the middle of cleaning and we started talking. I unpacked the things that I had brought at the time before I had to leave for a doctor's appointment which I ended up failing to oblige to. Yes, this is not a particularly interesting entry but I'll be moving into the place for real tomorrow so tomorrow's entry should be mildly more interesting.
+#### Toby moved to Oxford
+> This is not a real entry but rather a brief update. I remembered that Toby said he was only going to stay for a week in London before moving to Oxford. Apparently I couldn't keep track of time well and by the time I asked him about this, he informed me that he has already moved and settled down in Oxford. Welp. Surprisingly, he mentioned that Oxford resembles Hong Kong to some extent, especially in terms of the population of the streets. I guess it's interesting?
