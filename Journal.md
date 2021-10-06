@@ -31,6 +31,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [05-10-2021](#05-10-2021)
       - [Preparing my new hostel](#preparing-my-new-hostel)
       - [Toby moved to Oxford](#toby-moved-to-oxford)
+    - [06-10-2021](#06-10-2021)
+      - [First night in my new hostel place](#first-night-in-my-new-hostel-place)
 
 ---
 ---
@@ -135,3 +137,6 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Toby moved to Oxford
 > This is not a real entry but rather a brief update. I remembered that Toby said he was only going to stay for a week in London before moving to Oxford. Apparently I couldn't keep track of time well and by the time I asked him about this, he informed me that he has already moved and settled down in Oxford. Welp. Surprisingly, he mentioned that Oxford resembles Hong Kong to some extent, especially in terms of the population of the streets. I guess it's interesting?
 
+### 06-10-2021
+#### First night in my new hostel place
+> I have moved in pretty much everything except for food and cookware to my new hostel place. I have finished my shower and am sitting at my desk in the room as of the writing of this. After much anticipation, I have finally met my other roommate. The stuff here in this hostel is much better in pretty much every single aspect. It's more colourful everywhere; it's more clean and pristine; the room is larger and actually has storage potential, with a proper and relatively clean closet; it has a lift; the desk is actually sized reasonably to be used properly; there exist microwaves, ovens, and even an air fryer. I mean it *was* built the most recently among all the other halls in CC, and it *was* my first choice in the preference priority list for hostels. I guess all this hassle translates to me being able to wake up later, and being able to keep on working on stuff at school when it's getting dark. Possibly I'll also have more energy for the day since I have eliminated two daunting commute trips, although I'll have to figure something out for my meals. I'm feeling this entry is becoming some mindless ramble again, so perhaps I should stop right here.
