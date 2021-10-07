@@ -35,6 +35,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [First night in my new hostel place](#first-night-in-my-new-hostel-place)
     - [07-10-2021](#07-10-2021)
       - [HKU night walk with CNok](#hku-night-walk-with-cnok)
+    - [08-10-2021](#08-10-2021)
+      - [Post-midnight in my hostel](#post-midnight-in-my-hostel)
 
 ---
 ---
@@ -152,3 +154,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > It brings me to the point that there is an entirely different feel between the both of our universities. I'd like to say that HKU is at the heart of a city while CUHK *is* the city, and that would totally be true during that day, but at night, good luck convincing anyone that this huge dark maze of buildings and trees has any semblance of a city. I guess the main reason is that without shuttle buses, CUHK is just a huge mountain with no real easy way of traversal, whereas HKU is compact enough that students could just travel anywhere feasibly by simply walking. And because of that, the university is encouraged to keep its buildings bright and open for everyone. It is basically just a simple virtuous cycle of demand and supply. I guess there wouldn't be much of a reason to stay here late if you don't have a hostel place, and you won't stay late anywhere else other than your hostel place if you have one. To be honest I still don't understand why the "Night Service" shuttle bus' operating hours end at around 23:30 instead of until somewhere around 01:00. They could just dilute the number of buses and it would work just fine. I guess one reason would be that the drivers wouldn't be able to catch the last train. I only got back to my hostel at 00:30 anyway.
 >
 > Some part of me would like to have a go at the university life in all of the (major) universities, but I feel like CUHK would always be my favourite, just because of its authentic culture - you rarely see some superficial stuff here, at least not on the few surface-most layers. Within my limited scope of knowledge, I guess I could describe it as being a mini foreign university, while having Hong Kong's unique university cultures and compactness.
+
+### 08-10-2021
+#### Post-midnight in my hostel
+> It is 03:00 as of the writing of this. I'm debating whether this entry should go to 08-10 or 07-10 but I don't suppose semantics matter too much here. Anyway, I have just finished working on the group assignment of my BMEG course. Throughout the entire duration of me working, I kept hearing constant door creaks and slams, chattering, and at one point even screaming downstairs. I guess it *is* a Friday today yesterday's tomorrow, at typically we don't have serious lessons on Friday. This is not a real entry, just some observations.
