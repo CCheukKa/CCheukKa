@@ -6,6 +6,16 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ---
 
 # Table of Contents <!-- omit in toc -->
+
+<!-- 
+> Key:
+> - 🧠 - Personal anecdotes
+> - 👁‍🗨 - Objective narratives
+> - 🎭 - Emotions and thoughts
+> - 💬 - Theories; abstract discussions; vague matters
+> - 🔮 - Meta matters
+-->
+
 - [2021](#2021)
   - [September](#september)
     - [26-09-2021](#26-09-2021)
