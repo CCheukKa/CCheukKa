@@ -50,7 +50,6 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Typhoon Lionrock strikes](#typhoon-lionrock-strikes)
 
 ---
----
 
 # 2021
 
