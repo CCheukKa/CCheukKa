@@ -69,6 +69,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Lecture time allocations](#lecture-time-allocations)
     - [22-10-2021](#22-10-2021)
       - [Samples taken for body-check](#samples-taken-for-body-check)
+    - [23-10-2021](#23-10-2021)
+      - [Mathematics midterm](#mathematics-midterm)
 
 ---
 
@@ -251,3 +253,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 22-10-2021
 #### Samples taken for body-check
 > This would just be a short entry. This morning I went to a medical diagnostic laboratory in Sha Tin to have my samples taken. It was the body-check I mentioned I'd like to do. I had a chest x-ray, ECG, and my blood and urine samples taken. The needle used for the blood sample is really uncomfortable for reasons I can't explain. Perhaps it was purely psychological but the nurse seemed to have some trouble taking a second vial of blood. Either way, I'm quite tired now 'cus I didn't sleep much last night. I guess I'll have a nap before starting studying for the Maths midterm tomorrow.
+
+### 23-10-2021
+#### Mathematics midterm
+> Today was the midterm. I'll cut straight to the chase: it did not go well. Let's not mention those that I couldn't do yet. I did some tallying after the exam, and I found that I have lost at least 22 points just because of careless mistakes, and that was already a generous estimate. I have no clue how I managed do perform so poorly. Time constraint was definitely one of the reasons. I literally figured out the solution at the very last moment but I couldn't finish writing it down. I would make an excuse that the TA wasted my time by not communicating what he wanted clearly and properly when checking my Student ID. I have no clue what was wrong with him but he acted like he was mute and resorted to only gesturing, resulting in about half a minute of wasted time. You might think 30 seconds wouldn't make much of a difference but I could vividly remember that he killed my train of thought and my momentum simply due to his incompetence. It's not like he couldn't speak Cantonese either, because I know we have conversed in Cantonese before. That aside, there really only were 3 questions that I legitimately had no clue, two short questions, and a part of a long question. I would say I did great just based on that, but for the questions that I did know the solution for, I messed up due to simply being careless. It was dumb. It's not like I didn't practise beforehand, although I would add that the format of the paper changed from year to year without rhyme or reason. The whole thing was 90 minutes long, with 25 questions totalling to 150 points. I heard that one would need to attain 90% to get an A although I doubt the source of this information is accurate. I suppose there is no point crying over spilt milk. There *is* still a Physics midterm coming so I should get prepared for that seeing it would be much harder than this Maths midterm.
+
