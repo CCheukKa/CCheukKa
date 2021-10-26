@@ -75,6 +75,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Rushed "group" assignments](#rushed-group-assignments)
     - [25-10-2021](#25-10-2021)
       - [iPad arrived](#ipad-arrived)
+    - [26-10-2021](#26-10-2021)
+      - [Fridge arrived](#fridge-arrived)
 
 ---
 
@@ -269,3 +271,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 25-10-2021
 #### iPad arrived
 > Finally today is the day where I can acquire the long-awaited iPad. I have ordered it at the start of October and I have waited basically a whole month for it to arrive. I would finally be able to do work relatively easily and go paperless once and for all. Gone are the times where unorganised papers would haunt my dreams. I wouldn't even need to carry much around anymore, and would't have to worry about whether I *have* all the stuff that I'd need, because the iPad *would* be what I'd need. I realise I sound like a caveman who just figured out the purpose of a stick, but aren't we all cavemen behind this superficial mask? I'm still in the middle of figuring things out and setting things up. I would estimate it could be fully operational later this week once I buy the iPad cover and screen protector, lest it somehow slip through the cracks between my fingers. I guess I do have the Apple care plan so it wouldn't be too great of a deal if that should happen. Technology is such a marvel; and wow, am I old.
+
+### 26-10-2021
+#### Fridge arrived
+> My roommates and I had decided that we would like to have a fridge in our room. One of them had ordered one and it arrived today. He had been giving us the impression that it would be a small mini-fridge type thing but it is actually a full-blown small fridge, measuring at 50×50×90 cm³. I guess a small one wouldn't have costed $1500 but it's not like I had bought a fridge before to know their price anyway. It was so big we could barely find a place to house it. Honestly I have no clue why we even bought it but I guess it does have some uses. It is brand new too. I guess I didn't realise how good fridges can be when they are new. All the fridges I have encountered in my life barely functions, but I guess that should be more due to how full they are. I don't suppose I should keep talking about fridges. They can only get so interesting. One more thing I'd like to to note is that I had to move it from the "streets" where the delivery guy had dropped it at up to our room by myself 'cus I was the only one free at that time. It was mildly difficult and the hard nylon strings/ropes/zipties hurt my palm a lot. I don't believe we have come to a consensus about its fate once the year was up and we would have to move out, but I guess we would have until May to figure that out.
