@@ -79,6 +79,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Fridge arrived](#fridge-arrived)
     - [27-10-2021](#27-10-2021)
       - [Midnight oil](#midnight-oil)
+    - [28-10-2021](#28-10-2021)
+      - [Shaw-lane with CNok](#shaw-lane-with-cnok)
 
 ---
 
@@ -285,3 +287,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > To be honest, I admire Martin. He is as hard-working as one can be. He has that kind of determination to improve and to tackle what he is not good at. He didn't take Physics nor M2 in secondary school but he's getting the hang of it extremely quickly, with generous amounts of assistance from myself. He undertook a lot of work, curricular and extra-curricular, I'd even say more than he could chew, but he somehow manages, for now. He didn't come from the best school and it was even a Chinese secondary school which makes it extra hard for him to re-learn everything in English. He is coping insanely well and I have no clue how. I have witnessed for the past 2-3 weeks how packed his schedule is and how he is constantly working on assignments and studying non-stop, all-the-while being in a zhong and helping with an event of his college. I would say he has worked harder within this week than I have been this whole month. I too, have more than a handful of assignments, exams, and tasks hanging in front of me at any time. I can already tell I will be struggling with them immensely next week and I'm not looking forward to it. I guess at least there will be a day off on Friday 29/10 due to some CUHK holiday so I can't say it is as bad as it would have been.
 >
 > I think I had more I'd like to say when I started this but it is already 03:54 as of this very sentence, so I guess I should be signing off now.
+
+### 28-10-2021
+#### Shaw-lane with CNok
+> CNok had spontaneously decided to come to CUHK for some reason. I got a phone call from him right after my classes ended. It just so happened that there is an event celebrating the anniversary of Shaw College. So we met up and went to the event. We missed the first part of the event where there were booths selling different stuff. But we were in time for the show. There was a stage where singers were invited to perform on. The crowd was so huge we could barely see a thing so I tried to sneak our way to the back. Anyway, we got in and honestly I found it mildly boring. We stood there listening for a while before I toured him the study common of Shaw College. We headed back out to the performance half an hour before it ended and we soon left the place. It may sound dull but honestly it is just because I am currently too tired to have any motivation to continue writing. Actually, CNok invited me to stay in his hostel for the night just for the fun or it, but considering my midterms and stuff I kindly declined his offer. Honestly it ended a lot sooner than I had thought, but I guess there is an intrinsic limitation as to how late an event can go on until, since you wouldn't want people stranded in CUHK with the MTR and other commute options all shut down. I guess it's a shame really. There is not much to write about, again because of my lacking energy, so this would be it I guess.
