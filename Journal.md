@@ -83,6 +83,9 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Shaw-lane with CNok](#shaw-lane-with-cnok)
     - [29-10-2021](#29-10-2021)
       - [Medical concerns](#medical-concerns)
+  - [November](#november)
+    - [1-11-2021](#1-11-2021)
+      - [18th birthday](#18th-birthday)
 
 ---
 
@@ -297,3 +300,17 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 29-10-2021
 #### Medical concerns
 > I got the aforementioned body check report back. It wasn't too interesting barring some technical shenanigans with age and reference values, except for one note. Apparently, from the ECG, the posterior left ventricular nerve of my heart is slower than usual, whatever that means. I for once, had never heard of a diagnosis such as that. From the little medical knowledge that I have, I believe it should only lead to a decrease in cardiac output without much significant impact. But I guess if the analysis had deemed it noteworthy, then I should probably pay some attention to it. My dad requested a referral to Cardiology, so I guess I'll have to wait for that.
+
+## November
+
+### 1-11-2021
+#### 18th birthday
+> Yes I do feel old. To be honest, it is rather funny to have such a seemingly monumental celebration to this rather insignificant number set by the law. But I'm not here to talk about psychology and sociology, so let's get to the point.
+>
+> I woke up quite early in the morning to study for my dreaded Anatomy and Physiology midterm exam. I got in 3 hours of studying before I had to attend my Maths class. Louis and I went to ***Café Tolo*** in ***Lee Woo Sing College***. I had an all-day breakfast with hot chocolate, a waffle, and ice cream while he had waffles and ice cream. It was good, but rather expensive. Though perhaps I would eat there again if I could get someone with the discount to tag along. During the "meal", Efren texted me out of nowhere that he would like to come to CUHK just because and sit-in my Maths class. He ended up arriving 10 minutes before the lecture ended, and he decided it should be best not to come in to the classroom and ended up waiting outside standing. I toured him around CUHK for a bit before starting to head back to the MTR station. I wanted to get something from my hostel place on the way and he managed to sneak into it where so many others had failed. We then went to ***Langham Place*** where CNok proposed before waiting for something like half an hour before he and Samuel arrived. He was supposed to have booked a restaurant but apparently he hadn't. Fortunately, we only had to walk around the mall for less than 5 minutes before we were given a table in that moderately crowded restaurant.
+>
+> It was some sort of hands-on Japanese hot plate meal thing. We had to cook and assemble the food on the hot plate ourselves. I cannot imagine this is a very risk-free business model with all the hot oil and smoke flying all over the place. It was quite an interesting (and exhausting) experience to have to cook and assemble the things like that. Actually, the dishes were quite sophisticated that we had to read the tutorial to know what to do with them. Honestly, all the flipping and stuff went much more swimmingly than I had expected. There wasn't much else too noteworthy expect it made my clothes and bag reek of oil and smoke even until the writing of this a day later.
+>
+> After the meal, we travelled to Tsim Sha Tsui and sat along the Victoria Harbour. CNok brought out a blueberry cheesecake with a piece of chocolate with my name on it, and starting taking pictures and whatnot. The cake was honestly less tasty than it should've been given how expensive it was but ultimately not too disappointing. CNok then gifted me a satchel. From what I managed to overhear, they all paid for it together so it's not like it was coming from only him.
+>
+> Like I said, I never cared about ceremonious stuff too much. So really the get-together itself was enough of a celebration. I'm not too sure why I don't have too much to talk about right here, but as for most things, I tend to have to take time to have them sink in before I can formulate an opinion. I guess I'll have to wait for a while before that manifests itself in me. But for now, the most prominent manifestation is the logistical nuisance that comes with it, namely having to get my credentials, bank accounts, and declarations registered or modified.
