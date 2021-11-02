@@ -81,6 +81,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Midnight oil](#midnight-oil)
     - [28-10-2021](#28-10-2021)
       - [Shaw-lane with CNok](#shaw-lane-with-cnok)
+    - [29-10-2021](#29-10-2021)
+      - [Medical concerns](#medical-concerns)
 
 ---
 
@@ -291,3 +293,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 28-10-2021
 #### Shaw-lane with CNok
 > CNok had spontaneously decided to come to CUHK for some reason. I got a phone call from him right after my classes ended. It just so happened that there is an event celebrating the anniversary of Shaw College. So we met up and went to the event. We missed the first part of the event where there were booths selling different stuff. But we were in time for the show. There was a stage where singers were invited to perform on. The crowd was so huge we could barely see a thing so I tried to sneak our way to the back. Anyway, we got in and honestly I found it mildly boring. We stood there listening for a while before I toured him the study common of Shaw College. We headed back out to the performance half an hour before it ended and we soon left the place. It may sound dull but honestly it is just because I am currently too tired to have any motivation to continue writing. Actually, CNok invited me to stay in his hostel for the night just for the fun or it, but considering my midterms and stuff I kindly declined his offer. Honestly it ended a lot sooner than I had thought, but I guess there is an intrinsic limitation as to how late an event can go on until, since you wouldn't want people stranded in CUHK with the MTR and other commute options all shut down. I guess it's a shame really. There is not much to write about, again because of my lacking energy, so this would be it I guess.
+
+### 29-10-2021
+#### Medical concerns
+> I got the aforementioned body check report back. It wasn't too interesting barring some technical shenanigans with age and reference values, except for one note. Apparently, from the ECG, the posterior left ventricular nerve of my heart is slower than usual, whatever that means. I for once, had never heard of a diagnosis such as that. From the little medical knowledge that I have, I believe it should only lead to a decrease in cardiac output without much significant impact. But I guess if the analysis had deemed it noteworthy, then I should probably pay some attention to it. My dad requested a referral to Cardiology, so I guess I'll have to wait for that.
