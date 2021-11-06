@@ -84,11 +84,13 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [29-10-2021](#29-10-2021)
       - [Medical concerns](#medical-concerns)
   - [November](#november)
-    - [1-11-2021](#1-11-2021)
+    - [01-11-2021](#01-11-2021)
       - [18th birthday](#18th-birthday)
-    - [3-11-2021](#3-11-2021)
+    - [03-11-2021](#03-11-2021)
       - [Anatomy and Physiology midterm 1](#anatomy-and-physiology-midterm-1)
-    - [6-11-2021](#6-11-2021)
+    - [04-11-2021](#04-11-2021)
+      - [Zhong profile picture](#zhong-profile-picture)
+    - [06-11-2021](#06-11-2021)
       - [Physics midterm 1](#physics-midterm-1)
 
 ---
@@ -307,7 +309,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ## November
 
-### 1-11-2021
+### 01-11-2021
 #### 18th birthday
 > Yes I do feel old. To be honest, it is rather funny to have such a seemingly monumental celebration to this rather insignificant number set by the law. But I'm not here to talk about psychology and sociology, so let's get to the point.
 >
@@ -319,7 +321,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 >
 > Like I said, I never cared about ceremonious stuff too much. So really the get-together itself was enough of a celebration. I'm not too sure why I don't have too much to talk about right here, but as for most things, I tend to have to take time to have them sink in before I can formulate an opinion. I guess I'll have to wait for a while before that manifests itself in me. But for now, the most prominent manifestation is the logistical nuisance that comes with it, namely having to get my credentials, bank accounts, and declarations registered or modified.
 
-### 3-11-2021
+### 03-11-2021
 #### Anatomy and Physiology midterm 1
 > I just finished taking the midterm exam for Anatomy and Physiology and I don't think it could've gone much better. It was a Multiple-Choice test with 21 questions to be answered in 30 minutes. I was able to do a first pass in 8 minutes with only 3 questions I was unsure about. I guess I could say it had gone rather smoothly, as smoothly as it could ever have been. I have spent so much time in the past week studying for it, something around 40+ hours, which was definitely more longer than I have studied for any one subject. But, I don't think this title was just since a lot of those hours could be saved had I been actually paying attention during the lectures. I spent time with my friends studying and also an entire weekend studying in my hostel place. While I can't say all of those hours were spent as effectively as they could have been, they were definitely not unproductive. Honestly I think some of the hours spent studying with my friends were more productive than those alone, although it varied quite dramatically.
 > 
@@ -329,6 +331,18 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 >
 > There isn't much else to mention except we also had another practical session after the exam, which wasn't too noteworthy except for what had already been mentioned in the previous entry about practicals. Physics midterm is coming on 06/11, so I should probably start studying for it now.
 
-### 6-11-2021
+
+
+
+
+
+
+
+
+### 04-11-2021
+#### Zhong profile picture
+> Today we went to ***CWC College*** to get our profile pictures for the zhong documents taken. That was the very first time I went to ***CWC***. Anyway, I was something like 2 hours late since I had a College General Education Class at the same time we decided to do this. Everyone had finished their solo profile picture by then so I hurried to the spot and proceeded to take a really long time to take a whole series of photos. I was really never a photo-philic kind of person but since Kody said to take my time I really took my time. Apparently I took a really long time compared to everyone else but in my defence, I never knew that, and Kody wasn't seeming particularly annoyed by it so I thought it was fine. Either way, we then took a whole bunch of group pictures with all sorts of formations (most of them turned out horrible) and even some sitting on the road. We ended when the sun started going down. The dress code was that we had to wear the zhong T-shirt and jeans. And I'll say it right here: I *hate* jeans. They are really as uncomfortable as an article of clothing can get. The creases it would make at the posterior of your knees whenever your knee bend even slightly are absolutely irritating. Unless they are made of really thin fabric, this problem would be there no matter what. Moreover, their pockets are never deep enough for anything, and their positioning is horrendous. Maybe I'll talk some other time about my grunt with various species of clothing, lest this become an endless rant.
+
+### 06-11-2021
 #### Physics midterm 1
 > Honestly, I basically winged this midterm. Partly because I didn't have much motivation to study it, partly because I had no clue how to even study it in the first place. Either way, I basically did the least amount of preparation possibly; any less and it wouldn't have counted at all. I skimmed through the lecture slides, did some past papers to no avail, and typed up a cheat sheet (Yes it was allowed). Surprisingly, I'd say it went the most smoothly among all the midterms. I had time remaining for some reason, to perform double-checks and self-doubt. Interestingly, the most challenging parts of the entire Physics midterm were questions that involved more Maths than Physics, where you had to do a lot lot of algebra to prove something. The cheat sheet honestly didn't really help much 'cus I don't think you would really need a cheat sheet or formula list if you are familiar with the curriculum. I don't think I've referenced the formula list at all in my DSE, except for the Einstein(?) atomic stuff. Anyway, after sessions of peer-cross-checks, I was feeling pretty confident about my performance. Honestly I have no clue what this entry would be about when I started writing it but I kinda feel like I should write something, so this is that.
