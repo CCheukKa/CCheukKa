@@ -89,13 +89,13 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [03-11-2021](#03-11-2021)
       - [Anatomy and Physiology midterm 1](#anatomy-and-physiology-midterm-1)
     - [04-11-2021](#04-11-2021)
-      - [Zhong profile picture](#zhong-profile-picture)
+      - [Zhong profile picture taking](#zhong-profile-picture-taking)
     - [06-11-2021](#06-11-2021)
       - [Physics midterm 1](#physics-midterm-1)
     - [09-11-2021](#09-11-2021)
       - [Maths midterm results](#maths-midterm-results)
     - [13-11-2021](#13-11-2021)
-      - [Promotion period](#promotion-period)
+      - [Zhong promotion period](#zhong-promotion-period)
 
 ---
 
@@ -344,7 +344,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 
 ### 04-11-2021
-#### Zhong profile picture
+#### Zhong profile picture taking
 > Today we went to ***CWC College*** to get our profile pictures for the zhong documents taken. That was the very first time I went to ***CWC***. Anyway, I was something like 2 hours late since I had a College General Education Class at the same time we decided to do this. Everyone had finished their solo profile picture by then so I hurried to the spot and proceeded to take a really long time to take a whole series of photos. I was really never a photo-philic kind of person but since Kody said to take my time I really took my time. Apparently I took a really long time compared to everyone else but in my defence, I never knew that, and Kody wasn't seeming particularly annoyed by it so I thought it was fine. Either way, we then took a whole bunch of group pictures with all sorts of formations (most of them turned out horrible) and even some sitting on the road. We ended when the sun started going down. The dress code was that we had to wear the zhong T-shirt and jeans. And I'll say it right here: I *hate* jeans. They are really as uncomfortable as an article of clothing can get. The creases it would make at the posterior of your knees whenever your knee bend even slightly are absolutely irritating. Unless they are made of really thin fabric, this problem would be there no matter what. Moreover, their pockets are never deep enough for anything, and their positioning is horrendous. Maybe I'll talk some other time about my grunt with various species of clothing, lest this become an endless rant.
 
 ### 06-11-2021
@@ -358,5 +358,5 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > *Post-script:* Honestly this semester felt more like a whole year than barely half of it. I guess things are just moving at a different pace than I'm used to. I'll probably have more insights once the semester actually ends, so let's wait and see.
 
 ### 13-11-2021
-#### Promotion period
+#### Zhong promotion period
 > It's now supposedly the promotion period for my zhong (and most other ones). The pictures that we took before, it was for this. The design team whipped up profile pictures for everyone and started making posts on Instagram. Apparently I'm the first person to have their post posts, alongside with a brief text about myself that I've written, strangely in third-person as requested, as though someone else was introducing us. They had us change all our profile pictures on Instagram to be that. We'll also have a banner and tons of other things. I realise I haven't yet stated this, but the promotion period is the period of time where zhongs have to make promotional material to basically make themselves known. Honestly I don't see the reason why this is necessary but I guess it's a kind of tradition. Not all types of traditions are good, honestly most of them are bad, but this one I'm mildly fond of. Apparently most zhongs are having their members "dem beats" but mine doesn't even have a beat to begin with. It's rather interesting that a zhong can be so chill that its beat is non-existent. I guess it's both a blessing and a curse. It's supposed to be really demanding and "chur", as seen in my one of my roommates; but on the other hand, it's an interesting experience and something that's unique to Hong Kong university culture. Either way, where people from other zhongs may be busy with the promotional period, I'm still busy with actual zhong tasks with emails flooding in. I'll still have to refine the consultation document after this. Good news is, as busy as I may be, I'm starting to regain control of my own tasks and to-dos, which was the most helpful thing I could ever have done. It's not to say that I'm not busy or my schedule not packed in any way, it's just that my mind is no longer as clouded as I had been this past two or so weeks. At any rate, I should really get going.
