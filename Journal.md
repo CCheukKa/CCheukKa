@@ -98,6 +98,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Zhong promotion period](#zhong-promotion-period)
     - [19-11-2021](#19-11-2021)
       - [Zhong new beginnings?](#zhong-new-beginnings)
+    - [21-11-2021](#21-11-2021)
+      - [Zhong war begins](#zhong-war-begins)
 
 ---
 
@@ -328,3 +330,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > We then went to the library for further planning. I still hadn't chosen sides yet at that point, since I hadn't been too close with the people on "this side" barring a few. However, they managed to show the passion and determination to win this war that I failed to see on "the other side". They kept asking and inviting members of the previous zhong to consult and plan with. They managed to lock the P and IVP out of the Instagram and Google account of the zhong, lest they delete them to erase evidence. They had already made plans for the entire work distribution, consultation, and promotional period within the short 4 hours, something that didn't happen in the old zhong in the two months we've established. I was finally convinced that this *would* be the zhong I'd like to be a part of instead of the mess we had before.  
 > To make a long story short, we'd had to wait until today for the P and IVP to make their decisions. And finally they did. They resigned in the group with the previous zhong, along with two of their supporters. Wales also quitted since he absolutely despised messes of social interactions. Now we are working on a (somewhat) fresh canvas, with Kart being the new P, the old EVP staying EVP, and Marting being IVP. We definitely had much more passion and ambition than before. While I can't say we would be successful, I can say that at least this would be more productive than whatever we had before.  
 > *Post-script:* This is already as short as I could possibly make this story. I have **definitely** missed something or made mistakes somewhere, but I hope the general plot/flow of the story made sense. I tried to be as unbiased as I could be in the narrative but of course we all know that it is rather impossible. I had decided to lay out the story in chronological order instead of the order I experienced it in, since I decided the alternative would be more confusing despite being more dramatic and movie-like with all its betrayal and last-minute plot twists. There will definitely be more entries regarding this. This isn't anything that you'd see every day, and frankly I don't believe this had even ever happened in CUHK before, so either way we're making history.
+
+### 21-11-2021
+#### Zhong war begins
+> I told you things were never going to be that simple. We immediately started working on stuff for the new zhong assuming that would be the end of this whole ordeal, but today the other side just announced they are going to battle us to the death. Fuck. You can initiate a battle well after resignation? My brain is on the verge of melting and shit. I had been working on assignments for the whole night and now this. You can tell my brain is beyond messy but I guess I can't be anymore, not if I'd like us to come out on top. Emergency meetings would be extremely frequent and demanding, on top of the piled up assignments and projects, wish me luck. First in CUHK history, I guess.
