@@ -105,6 +105,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Flopped BMEG presentation](#flopped-bmeg-presentation)
     - [24-11-2021](#24-11-2021)
       - [Physics midterm results released](#physics-midterm-results-released)
+    - [25-11-2021](#25-11-2021)
+      - [Year 1 Semester 2 course registration](#year-1-semester-2-course-registration)
     - [26-11-2021](#26-11-2021)
       - [Taxis can fly](#taxis-can-fly)
       - [Anatomy and Physiology CA1 results released](#anatomy-and-physiology-ca1-results-released)
@@ -350,6 +352,18 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 24-11-2021
 #### Physics midterm results released
 > The results of my physics midterm examination had been released today. I got 93.5% in it. As mentioned, it felt rather easy at the time, and it sure seemed so now. Despite this, it shalln't be used as an example to be followed since I skipped practically all lectures and tutorials of Physics barring the first few, and I meant "*all*" when I said "all". I'm in a kind of special relationship with Physics, I would say. It was the subject that I banked the most on achieving a 5** in in the HKDSE, and hence it was the most disappointing to not have a 5** in, alongside with Maths. So I'd say I kinda have a grunt towards Physics. It's not like I dislike Physics or anything, it's just that it can be annoying at times. I guess I could say tha same about Maths, seeing that university-level Physics is basically applicable Maths with more flare anyway. Either way, I guess it was somewhat justified since the syllabus mostly covered stuff that I already had the fundamentals nailed in my secondary school years - actually not really, since it now apparently involves more derivatives and integrations than the Maths paper. "Like" is a strong word but I genuinely think I like Physics. The way it makes you think and reconsider interactions based seemingly on intuition, and makes you wonder what makes this whole world tick. It allows you a playground in which you can express your logic and proficiency in the subject matter to a satisfying degree, but not too boundless and ungrounded as pure Mathematics can sometimes be. No matter how complex the proposed scenario might be, it would always work at the very end. A solution will *always* exist, since basically the entirety of existence itself banks on it. I'd say it would be very rare that you couldn't visualise a Physics scenario with enough comprehension of it. But that was enough of me being a salesperson for a field of science. The point is, I have no idea what the point I was trying to express was. Physics is quite beautiful I guess (when excessive amounts of calculus aren't involved).
+
+
+
+
+
+
+
+
+
+### 25-11-2021
+#### Year 1 Semester 2 course registration
+> It is that time again. I spent so long preparing for it and yet everything was to be decided simply by how soon we click a single button once the clock struck 20:30 sharp. I have so many problems with this system, as do every single human being to have ever used it. Out of the top of my head, I can already think of a handful of better solutions. In conjunction with the auxiliary tools, or rather, the lack of, the system seemed to be designed to be hostile towards students to make their experience and the courses they subsequently have to take as miserable as possible. I have come across with a lot of custom-made tools and applications specifically for CUHK students: shuttle bus app, timetable manager, school information hub, just to name a few. Apparently our IT department is either too incompetent or just couldn't care enough to do their job properly to serve the university's students. Again, this project would probably never be done if I fail to create a working prototype before my initial influx of energy and determination had subsided, but I have started working on a timetable planner system to aid students in course registration. I tend to waste a lot of time on random programming projects during my free time anyway, so I thought this would be quite a useful way to waste time during the semester break, or some other holiday. If no further entries about this project were to exist, it would very likely mean that the project was long forgotten and had faded into obscurity, like so many other ones had.
 
 ### 26-11-2021
 #### Taxis can fly
