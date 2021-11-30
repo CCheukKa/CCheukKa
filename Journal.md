@@ -112,7 +112,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Anatomy and Physiology CA1 results released](#anatomy-and-physiology-ca1-results-released)
       - [Some zhong meal/gathering](#some-zhong-mealgathering)
     - [29-11-2021](#29-11-2021)
-      - [Stuffed llama toys in CUHK](#stuffed-llama-toys-in-cuhk)
+      - [Stuffed alpaca toys in CUHK](#stuffed-alpaca-toys-in-cuhk)
 
 ---
 
@@ -375,5 +375,5 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > After the meal, however, I had the bright idea to walk our way back to CUHK, and for some godforsaken reason, they entertained the idea. We got some ice cream along the way at least. We had to walk right through the *Fo Tan* MTR station, just to get to the pedestrian walking, which I found funny. We ended up walking 4km along Tai Po Road, which took 50 minutes. Honestly, it was a rather enjoying walk, with all of us chatting and delivering plastic. They blasted some music but that led to some dumb shenanigans. We took some pictures at the entrance to ***Chung Chi College*** and that was pretty much the end of it. Who knew an unplanned walking trip could be that interesting?
 
 ### 29-11-2021
-#### Stuffed llama toys in CUHK
-> I was walking with Martin in CUHK at night and came across two stuffed llama toys just laying next to garbage pins. Seeing that they weren't dirty and didn't have any tears, I decided to bring them with me. We walked around CUHK with them, much to the amusement of other pedestrians. Since we were originally intending to go to a study room to work on our assignments or study, we just brought them into the room. It wasn't too eventful since the study room was isolated and there were only the two of us. However, when it was past its operating hours, we were asked to leave and had to continue at the ***Chung Chu College Library*** which was nearby. I found it quite funny when I walked in willy-nilly with two huge stuffed toys in my arms. As of the writing of this, I just finished my assignment, and we are still sitting in the library with the two huge stuffed toys beside us on the table. I guess I'll have to disinfect them either way before I should further handle them.
+#### Stuffed alpaca toys in CUHK
+> I was walking with Martin in CUHK at night and came across two stuffed alpaca toys just laying next to garbage pins. Seeing that they weren't dirty and didn't have any tears, I decided to bring them with me. We walked around CUHK with them, much to the amusement of other pedestrians. Since we were originally intending to go to a study room to work on our assignments or study, we just brought them into the room. It wasn't too eventful since the study room was isolated and there were only the two of us. However, when it was past its operating hours, we were asked to leave and had to continue at the ***Chung Chu College Library*** which was nearby. I found it quite funny when I walked in willy-nilly with two huge stuffed toys in my arms. As of the writing of this, I just finished my assignment, and we are still sitting in the library with the two huge stuffed toys beside us on the table. I guess I'll have to disinfect them either way before I should further handle them.
