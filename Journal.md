@@ -7,15 +7,6 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 # Table of Contents <!-- omit in toc -->
 
-<!-- 
-> Key:
-> - 🧠 - Personal anecdotes
-> - 👁‍🗨 - Objective narratives
-> - 🎭 - Emotions and thoughts
-> - 💬 - Theories; abstract discussions; vague matters
-> - 🔮 - Meta matters
--->
-
 - [2021](#2021)
   - [September](#september)
     - [26-09-2021](#26-09-2021)
@@ -113,6 +104,9 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Some zhong meal/gathering](#some-zhong-mealgathering)
     - [29-11-2021](#29-11-2021)
       - [Stuffed alpaca toys in CUHK](#stuffed-alpaca-toys-in-cuhk)
+  - [December](#december)
+    - [07-12-2021](#07-12-2021)
+      - [Finals approach](#finals-approach)
 
 ---
 
@@ -377,3 +371,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 29-11-2021
 #### Stuffed alpaca toys in CUHK
 > I was walking with Martin in CUHK at night and came across two stuffed alpaca toys just laying next to garbage pins. Seeing that they weren't dirty and didn't have any tears, I decided to bring them with me. We walked around CUHK with them, much to the amusement of other pedestrians. Since we were originally intending to go to a study room to work on our assignments or study, we just brought them into the room. It wasn't too eventful since the study room was isolated and there were only the two of us. However, when it was past its operating hours, we were asked to leave and had to continue at the ***Chung Chu College Library*** which was nearby. I found it quite funny when I walked in willy-nilly with two huge stuffed toys in my arms. As of the writing of this, I just finished my assignment, and we are still sitting in the library with the two huge stuffed toys beside us on the table. I guess I'll have to disinfect them either way before I should further handle them.
+
+## December
+### 07-12-2021
+#### Finals approach
+> It has been very long since the last entry, my longest hiatus yet. I thought this entry would serve as an update to everything that's going on. First off, the finals are coming, starting from 10/12, until 15/12. Let's not dwell on the fact that I have basically no hope of studying in time just yet. 10/12 would be when my Physics final examination would be, and it just so happen to coincide with the deadlines of *two* college general education term papers. I have no clue why they even exist in the first place, considering general education courses are supposed to relatively chill and smooth-sailing, not to mention the plurality of which. That alone is exotically dumb. However, on top of that, the deadlines are also purposefully set in a way that it would guarantee time conflicts with students' revision schedule. Why on earth does this college exist at all anyway. While it may be true that it is relatively trivial to get good grades in the college general education courses if you at least tried a little, it also comes with a price, namely the sacrifice of other courses. Is this a fair trade-off? I mean the *two* college general education courses do account for 6 credits in total, so maybe I should take this deal and focus on the term papers- ***fuck no***. No one should be made to make this horrible decision between a rock and a hard place. Why in the fuck is chung chi college this sadistic? Yes I didn't capitalise or bold or italicise it 'cus it does not deserve any respect at all. All of these might as well be some satanic ritual for all I care, it's not like it's any different from carving my heart out to be sold to the devil. As things stand, I have just finished the second ***Anatomy and Physiology*** continuous assessment, and now I have precisely 2 days left to finish two term papers and to revise for the Physics final. You might think I have terrible time management and that's the cause of this whole ordeal but I can assure you that it is not true. I don't think I have stopped working since the beginning of October, and I haven't even stepped out of CUHK for more than a month, barring the few hours as in *[Taxis can fly](#taxis-can-fly)*. I already have more than enough of actual work to be done, and now this shit popped up. I could've put them in my well-beyond-saturated to-do list, *IF THEIR TOPICS WERE ANNOUNCED MORE THAN A WEEK BEFORE THEY'RE DUE!* I can't stress this enough but it is excessively abusive. No one in this world should be given this stupendous amount of workload just for an insignificant college general education course - oh did I say *a* college general education course? 'cus by "a" I meant two courses plus weekly assemblies. I'm saying it right now, that I'm not giving these shitty papers more than 10 hours combined, and that is already too much time allotted. I don't care that the title of this entry implies this would be oriented around the final examinations. Don't expect these kind of rants to ever stop until I graduate, because as long as this abysmal college share the same dimension as me, I would be suffering in more ways than one.
