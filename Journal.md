@@ -110,6 +110,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Anatomy and Physiology CA2](#anatomy-and-physiology-ca2)
     - [10-12-2021](#10-12-2021)
       - [Physics final examination](#physics-final-examination)
+    - [13-12-2021](#13-12-2021)
+      - [Calculus final examination](#calculus-final-examination)
 
 ---
 
@@ -385,3 +387,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 10-12-2021
 #### Physics final examination
 > Right off the bat, I'll admit that I did not study as much as I should. Honestly, I didn't even prepare at all, except for making the cheat sheet. But, despite this atrocity, I do believe I performed rather well in the exam. This entire week has been a mess. My sleeping and working schedule was haywire and I have no clue what was going on half the time. I don't believe I have much else to say about this other than what I have already said for the mid-term exam. Though one thing I would like to add is that, I found it quite funny why a senior who is currently in Year 3 asked me for help for this examination. He dropped this course once, failed once, and thus had to take it in his third year. Anyway, I have a very annoying book report to finish before 23:59 tonight, and it is already 18:43 as of the writing of this right after the exam had finished. Actually, I had two essays due tonight, and fortunately I had to foresight to give up my sleeping schedules to squeeze time to finish it the previous day/night/twilight(?). But at any rate, I should get going.
+
+### 13-12-2021
+#### Calculus final examination
+> This was the most dreadful examination I have ever done in my entire life. It was pure misery. I studied quite a lot to be fair but I just can't seem to be able to quite to them. In a lot of the questions, I have a solid lead and solid idea of how I could tease the answer out off the question, but I just couldn't quite execute the calculation itself. And it's not like I didn't understand the theorems and tricks either. I feel like I was stuck in Mathematics in a way I have never been before. The paper wasn't quite structured in a way that one could wrestle some partial credit either. I just don't know. I don't think I have ever been this unconfident ever after an exam.
