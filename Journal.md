@@ -112,6 +112,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Physics final examination](#physics-final-examination)
     - [13-12-2021](#13-12-2021)
       - [Calculus final examination](#calculus-final-examination)
+    - [14-12-2021](#14-12-2021)
+      - [Chinese final examination](#chinese-final-examination)
 
 ---
 
@@ -391,3 +393,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 13-12-2021
 #### Calculus final examination
 > This was the most dreadful examination I have ever done in my entire life. It was pure misery. I studied quite a lot to be fair but I just can't seem to be able to quite to them. In a lot of the questions, I have a solid lead and solid idea of how I could tease the answer out off the question, but I just couldn't quite execute the calculation itself. And it's not like I didn't understand the theorems and tricks either. I feel like I was stuck in Mathematics in a way I have never been before. The paper wasn't quite structured in a way that one could wrestle some partial credit either. I just don't know. I don't think I have ever been this unconfident ever after an exam.
+
+### 14-12-2021
+#### Chinese final examination
+> Honestly, I didn't think I would cross paths with Chinese after HKDSE but turns out I was so dead wrong. But I guess for all it's worth, the Chinese composition went better than I had thought. At least I managed to squeeze my residual brain cells ideas and wrote something moderately quality. I guess writing is really a process of exploration and self-reflection, as I could clearly say as of the writing of this. Speaking of language, I find myself deteriorating in terms of vocabulary and general writing quality ever since I have been in university, both Chinese and English. Honestly, I found it extremely odd that this would be the case. Of all things, I would've thought the abundance of non-locals would help to make this environment more academically-oriented, and that English would play a more prominent role in the picture. But it seems that my SJC is somehow more internationalised than CUHK. I really need to get working on my language, lest they forever leave me and become a thing of the past, as proven in today's examination where I managed to forget how to write a lot of very common words. What a weird place I am in right now.
