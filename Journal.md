@@ -147,16 +147,6 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [12-01-2022](#12-01-2022)
       - [Farewell Marwin and Marcus](#farewell-marwin-and-marcus)
       - [Dem beat: Day 2](#dem-beat-day-2)
-      - [Year 1 Semester 1 results released](#year-1-semester-1-results-released)
-    - [13-01-2022](#13-01-2022)
-      - [Dem beat: Day 3](#dem-beat-day-3)
-    - [14-01-2022](#14-01-2022)
-      - [Dem beat: Day 4](#dem-beat-day-4)
-      - [Zhong consultation day](#zhong-consultation-day)
-    - [15-01-2022](#15-01-2022)
-      - [Sleep paralysis](#sleep-paralysis)
-    - [??-01-2022](#-01-2022)
-      - [Binge writing](#binge-writing)
 
 ---
 
@@ -526,44 +516,3 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Dem beat: Day 2
 > This time our main audience was Year 4 students, mixed with some Year 3 ones. We rushed in as soon as the lecture ended. And since we came in from the only door, nobody managed to leave before we could start. I think we performed horribly, even worse than yesterday somehow. The synchronisation was horrendous and borderline non-existent. Once again, basically no one spoke anything except myself and Martin. Some of the previous cabinet were also present and they found it quite satisfactory contrary to my thoughts. Apparently some of the previous previous cabinet were *also* present and they found it *not* amusing to have a beat dem'd was such low quality. Ultimately, whatever worked works. If our direct predecessors deemed it satisfactory then so be it. This entry is full of mindless rambling, as you might be able to see. My mind was really clouded since I had just farewell Marwin and Marcus this very morning and I have practically no energy left.
 
-#### Year 1 Semester 1 results released
-> It was really a roller coaster. Of the first few subjects released, my GPA was comfortably above 3.7, until the rest got released, which dramatically killed it. Maybe I should do a table to break them down.  
-> <p style="font-family: monospace;">
-> | Course Title                           | Credit | Grade |  
-> | :------------------------------------- | :----: | :---- |  
-> | Human Anatomy and Physiology 1         |   2    | A     |  
-> | Calculus for Engineers                 |   3    | A-    |  
-> | Engineering Physics                    |   3    | A-    |  
-> | University Chinese 1                   |   3    | A-    |  
-> | College General Education 1            |   2    | A-    |  
-> | College General Education 2            |   1    | B+    |  
-> | Introduction to Biomedical Engineering |   1    | B+    |  
-> | Physical Education                     |   1    | B     |  
-> **Term GPA: 3.644**  
-> </p>
-> As you might be able to see, I performed quite well in all of the high credit courses. I actually attained scores within the A-range for all of the "expensive" courses. Turns out I made pretty decent predictions about these courses. However, apparently I decided to fail every single 1-credit course just because. The entire results of this is rather ridiculous since the harder the course was, the higher my grade had turned out to be. I literally have no comment about this at all, not that I know how to. The one thing I would say is that, in *Introduction to Biomedical Engineering*, I failed to attend for *one* of the lessons, and apparently that gave me a -10% penalty to the final score, which I believe accounts to 2 sub-grades. And coincidentally, this was the *only course* among these that counted to my honour GPA. I practically killed everything. If not accounting for all the 1-credit courses that I B-ranged, my GPA would have been 3.746. Looking forward, if I wish to go for internal transfer, I'd have to attain a cGPA of at least 3.75 across the two semesters, which means I'll have to get at least 3.844 GPA in the next semester with my 18 credit of courses. I don't believe it would be quite achievable to say the least. Why on earth would CUHK offer so many unrelated 1-credit courses??!?!?
-
-### 13-01-2022
-#### Dem beat: Day 3
-Failed
-2
-[TK](!!!)
-
-### 14-01-2022
-#### Dem beat: Day 4
-Raymond Tong
-3
-[TK](!!!)
-
-#### Zhong consultation day
-[TK](!!!)
-
-### 15-01-2022
-#### Sleep paralysis
-root person pulling
-[TK](!!!)
-
-### ??-01-2022
-#### Binge writing
-7 entries + this
-[TK](!!!)
