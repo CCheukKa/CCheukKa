@@ -528,62 +528,19 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 #### Year 1 Semester 1 results released
 > It was really a roller coaster. Of the first few subjects released, my GPA was comfortably above 3.7, until the rest got released, which dramatically killed it. Maybe I should do a table to break them down.  
-> <table style="width: 100%;">
-> <thead>
-> <tr>
-> <th style="text-align:left">Course Title</th>
-> <th style="text-align:center">Credit</th>
-> <th style="text-align:left">Grade</th>
-> </tr>
-> </thead>
-> <tbody>
-> <tr>
-> <td style="text-align:left">Human Anatomy and Physiology 1</td>
-> <td style="text-align:center">2</td>
-> <td style="text-align:left">A</td>
-> </tr>
-> <tr>
-> <td style="text-align:left">Calculus for Engineers</td>
-> <td style="text-align:center">3</td>
-> <td style="text-align:left">A-</td>
-> </tr>
-> <tr>
-> <td style="text-align:left">Engineering Physics</td>
-> <td style="text-align:center">3</td>
-> <td style="text-align:left">A-</td>
-> </tr>
-> <tr>
-> <td style="text-align:left">University Chinese 1</td>
-> <td style="text-align:center">3</td>
-> <td style="text-align:left">A-</td>
-> </tr>
-> <tr>
-> <td style="text-align:left">College General Education 1</td>
-> <td style="text-align:center">2</td>
-> <td style="text-align:left">A-</td>
-> </tr>
-> <tr>
-> <td style="text-align:left">College General Education 2</td>
-> <td style="text-align:center">1</td>
-> <td style="text-align:left">B+</td>
-> </tr>
-> <tr>
-> <td style="text-align:left">Introduction to Biomedical Engineering</td>
-> <td style="text-align:center">1</td>
-> <td style="text-align:left">B+</td>
-> </tr>
-> <tr>
-> <td style="text-align:left">Physical Education</td>
-> <td style="text-align:center">1</td>
-> <td style="text-align:left">B</td>
-> </tr>
-> <tr>
-> <td style="text-align:left"><strong>Term GPA: 3.644</strong></td>
-> <td style="text-align:center"></td>
-> <td style="text-align:left"></td>
-> </tr>
-> </tbody>
-> </table>
+> <p style="font-family: monospace;">
+> | Course Title                           | Credit | Grade |  
+> | :------------------------------------- | :----: | :---- |  
+> | Human Anatomy and Physiology 1         |   2    | A     |  
+> | Calculus for Engineers                 |   3    | A-    |  
+> | Engineering Physics                    |   3    | A-    |  
+> | University Chinese 1                   |   3    | A-    |  
+> | College General Education 1            |   2    | A-    |  
+> | College General Education 2            |   1    | B+    |  
+> | Introduction to Biomedical Engineering |   1    | B+    |  
+> | Physical Education                     |   1    | B     |  
+> **Term GPA: 3.644**  
+> </p>
 > As you might be able to see, I performed quite well in all of the high credit courses. I actually attained scores within the A-range for all of the "expensive" courses. Turns out I made pretty decent predictions about these courses. However, apparently I decided to fail every single 1-credit course just because. The entire results of this is rather ridiculous since the harder the course was, the higher my grade had turned out to be. I literally have no comment about this at all, not that I know how to. The one thing I would say is that, in *Introduction to Biomedical Engineering*, I failed to attend for *one* of the lessons, and apparently that gave me a -10% penalty to the final score, which I believe accounts to 2 sub-grades. And coincidentally, this was the *only course* among these that counted to my honour GPA. I practically killed everything. If not accounting for all the 1-credit courses that I B-ranged, my GPA would have been 3.746. Looking forward, if I wish to go for internal transfer, I'd have to attain a cGPA of at least 3.75 across the two semesters, which means I'll have to get at least 3.844 GPA in the next semester with my 18 credit of courses. I don't believe it would be quite achievable to say the least. Why on earth would CUHK offer so many unrelated 1-credit courses??!?!?
 
 ### 13-01-2022
