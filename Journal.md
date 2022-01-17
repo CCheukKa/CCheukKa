@@ -145,8 +145,18 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [11-01-2022](#11-01-2022)
       - [Dem beat: Day 1](#dem-beat-day-1)
     - [12-01-2022](#12-01-2022)
-      - [Farewell Marwin & Marcus](#farewell-marwin--marcus)
+      - [Farewell Marwin and Marcus](#farewell-marwin-and-marcus)
       - [Dem beat: Day 2](#dem-beat-day-2)
+      - [Year 1 Semester 1 results released](#year-1-semester-1-results-released)
+    - [13-01-2022](#13-01-2022)
+      - [Dem beat: Day 3](#dem-beat-day-3)
+    - [14-01-2022](#14-01-2022)
+      - [Dem beat: Day 4](#dem-beat-day-4)
+      - [Zhong consultation day](#zhong-consultation-day)
+    - [15-01-2022](#15-01-2022)
+      - [Sleep paralysis](#sleep-paralysis)
+    - [??-01-2022](#-01-2022)
+      - [Binge writing](#binge-writing)
 
 ---
 
@@ -506,7 +516,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Our audience was all year 1 students. We had to rush down there the moment the lecture ended and managed to start our whole thing before too many people had left. Honestly the power was lacking, and the soft carpet floor definitely wasn't helping. We were rather nervous but honestly it turned out alright, as alright as it could've been for 3 hours of practice. The synchronisation was terrible, and barely any of us yelled nearly loud enough. I would say it was unacceptable but to be fair I can't see it going too much better without some serious efforts.
 
 ### 12-01-2022
-#### Farewell Marwin & Marcus
+#### Farewell Marwin and Marcus
 > It was rather sad to see more people fly away. They booked a surprisingly early flight, much to our disgruntle. It was a 09:00 flight, and we had to basically arrive at 06:00. Right off the bat, I'll tell you this was way too early for a flight. I had to wake up at 05:30, and considering that I still have to dem beat and do all that jazz in the afternoon and at night, this was a rather undesirable start for the day.  
 > Anyway, Ron, Timothy, and Andy also came to farewell them. They are going to fly to *Los Angeles, USA*, and settle there. But since COVID restriction or something like that, they'll have to first fly to *Tokyo, Japan* to then transit to their destination. As for the reason why they're going to the USA, they mentioned that their parents had been planning for this from the very moment they were born. Honestly, I don't believe I have ever heard someone plan something like this this long ago but I guess it's ultimately none of my business. They have relatives there, so I guess that's another factor. So we did all the usual stuff, taking photos and chatting. I got one of the luggage carts one would use to move luggages around in the airport and got them to sit on it. I pushed them around for a while and got some photos. I had been wanting to do that since the last time I've been to the airport but Toby refused for some godforsaken reason.  
 > It wasn't long before they have to go through the gate. Apparently their mom is also going with them, which I didn't know was the case prior to the very moment she started to walk through the gate. They had like 8 suitcases full of stuff in total, hand-carry and not, among the 3 of them. I cannot fathom why or how one would need so much stuff considering Toby only had like 2 suitcases of stuff in total. They all got through the gate just fine except for Marcus, who got stuck for some reason like Toby did. Are they really that hard to operate? It was without too much fanfare though, probably because everyone was still half-asleep, but I don't really know.  
@@ -515,3 +525,88 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 #### Dem beat: Day 2
 > This time our main audience was Year 4 students, mixed with some Year 3 ones. We rushed in as soon as the lecture ended. And since we came in from the only door, nobody managed to leave before we could start. I think we performed horribly, even worse than yesterday somehow. The synchronisation was horrendous and borderline non-existent. Once again, basically no one spoke anything except myself and Martin. Some of the previous cabinet were also present and they found it quite satisfactory contrary to my thoughts. Apparently some of the previous previous cabinet were *also* present and they found it *not* amusing to have a beat dem'd was such low quality. Ultimately, whatever worked works. If our direct predecessors deemed it satisfactory then so be it. This entry is full of mindless rambling, as you might be able to see. My mind was really clouded since I had just farewell Marwin and Marcus this very morning and I have practically no energy left.
+
+#### Year 1 Semester 1 results released
+> It was really a roller coaster. Of the first few subjects released, my GPA was comfortably above 3.7, until the rest got released, which dramatically killed it. Maybe I should do a table to break them down.  
+> <table style="width: 100%;">
+> <thead>
+> <tr>
+> <th style="text-align:left">Course Title</th>
+> <th style="text-align:center">Credit</th>
+> <th style="text-align:left">Grade</th>
+> </tr>
+> </thead>
+> <tbody>
+> <tr>
+> <td style="text-align:left">Human Anatomy and Physiology 1</td>
+> <td style="text-align:center">2</td>
+> <td style="text-align:left">A</td>
+> </tr>
+> <tr>
+> <td style="text-align:left">Calculus for Engineers</td>
+> <td style="text-align:center">3</td>
+> <td style="text-align:left">A-</td>
+> </tr>
+> <tr>
+> <td style="text-align:left">Engineering Physics</td>
+> <td style="text-align:center">3</td>
+> <td style="text-align:left">A-</td>
+> </tr>
+> <tr>
+> <td style="text-align:left">University Chinese 1</td>
+> <td style="text-align:center">3</td>
+> <td style="text-align:left">A-</td>
+> </tr>
+> <tr>
+> <td style="text-align:left">College General Education 1</td>
+> <td style="text-align:center">2</td>
+> <td style="text-align:left">A-</td>
+> </tr>
+> <tr>
+> <td style="text-align:left">College General Education 2</td>
+> <td style="text-align:center">1</td>
+> <td style="text-align:left">B+</td>
+> </tr>
+> <tr>
+> <td style="text-align:left">Introduction to Biomedical Engineering</td>
+> <td style="text-align:center">1</td>
+> <td style="text-align:left">B+</td>
+> </tr>
+> <tr>
+> <td style="text-align:left">Physical Education</td>
+> <td style="text-align:center">1</td>
+> <td style="text-align:left">B</td>
+> </tr>
+> <tr>
+> <td style="text-align:left"><strong>Term GPA: 3.644</strong></td>
+> <td style="text-align:center"></td>
+> <td style="text-align:left"></td>
+> </tr>
+> </tbody>
+> </table>
+> As you might be able to see, I performed quite well in all of the high credit courses. I actually attained scores within the A-range for all of the "expensive" courses. Turns out I made pretty decent predictions about these courses. However, apparently I decided to fail every single 1-credit course just because. The entire results of this is rather ridiculous since the harder the course was, the higher my grade had turned out to be. I literally have no comment about this at all, not that I know how to. The one thing I would say is that, in *Introduction to Biomedical Engineering*, I failed to attend for *one* of the lessons, and apparently that gave me a -10% penalty to the final score, which I believe accounts to 2 sub-grades. And coincidentally, this was the *only course* among these that counted to my honour GPA. I practically killed everything. If not accounting for all the 1-credit courses that I B-ranged, my GPA would have been 3.746. Looking forward, if I wish to go for internal transfer, I'd have to attain a cGPA of at least 3.75 across the two semesters, which means I'll have to get at least 3.844 GPA in the next semester with my 18 credit of courses. I don't believe it would be quite achievable to say the least. Why on earth would CUHK offer so many unrelated 1-credit courses??!?!?
+
+### 13-01-2022
+#### Dem beat: Day 3
+Failed
+2
+[TK](!!!)
+
+### 14-01-2022
+#### Dem beat: Day 4
+Raymond Tong
+3
+[TK](!!!)
+
+#### Zhong consultation day
+[TK](!!!)
+
+### 15-01-2022
+#### Sleep paralysis
+root person pulling
+[TK](!!!)
+
+### ??-01-2022
+#### Binge writing
+7 entries + this
+[TK](!!!)
