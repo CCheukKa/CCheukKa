@@ -528,7 +528,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 #### Year 1 Semester 1 results released
 > It was really a roller coaster. Of the first few subjects released, my GPA was comfortably above 3.7, until the rest got released, which dramatically killed it. Maybe I should do a table to break them down.  
-> <table>
+> <table style="border-collapse: collapse; margin-bottom: 0.7em; display: table; box-sizing: border-box; text-indent: initial; border-spacing: 2px; border-color: grey;">
 > <thead>
 > <tr>
 > <th style="text-align:left">Course Title</th>
@@ -584,7 +584,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > </tr>
 > </tbody>
 > </table>
-> As you might be able to see, I performed quite well in all of the high credit courses. I actually attained scores within the A-range for all of the "expensive" courses. However, apparently I decided to fail every single 1-credit course just because. The entire results of this is rather ridiculous since the harder the course was, the higher my grade had turned out to be. I literally have no comment about this at all, not that I know how to. The one thing I would say is that, in *Introduction to Biomedical Engineering*, I failed to attend for *one* of the lessons, and apparently that gave me a -10% penalty to the final score, which I believe accounts to 2 sub-grades. And coincidentally, this was the *only course* among these that counted to my honour GPA. I practically killed everything. If not accounting for all the 1-credit courses that I B-ranged, my GPA would have been 3.746. Looking forward, if I wish to go for internal transfer, I'd have to attain a cGPA of at least 3.75 across the two semesters, which means I'll have to get at least 3.844 GPA in the next semester with my 18 credit of courses. I don't believe it would be quite achievable to say the least. Why on earth would CUHK offer so many unrelated 1-credit courses??!?!?
+> As you might be able to see, I performed quite well in all of the high credit courses. I actually attained scores within the A-range for all of the "expensive" courses. Turns out I made pretty decent predictions about these courses. However, apparently I decided to fail every single 1-credit course just because. The entire results of this is rather ridiculous since the harder the course was, the higher my grade had turned out to be. I literally have no comment about this at all, not that I know how to. The one thing I would say is that, in *Introduction to Biomedical Engineering*, I failed to attend for *one* of the lessons, and apparently that gave me a -10% penalty to the final score, which I believe accounts to 2 sub-grades. And coincidentally, this was the *only course* among these that counted to my honour GPA. I practically killed everything. If not accounting for all the 1-credit courses that I B-ranged, my GPA would have been 3.746. Looking forward, if I wish to go for internal transfer, I'd have to attain a cGPA of at least 3.75 across the two semesters, which means I'll have to get at least 3.844 GPA in the next semester with my 18 credit of courses. I don't believe it would be quite achievable to say the least. Why on earth would CUHK offer so many unrelated 1-credit courses??!?!?
 
 ### 13-01-2022
 #### Dem beat: Day 3
