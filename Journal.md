@@ -139,6 +139,24 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [05-01-2022](#05-01-2022)
       - [IKEA stroll](#ikea-stroll)
       - [Bank account](#bank-account)
+    - [10-01-2022](#10-01-2022)
+      - [Revisiting SJC with Marwin and Marcus](#revisiting-sjc-with-marwin-and-marcus)
+      - [Dem beat: Conception](#dem-beat-conception)
+    - [11-01-2022](#11-01-2022)
+      - [Dem beat: Day 1](#dem-beat-day-1)
+    - [12-01-2022](#12-01-2022)
+      - [Farewell Marwin & Marcus](#farewell-marwin--marcus)
+      - [Dem beat: Day 2](#dem-beat-day-2)
+      - [Year 1 Semester 1 results released](#year-1-semester-1-results-released)
+    - [13-01-2022](#13-01-2022)
+      - [Dem beat: Day 3](#dem-beat-day-3)
+    - [14-01-2022](#14-01-2022)
+      - [Dem beat: Day 4](#dem-beat-day-4)
+      - [Zhong consultation day](#zhong-consultation-day)
+    - [15-01-2022](#15-01-2022)
+      - [Sleep paralysis](#sleep-paralysis)
+    - [??-01-2022](#-01-2022)
+      - [Binge writing](#binge-writing)
 
 ---
 
@@ -482,3 +500,68 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 #### Bank account
 > I finally opened a bank account. It was long due. I have been meaning to do it for the last year, for various different reasons. It was honestly less hassle than I thought would be. I guess my only experience with banks so far were the times when I would want for people to finish their business when I was a kid, and I'm telling you it took forever. Honestly I don't know what to talk about here. I guess I can note that I still don't really have a signature for. I mean I guess I do have a pretty simple one but I don't believe it would suffice(?). But everything is digitalised anyway so it's not like I would need to sign anything anyway, not that I would bother to show up physically even if I have to.
+
+### 10-01-2022
+#### Revisiting SJC with Marwin and Marcus
+> We had been trying to meet up for a while now. The school magazines were ready today and we just so happen to decide we can collect the magazines together and have a little rendezvous. It was a good thing that I obliged even though I was extremely busy this entire week since our zhong promotion period and consultation day is upcoming, since apparently they moved their flight forward so that it would be two days from now, on 12/01 instead of 26/01 as they had originally planned.  
+> Anyway, we met up in the MTR station and started to walk to SJC. It had been a really long time since I last hiked up *Hong Kong Park*, even longer since I last met Marwin and Marcus. It was rather relaxing to tread a path I am so familiar to, with them, no less. I still remember we used to walk down to the MTR station every single day after school, although we stopped doing so for reasons I still don't quite know. Perhaps time drew us part, although I don't think this was the case. Either way, we got the magazines, and decided to meet up with Ms Ip. She was quite an interesting person. For me, she was the playful art teacher, who would always play into our little jokes and dumb stuff. Her lessons were really the one thing I can for sure say I hated no part of. For them, she was an inspiration, the one who had encouraged them to no end to pursue art. I believe she was the consultant for the many art competitions they had joined over the years.  
+> I think I veered off-track.  
+> So we left after a short while, without taking photos for some inexplicable reasons. There really wasn't too much going on, just that we chatted about everything. I wish we could've done more, but I was busy was my zhong stuff and had to get back to CUHK immediately after this, and they had to prepare and pack their stuff for take-off. Ultimately, as uneventful as it might have been, I think I was just grateful it happened.  
+
+#### Dem beat: Conception
+> They insisted that we must dem beat, not only for ourselves, but to show the previous zhong that we can do shit. Welp, apparently that turned out to be a hot pile of nonsense since we hadn't even conceived a beat at all before we were supposed to actually start today. Instead, we had to cancel it last-minute and push it back a day. Anyway, we started meeting at 19:00, and started to conceive and refine the beat. We had a lot of trouble refining the lyrics when half of them were just sitting there eating doing nothing at all. It was like another hour before we can actually start to practise. We went to the empty space at the podium next to the *Wen Lang Tang* in *Shaw College*. It was mostly more finalising the beat than actual practise. We got a few horrendous practise rounds in before Tom finally decided to show up. Due to time constraints, we made the executive decision that it would be impossible to practise all the verses, and decided to only do one of them. It was honestly rather terrible. After a while, some randos decided that right next to us would be a great place to set up shop and started eating hotpot. We were rather dumbfounded to be frank. Either way, we migrated to the third floor of the *Lee Shau Kee Building*, right outside the elevator. The place was quite echo-y and it gave an illusion of our non-existent power. The process was really quite un-noteworthy except that I can cleary tell some of them were not quite invested into this whole thing. We carried only until around 01:00 and decided whatever it would be the next day, it would be.
+
+### 11-01-2022
+#### Dem beat: Day 1
+> Our audience was all year 1 students. We had to rush down there the moment the lecture ended and managed to start our whole thing before too many people had left. Honestly the power was lacking, and the soft carpet floor definitely wasn't helping. We were rather nervous but honestly it turned out alright, as alright as it could've been for 3 hours of practice. The synchronisation was terrible, and barely any of us yelled nearly loud enough. I would say it was unacceptable but to be fair I can't see it going too much better without some serious efforts.
+
+### 12-01-2022
+#### Farewell Marwin & Marcus
+> It was rather sad to see more people fly away. They booked a surprisingly early flight, much to our disgruntle. It was a 09:00 flight, and we had to basically arrive at 06:00. Right off the bat, I'll tell you this was way too early for a flight. I had to wake up at 05:30, and considering that I still have to dem beat and do all that jazz in the afternoon and at night, this was a rather undesirable start for the day.  
+> Anyway, Ron, Timothy, and Andy also came to farewell them. They are going to fly to *Los Angeles, USA*, and settle there. But since COVID restriction or something like that, they'll have to first fly to *Tokyo, Japan* to then transit to their destination. As for the reason why they're going to the USA, they mentioned that their parents had been planning for this from the very moment they were born. Honestly, I don't believe I have ever heard someone plan something like this this long ago but I guess it's ultimately none of my business. They have relatives there, so I guess that's another factor. So we did all the usual stuff, taking photos and chatting. I got one of the luggage carts one would use to move luggages around in the airport and got them to sit on it. I pushed them around for a while and got some photos. I had been wanting to do that since the last time I've been to the airport but Toby refused for some godforsaken reason.  
+> It wasn't long before they have to go through the gate. Apparently their mom is also going with them, which I didn't know was the case prior to the very moment she started to walk through the gate. They had like 8 suitcases full of stuff in total, hand-carry and not, among the 3 of them. I cannot fathom why or how one would need so much stuff considering Toby only had like 2 suitcases of stuff in total. They all got through the gate just fine except for Marcus, who got stuck for some reason like Toby did. Are they really that hard to operate? It was without too much fanfare though, probably because everyone was still half-asleep, but I don't really know.  
+> I suppose here is where I should talk more about us. I've known them since S1, even though we weren't in the same class until S2. I still remember the first time we met was just outside the *Cheung Sha Wan* MTR exit after school one day. My dad was being overly socially expansive and greeted them for no reason other than that he recognised their SJC uniforms. Honestly I still do not understand how parents work since they just seem to chat up with the most random people for no reason at all. Despite this, we never were really that close until we were actually in the same class. Ron was also one of the catalysts since he was our common friend. The main reason I would say is 'cus of my plasticity. Come to think of it, I believe most the friends I made during my junior(/senior) secondary years were due to my plasticity. I'll have Toby to thank for that. One thing I'll note is that, I don't believe our conversations ever became more than mundane day-to-day stuff. I don't believe we have ever talked about topics too deep or specific. The most was academics or something. Maybe it's because most of our time spent was in the junior secondary years? I realise I'm making it sound like it was rather boring. I'm sure we had talked about non-mundane stuff, but whatever they were, it wasn't vivid enough to be the shining example of what our conversations tend to be like. As opposed to topics with Toby, I found them more sophisticated and in-depth, like sometimes thought-provoking or something. I'm making him sound like Plato or Socrates or some philosopher but it's true to some extent. It's weird to score and judge conversations like this. I'm not saying our friendship is shallow or anything, but it just... isn't the same(?) I should stop before I make it sound like some sort of novel about unacquired love.  
+> I believe the rest of their family is going to fly there soon. It's not just studying overseas, I believe they are aiming for full-blown immigration. I guess I shouldn't be too surprised seeing that they have been talking about this openly for as long as we've known each other, but still it's quite unsettling. They are now going to study in a community college before making further plans. I'm not too sure about Marcus, but Marwin seems committed to work in Pixar eventually and said he was planning to studying computer animation or something similar. I shall wish they'd find their passion whatever they may eventually decide to pursue. I'm more worried than anything really, since the art market is quite hard to earn a living in, but I guess their talent shall carve them a path within this mist of uncertainty.
+
+#### Dem beat: Day 2
+> This time our main audience was Year 4 students, mixed with some Year 3 ones. We rushed in as soon as the lecture ended. And since we came in from the only door, nobody managed to leave before we could start. I think we performed horribly, even worse than yesterday somehow. The synchronisation was horrendous and borderline non-existent. Once again, basically no one spoke anything except myself and Martin. Some of the previous cabinet were also present and they found it quite satisfactory contrary to my thoughts. Apparently some of the previous previous cabinet were *also* present and they found it *not* amusing to have a beat dem'd was such low quality. Ultimately, whatever worked works. If our direct predecessors deemed it satisfactory then so be it. This entry is full of mindless rambling, as you might be able to see. My mind was really clouded since I had just farewell Marwin and Marcus this very morning and I have practically no energy left.
+
+#### Year 1 Semester 1 results released
+> It was really a roller coaster. Of the first few subjects released, my GPA was comfortably above 3.7, until the rest got released, which dramatically killed it. Maybe I should do a table to break them down.  
+> | Course Title                           | Credit | Grade |
+> | :------------------------------------- | :----: | :---- |
+> | Human Anatomy and Physiology 1         |   2    | A     |
+> | Calculus for Engineers                 |   3    | A-    |
+> | Engineering Physics                    |   3    | A-    |
+> | University Chinese 1                   |   3    | A-    |
+> | College General Education 1            |   2    | A-    |
+> | College General Education 2            |   1    | B+    |
+> | Introduction to Biomedical Engineering |   1    | B+    |
+> | Physical Education                     |   1    | B     |
+> **Term GPA: 3.644**
+> As you might be able to see, I performed quite well in all of the high credit courses. I actually attained scores within the A-range for all of the "expensive" courses. However, apparently I decided to fail every single 1-credit course just because. The entire results of this is rather ridiculous since the harder the course was, the higher my grade had turned out to be. I literally have no comment about this at all, not that I know how to. The one thing I would say is that, in *Introduction to Biomedical Engineering*, I failed to attend for *one* of the lessons, and apparently that gave me a -10% penalty to the final score, which I believe accounts to 2 sub-grades. And coincidentally, this was the *only course* among these that counted to my honour GPA. I practically killed everything. If not accounting for all the 1-credit courses that I B-ranged, my GPA would have been 3.746. Looking forward, if I wish to go for internal transfer, I'd have to attain a cGPA of at least 3.75 across the two semesters, which means I'll have to get at least 3.844 GPA in the next semester with my 18 credit of courses. I don't believe it would be quite achievable to say the least. Why on earth would CUHK offer so many unrelated 1-credit courses??!?!?
+
+### 13-01-2022
+#### Dem beat: Day 3
+Failed
+2
+[TK](!!!)
+
+### 14-01-2022
+#### Dem beat: Day 4
+Raymond Tong
+3
+[TK](!!!)
+
+#### Zhong consultation day
+[TK](!!!)
+
+### 15-01-2022
+#### Sleep paralysis
+root person pulling
+[TK](!!!)
+
+### ??-01-2022
+#### Binge writing
+7 entries + this
+[TK](!!!)
