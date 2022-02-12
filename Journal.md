@@ -158,6 +158,9 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [22-01-2022](#22-01-2022)
       - [Binge-writing](#binge-writing)
       - [Character introduction](#character-introduction)
+  - [February](#february)
+    - [12-02-2022](#12-02-2022)
+      - [Last day in hostel](#last-day-in-hostel)
 
 ---
 
@@ -575,3 +578,10 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 #### Character introduction
 > I don't know why, but I tend to dismiss the mentions of the names of the characters in my entries. Honestly, I have no idea why. Some characters I have divulges the names of, others I haven't. I guess it is because I don't believe a good story would need too much extra information. Come to think of it, I think my standards for this is whether they appear often in a story or a saga. I can't imagine many other people writing like this, since as far as I can tell, most books/movies/stories tend to introduce all the characters from the very get-go. I find them quite overwhelming, especially since I have a hard time remembering names. Ultimately, I guess I have chosen to slowly reveal each and every character for this reason or some other. Or not. Maybe I'm just uncomfortable about typing names for some reason. What even is this entry anyway?
+
+## February
+### 12-02-2022
+#### Last day in hostel
+> The university had announced that all lessons in semester 2 will be held online and that everyone will have to check-out of their hostels permanently before tomorrow. So I guess this is the very last entry I will be writing in my hostel room.  
+> Where do I start? It is such a shame. Excluding the mishaps that I had in my first hostel, I have only been living here for less than 4 months. I checked in on 04/10, and will check out tonight, so it should officially be 132 days to be exact. But with holidays and semester breaks and stuff, my rough estimate would be that I have lived here for only around 80 days maximum. I haven't even started packing yet and it's already 19:44 as of this very sentence. I guess its quite dreadful really. Although it's not like living in the hostel is anything irreplaceably good especially since it's all online classes now, but just that losing it would be so much more devastating than not having it in the first place. I honestly don't believe I have experienced loss as impactful before. This should be on par with graduating from SJC if I had to rate it, despite having spent obviously way less time here than in SJC. It's not quite loss as in mourning the death of a loved one, but rather just a general emptiness that I have. I guess it's mostly because how sudden all of this is. They only announced it this Monday afternoon (07/02), and this is already the last day. There's no build-up, there's no anticipation, and most importantly, there's no ending.  
+> I came back here as soon as I heard the news. And the first thing I've noticed was the schedule calendar for all the hostel festival events was posted on the elevator wall, starting next week. I think that's the moment that hit me. How much have we lost because of this? Who is to say other than it's "too much". One of the events are the photo-shooting for the entire hostel. We didn't even have to chance to do that before we all got booted. I've mentioned that dramatic events like these take a while to sink in for me, but I think this one had sunken itself quicker and deeper than anything else had. There's too much to talk about and too little time. I'll probably follow up on this after I'm done moving everything. I should start packing now.
