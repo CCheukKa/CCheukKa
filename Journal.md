@@ -179,6 +179,17 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [14-04-2022](#14-04-2022)
       - [Inevitable reoccurring hiatuses](#inevitable-reoccurring-hiatuses)
       - [Year 1 Semester 2 Midterm results released](#year-1-semester-2-midterm-results-released)
+    - [19-04-2022](#19-04-2022)
+      - [Human Anatomy and Physiology 2 CA2](#human-anatomy-and-physiology-2-ca2)
+    - [28-04-2022](#28-04-2022)
+      - [Multivariable Calculus Final](#multivariable-calculus-final)
+  - [May](#may)
+    - [03-05-2022](#03-05-2022)
+      - [Human Anatomy and Physiology 2 Final](#human-anatomy-and-physiology-2-final)
+    - [04-05-2022](#04-05-2022)
+      - [Linear Algebra Final](#linear-algebra-final)
+    - [05-05-2022](#05-05-2022)
+      - [Logic Final](#logic-final)
 
 ---
 
@@ -636,7 +647,14 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ## April
 ### 09-04-2022
 #### CUHK Camping trip
-> TK
+> I guess this was a rather logical continuation for the trends of our events. We have been discussing about having a legitimate "wilderness" camping trip in the UK for our graduation trip thing, which did not happen sadly, due to border lockdowns. And then there was a failed hiking attempt, which is also very sad and uncalled for. Anyway, the idea came when I shared myself having seen tons of stars in CUHK. I suggested that they would come and watch the stars together, since Samuel was suddenly very fond of watching stars for some reason. I proposed us to set up a tent in CUHK for the night.  
+> We didn't have a tent, so in the afternoon before the main event, we went to *Decathlon* to buy one after eating a hotpot buffet. Tents were surprisingly expensive, honestly much higher than I had anticipated. To be fair, they wanted to get a cheaper one, but I have never been the kind of person who'd be fine with compromising quality over price. Additionally, I wanted to be able to reuse it for our upcoming Orientation Camp so I thought we could get some of our money back. After a whole lot of convincing, we ended up settling on one for $999, which mind you, was only the third cheapest option. We got some lights, pillows, and headed to CUHK.  
+> We put the stuff in my society room except it was locked and I still don't have the key for some ungodly reason so we actually just put them in the corridor. I had an idea for a tent spot but we went scouting anyway while I was doing a bad job at giving them some sort of tour. My initial idea was to camp right in the middle of the fucking road, literally. From months of experience, I found that right in the middle of *The University Mall* (which is a walkway and not a mall in the conventional way of using the word 'mall'). However, there were a lot of people despite physical lessons before cancelled entirely. We were mainly scouting for grassy areas since sitting on concrete doesn't exactly scream comfort.  
+> It got dark. We brought some snacks from the supermarket and sat on the stairs of the mall-road to watch the stars. I think we saw ~15 stars, maybe more. They were quite surprised. Honestly, I think they believed I was only exaggerating the star visibility. Either way, the skies were nice despite the moon cycle not being optimal. I managed to take a decent picture of the stars with a long shutter speed. We thought it was time to set up the tent after some photos, however, there are still quite a bit of people around since it was only ~23:00, and the place wouldn't be free of people until past ~03:00 from my experience. We scouted further on the rooftop of the *Lady Shaw Building* since it was close enough to the "optimal" spot and there is a nice patch of grass, but there was this annoyingly bright purple LED strip for some reason which absolutely killed visibility. Anyway, we ended up deciding to set up the tent on the rooftop of the *William MW Mong Engineering Building*, which is quite convenient really since my society room is on the highest floor. However, we scouted the rooftop when there was still light, and it turns out that despite being much darker, the sky visibility was much worse than in the road. Also the ventilation units there were very noisy. To give you a perspective, you literally cannot see your hands at all; it was so dark that we actually had to take out our torches to even walk even though it was only ~21:00.  
+> We set up the tent anyway even though it wasn't the perfect location. As far as I'm concerned, everything before this point was merely the appetizer. This is the main course of the entire day, since it took so long and so much effort to set up the tent. First of all, it was dark as I've mentioned, we bought one LED light from *Decathlon*, Samuel had a head-mounted light, and we had the torches on our phones. Those were absolutely inadequate for what we were trying to do. We basically had to do this entire setup blind, and none of us had any experience before. Secondly, the design of the tent is highly unconventional. There were two pieces of large nylon fabric with a whole bunch of mounting and connection points. I myself had never seen such design, and I thought they were supposed to be the left and right side of the tent. We weren't sure about the topology of the tent so I proposed it would be easier if we unfold the entire thing and reduce it to a 2-dimensional problem. So it took us a while to disconnected all the things to fully separate the two pieces which took us quite a while since the connections are quite strong. We fumbled with it for ~40 minutes to no avail. I discovered there was an instruction manual, or rather, instructions on a small piece of tag on the tent bag. They consisted of two vague artistic representation illustrations of the tent that didn't tell you anything about the assembly process. They also started watching YouTube tutorials about it but needless to say, that wasn't of much help either. At the end, Efren and I figured the ordeal out. The tent was actually double-layered. A piece of fabric was the outer shell of the tent while the other one is the entire interior. That was completely not unintuitive at all. Another thing is, you had to spend so much time under the fabric to set up the connections where it was so hot. We ended up taking a total of ~1 hour to set the thing up.  
+> So we finally finished the setup at ~22:00. We hooked the LED light on the ceiling of the tent, and surprisingly it was of a decent brightness. Although, considering the rooftop floor was pure rough concrete, you could imagine it wasn't very comfortable to sit even with the padding of one thin nylon fabric. To be fair, I foresaw this and bought a pillow to sit on, but I ultimately failed to convince them to buy a floor mat thing back at *Decathlon*. Anyway, I managed to gain access to the society room and we got a lap table thing, some games and pillows up there. Stars were quite non-existent up there, at least not as much compared to at the mall-road, and all the photos we took up there couldn't top the original ones at all. We ended up playing games until ~01:30 before we decided to walk more around the campus. I thought we could get some lovely hot chocolate from the library but apparently the 24-hour section closed due to pandemic regulations, which is something I don't think I've ever heard of before. Disappointment aside, there were still some people walking along the mall-road. To be fair, I was really fond of the idea of setting up tent in the middle of the fucking road, although I knew we would have to have waited for an extra 5-6 hours. Anyway, I led guided them through some infamously dark semi-hike tracts around the campus (CUHK is just really dark in general for some reason) since I thought it would make an interesting experience. However, to much of my dismay, they have taken the chance to install a lot of extra lighting fixtures all around the place. I can't say I enjoyed these installations too much since I've always thought walking in the darkness was quite tranquillising. There were still some dark staircases here and there but it was nothing compared to what it used to be. Anyway, we headed to *Lake Ad Excellentiam* and it was fortunately still pitch black. In the pitch darkness, I somehow managed not to find the pavilion despite all walkways leading there. Much to out surprise, we managed to see fireflies. They were quite sparsely distributed among the general area, and they weren't as bright as I thought they would be, although it was still quite surreal to witness. I don't believe I have seen a firefly before either (probably untrue?). We tried but sadly none of us managed to get a picture of them. After that, we sat on the benches on the semi-rooftop of the *Yasumoto International Academic Park* and chatted for an hour or so.  
+> We ended up headed back to tent at ~04:30. We cleaned (Samuel snapped the table in half during the ruckus somehow?), before CNok and I got to sleep while Efren and Samuel decided to do whatever. We managed to get ~1 hour of sleep before we woke up at ~05:40 to see the sunrise. Initially, we were going to see the sunset but the bearings couldn't align; but I digress. We sprung up and took some good photos of it. Sunrises are surprisingly bright, much more than I had imagined. I thought they would be around the same brightness as sunset, which, to be fair, I don't know why they aren't. That sunrise ended up being somewhat generic, lackluster even. It didn't paint the sky crazy colours, barely even orange actually. No clue why. At least the pictures turned out alright I guess. The temperature fluctuations were quite drastic, and there were a lot of condensation everywhere. Everything was soaked, as if it had been raining the whole time. We had to lay everything out to dry them in the sun. We left everything like that and went to grab breakfast. The *Maxim* place was jam-packed for some reason so we ate at the rooftop bench place from the night before. We packed everything up and left the tent at the society room and called it a day.  
+> This entire thing was both more and less than what I had initially expected. I thought it was going to be a star-watching thing, but that only lasted ~45 minutes. I thought we were going to set up tent either in the middle of the fucking road or on a grass patch, but of course we chose the least comfortable location possible to do so. I thought we would have the time to walk around the entire mountain, but time only allowed us to walk around the front half. I guess I also never expected to be able to do everything we set up to do. I'm still very much fond of the UK camping trip though. And now that Toby is in the UK, I figured that could be some sort of backup plan in case things go off-plan (which they most likely will to be honest). But for now, I guess this is one thing half crossed out in the list of *"Things to do before we fall victim to the eventual and inevitable death and perish"*.
 
 ### 14-04-2022
 #### Inevitable reoccurring hiatuses
@@ -649,4 +667,26 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Yes. No conclusion, no outlook, and no cue for the end of the entry.
 
 #### Year 1 Semester 2 Midterm results released
+> TK
+
+### 19-04-2022
+#### Human Anatomy and Physiology 2 CA2
+> TK
+
+### 28-04-2022
+#### Multivariable Calculus Final
+> TK
+
+## May
+### 03-05-2022
+#### Human Anatomy and Physiology 2 Final
+> TK
+> <48 hours -> ~16 hours
+
+### 04-05-2022
+#### Linear Algebra Final
+> TK
+
+### 05-05-2022
+#### Logic Final
 > TK
