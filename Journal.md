@@ -692,8 +692,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ### 04-05-2022
 #### Linear Algebra Final
-> TK
-> I guess I've always done better in higher-level more complex topics than the lower-level more fundamental topics?
+> I genuinely believe there is some wrong with my brain. There has to be. The key to these examinations have always been time management, since you should barely have enough time if you finish them normally. Meanwhile, my dumb self decided to spend ~30 minutes getting stuck on the simplest algebra and computation problems for no goddamn reason at all. I guess I've always done better in higher-level more complex topics than the lower-level more fundamental topics? Is that even a thing? It's not like I don't understand the concepts at all, quite the converse, actually. A lot of these were covered in M2 back in secondary school (apparently secondary school stuff can actually be useful, who knew?). Despite this, I'd say I managed to clutch out and answer all the questions that were well-within my realm of knowledge during the last moments right before the clock struck zero (some of those are completed after the clock stuck zero but let's not talk about them). As for the ones that are outside my realm of knowledge, I still tried to wrote some half-baked seemingly logical but mostly smokes-and-mirrors steps for them. I'd estimate around 70% of everything I've written down was in the second-half of the allowed time, a lot of which actually with only 15 minutes on the clock. However, this of course means that sadly I didn't really have time to ponder on the actually tricky questions. Why does my brain function in mysterious ways? I have no idea, but I'd very much like it to stop doing this.
 
 ### 05-05-2022
 #### Logic Final
