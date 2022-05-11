@@ -681,7 +681,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ### 28-04-2022
 #### Multivariable Calculus Final
-> TK
+> Honestly, I believe I did rather swimmingly, barring some minor hiccups. I was rather confident after finishing this paper, although the last time I was *"rather confident"* about [something](#mathematics-midterm) it [didn't go too well](#maths-midterm-results). Honestly I'm unsure what more I can say about this since I've already ranted the professor's ass off [some entries ago](#multivariable-calculus-midterm). I guess I have been rather lucky to have found myself in one rather academically-focused friend group. They definitely hard carried me during this whole thing.
 
 ## May
 ### 03-05-2022
@@ -693,6 +693,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 04-05-2022
 #### Linear Algebra Final
 > TK
+> I guess I've always done better in higher-level more complex topics than the lower-level more fundamental topics?
 
 ### 05-05-2022
 #### Logic Final
