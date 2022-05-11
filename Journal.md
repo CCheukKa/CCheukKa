@@ -667,7 +667,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Yes. No conclusion, no outlook, and no cue for the end of the entry.
 
 #### Year 1 Semester 2 Midterm results released
-> TK
+> They're not good.  
+> For the *Multivariable Calculus* midterm, I got 84%, which I guess is quite passable, and I would say it aligned with my expectation rather closely. For the other ones, however, not so much.  
+> For the *Linear Algebra* midterm, I got a mere 69%, which is to be frank, absolutely horrendous. I was stuck on the simplest algebraic calculations, even on ones that doesn't involve any high-level mathematics at all. I genuinely have no idea why that was the case, but I guess my mathematics senses have left me, at least the fundamental mathematics senses.  
+> For the *Human Anatomy and Physiology 2* CA1, I got absolutely smoked, but I guess it was to be expected. I got a mere 71.4%. I'm genuinely not sure how to feel about this, considering the [circumstances](#human-anatomy-and-physiology-2-ca1), however, what I would say is that I thought I had done better than I actually had.  
+> For the *Logic* midterm, I got 80%. I also don't know how to feel about this, since my initial idea for taking this course is to bring my GPA up. I guess it had somewhat achieved this goal, but I can't say I'm too certain about it. I guess we'll have to wait for its final examination.  
+> Another thing, due to the [hiatus and burnout thing](#inevitable-reoccurring-hiatuses), I didn't manage to write these as separate entries as I had last semester. TO be frank, I didn't even check my grades at all despite them being out for more than a month already. I guess this point of me documenting these in the first place was to allow myself time to think and reflect, or was it? No idea. I should stop rambling before my words stop making the slightest hint of sense.
 
 ### 19-04-2022
 #### Human Anatomy and Physiology 2 CA2
