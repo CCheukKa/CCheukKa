@@ -115,7 +115,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [14-12-2021](#14-12-2021)
       - [Chinese final examination](#chinese-final-examination)
     - [15-12-2021](#15-12-2021)
-      - [Human Anatomy and Physiology final examination](#human-anatomy-and-physiology-final-examination)
+      - [Human Anatomy and Physiology 1 final examination](#human-anatomy-and-physiology-1-final-examination)
       - [End of Year 1 Semester 1](#end-of-year-1-semester-1)
     - [19-12-2021](#19-12-2021)
       - [Zhong meeting again](#zhong-meeting-again)
@@ -192,6 +192,25 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Logic Final](#logic-final)
     - [06-05-2022](#06-05-2022)
       - [Year 1 concluded](#year-1-concluded)
+    - [20-05-2022](#20-05-2022)
+      - [Lab exposure programme 1](#lab-exposure-programme-1)
+    - [24-05-2022](#24-05-2022)
+      - [Lab exposure programme 2](#lab-exposure-programme-2)
+    - [31-05-2022](#31-05-2022)
+      - [Year 1 Semester 2 results released](#year-1-semester-2-results-released)
+    - [02-06-2022](#02-06-2022)
+      - [CU Medical Centre tour](#cu-medical-centre-tour)
+      - [Grade appeal bureaucratic hell](#grade-appeal-bureaucratic-hell)
+    - [04-06-2022](#04-06-2022)
+      - [Graduates photo day](#graduates-photo-day)
+    - [06-06-2022](#06-06-2022)
+      - [Chat with Professor](#chat-with-professor)
+    - [07-06-2022](#07-06-2022)
+      - [Soldering](#soldering)
+    - [09-06-2022](#09-06-2022)
+      - [Unintentional coincidence](#unintentional-coincidence)
+    - [14-06-2022](#14-06-2022)
+      - [Grade appeal conclusion (probably)](#grade-appeal-conclusion-probably)
 
 ---
 
@@ -470,7 +489,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Honestly, I didn't think I would cross paths with Chinese after HKDSE but turns out I was so dead wrong. But I guess for all it's worth, the Chinese composition went better than I had thought. At least I managed to squeeze my residual brain cells ideas and wrote something moderately quality. I guess writing is really a process of exploration and self-reflection, as I could clearly say as of the writing of this. Speaking of language, I find myself deteriorating in terms of vocabulary and general writing quality ever since I have been in university, both Chinese and English. Honestly, I found it extremely odd that this would be the case. Of all things, I would've thought the abundance of non-locals would help to make this environment more academically-oriented, and that English would play a more prominent role in the picture. But it seems that my SJC is somehow more internationalised than CUHK. I really need to get working on my language, lest they forever leave me and become a thing of the past, as proven in today's examination where I managed to forget how to write a lot of very common words. What a weird place I am in right now.
 
 ### 15-12-2021
-#### Human Anatomy and Physiology final examination
+#### Human Anatomy and Physiology 1 final examination
 > This went rather swimmingly, I would say. Honestly, I would say I performed better in this than the CA2, which would be odd considering the syllabus for this final examination is obviously larger. But I believe the existence of long questions helped me a lot since they are the place that I could dare say I excel in. MCQs just never sat well with me ever. And with that, it would conclude this semester for me. I have had this nagging headache for the past two days and it seems that it just won't go away. I should be getting some actual rest.
 
 #### End of Year 1 Semester 1
@@ -574,7 +593,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > | College General Education 2            |   1    | B+    |  
 > | Introduction to Biomedical Engineering |   1    | B+    |  
 > | Physical Education                     |   1    | B     |  
-> **Term GPA: 3.644**  
+> **Term GPA: 3.644 @16**  
+> *Cumulative GPA: 3.644 @16*
 > 
 > As you might be able to see, I performed quite well in all of the high credit courses. I actually attained scores within the A-range for all of the "expensive" courses. Turns out I made pretty decent predictions about these courses. However, apparently I decided to fail every single 1-credit course just because. The entire results of this is rather ridiculous since the harder the course was, the higher my grade had turned out to be. I literally have no comment about this at all, not that I know how to. The one thing I would say is that, in *Introduction to Biomedical Engineering*, I failed to attend for *one* of the lessons, and apparently that gave me a -10% penalty to the final score, which I believe accounts to 2 sub-grades. And coincidentally, this was the *only course* among these that counted to my honour GPA. I practically killed everything. If not accounting for all the 1-credit courses that I B-ranged, my GPA would have been 3.746. Looking forward, if I wish to go for internal transfer, I'd have to attain a cGPA of at least 3.75 across the two semesters, which means I'll have to get at least 3.844 GPA in the next semester with my 18 credit of courses. I don't believe it would be quite achievable to say the least. Why on earth would CUHK offer so many unrelated 1-credit courses??!?!?
 
@@ -709,3 +729,63 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > On the topic of hostels, I genuinely am not too terribly connected to my own hostel. I'd say I'm more connected to the people in Martin's hostel more than in my own. This is partly by choice, I suppose, since I'd very much like to keep to my own bubble without external distractions. I've heard enough to learn not to mingle too well with my hostel-mates. This sounds very weird but I really think there is merit in practice. Either way, I have spent a significantly of my time in Martin's hostel. And yes, it is highly illegal and against the university policy, but this policy is rarely enforced in *Shaw College* anyway. I guess the main appeal of hostels for me is still the elimination for transit. Waking up only 20 minutes before a class is blissful. Additionally, the shuttle bus system in CUHK is so good(adequate) that it is convenient to do everything in-campus anyway. There are also nice canteens/restaurants so it's quite liveable. In fact, I spent roughly ~50 days not stepping a single foot outside CUHK during my [semester 1 finals period](#finals-approach).  
 > Academically speaking though, I would say it has been somewhat satisfactory in semester 1, but I'm not too sure about this semester. I'm definitely still going to try and apply or internal transfer, but I don't suppose I can qualify. I guess I figured before that chances are I couldn't get a year 1 transfer anyway. Actually, my first year hasn't actually officially concluded, since I still have a summer semester to go where we'll be mandated to take a *Summer Practical Training* course. Apparently we'll get to actually go do stuff in a hospital, so let's see how that goes.  
 > ***Post-script***: *As mentioned, this is not a complete yearly summary, but rather only a summary of the CUHK-related stuff. For yearly summaries, I thought it would be appropriate to do them every 27/09, seeing that it was the day Toby finally got me to start [the very first entry](#starting-this-journal).*
+
+### 20-05-2022
+#### Lab exposure programme 1
+> As you might be able to tell from its name, the lab exposure is basically us being exposed to a lab environment.
+> [TK]
+
+### 24-05-2022
+#### Lab exposure programme 2
+> [TK]
+
+### 31-05-2022
+#### Year 1 Semester 2 results released
+> This is overall quite weird and unexpected.
+>  
+> | Course Title                                 | Credit | Grade |
+> | :------------------------------------------- | :----: | :---- |
+> | In Dialogue with Nature                      |   3    | A     |
+> | Multivariable Calculus for Engineers         |   3    | A     |
+> | Linear Algebra for Engineers                 |   3    | A-    |
+> | Logic                                        |   2    | A-    |
+> | English Communication for University Studies |   4    | B+    |
+> | Human Anatomy and Physiology 2               |   2    | B+    |
+> | Physical Education                           |   1    | TBD   |
+> **Term GPA: 3.665 @17**  
+> **Cumulative GPA: 3.655 @33*
+> 
+> As I said, weird indeed. I have no idea where to start so I think we should go through them each according to their grades.  
+> For starters, I have actually sunken a tremendous amounts of work into the *In Dialogue with Nature* course from the very get-go. Martin took this course by the same lecturer the previous semester and he said that this lecturer favours hard work by the way he calculate his grades. I suppose I should introduce a little about what this course is about in the first place. In essence, it's meant to enrich students with the history, conception, principles, and whatnot of modern science and mathematics with the occasional philosophy mixed in. We had to attend weekly lectures that I skipped all of since they are entirely optional as I've been told by Martin, and weekly tutorial sessions which are really just some class discussion shit. It is highly encouraged that we learn the material, i.e. read 40-60 pages of the textbook, before the discussions since you would otherwise be very unlikely to know what on earth the discussion is about since they got pretty deep and complex at times. We also have biweekly quizzes that you should be able to get all correct if you had read the textbook and memorised the stuff (and yes even the minute stuff is very important). Anyway, this is only his method of assessment. From what I've heard, every lecturer has a different set of assessments and standards so it is of utmost importance that you chose a decent lecturer when you take this compulsory course. Now I haven't read, nay, attempted to read a book for, I'd say, around 6 years or so, and the book consists entirely of "classical" excerpts by anyone from Plato and Euclid to Newton and some other very important scientists that I didn't even know existed prior to this. Long story short, I was kinda expecting half broken medieval Latin-English with weird Shakespearean phrasing, which surprisingly were all translated into readable english. Fortunately, I was, and luckily still am, quite a keen reader, so I was able to get away with only starting to read the required materials an hour prior to the discussions, every single time. To be fair, I wasn't intending to do this, but rather I was quite against the grotesque idea of rushing through books; however, as the gods of all things unfortunate would dictate, I had the most demanding 2-hour course, *University English*, first thing in the morning right before this with only an hour break in-between. *Anyway*, for the actually demanding assignments, we had to write an 800-word reflective journal during our midterm period, and an 1500-word term paper during our finals period. Both of them required an enormous amounts of brainstorming, re-reading the entire textbook, further researching, and fine-tuning. And if you consider both papers were assigned in the middle of exam periods, you can imagine that it wasn't particularly too fun of an experience. I even sacrificed an entire other course just for this (more about this later). So ultimately, I got full score in the quizzes, a decently high [TK] for my reflective journal, and a staggeringly high [TK] for my term paper. I even choose to write a free topic for my term paper since I didn't find any of the given ones to be very interesting. Holy shit, this is a long paragraph. The point is, if I hadn't gotten an A in this course, some murdering of the lecturer would probably have occurred.  
+> Both maths courses *(**MC**: [M](#multivariable-calculus-midterm), [F](#multivariable-calculus-final); **LA**: [M](#linear-algebra-midterm), [F](#linear-algebra-final))* are quite similar so I'll just talk about them together. I will try my best not to start ranting about the shitty lecturer again seeing that I've already done it 2 times already. To be fair, their grades were very much unexpected. Unexpected not in a way that they're very high or very low, just that I didn't really have an expectation at all since I honestly didn't care or them too much now or ever. Partly I'd say this would be 'cus I was too focused on the other courses this semester. To be fair, I'd say I had only devoted around 5 hours to both courses combined, so this is definitely very cost-effective.  
+> *Logic* *([M](#logic-midterm), [F](#logic-final))* is really a hit-and-miss scenario. It's honestly another cost-effective course, and I knew this damn well the moment I had the conceived of the idea of taking this course. Sure, this course was harder than I had expected, especially because of its difficulty having ramped up exponentially after the midterm. But for a 2-credit course, it was an alright grade despite it not being what I had in mind when I decided to take it. One thing I'd say though, is that, this had been a worse investment in terms of time-cost than both the maths courses combined.  
+> *University English*. Where do I begin? This is rather outrageous. I have spent great time and effort, for what-, a B+? I have done so well throughout the semester, in all assignments. This course, mind you, also has two papers during both the midterm and finals period. So it, along with *In Dialogue with Nature*, has contributed to the sacrifice of *Human Anatomy and Physiology*. I'm just going to say straight up: I am going to appeal the shit out of this ridiculousness and I swear I will not allow this jester of a lecturer trample all over my grade. I shall dive deeper into this in another entry so I think I'll spare the details here for now. *(**University English appeal saga**: [1](#grade-appeal-bureaucratic-hell), [2](#grade-appeal-conclusion-probably))*  
+> Last but not least, the sacrificial lamb, *Human Anatomy and Physiology* *([CA1](#human-anatomy-and-physiology-2-ca1), [CA2](#human-anatomy-and-physiology-2-ca2), [F](#human-anatomy-and-physiology-2-final))*. Despite its sacrificial status, I was genuinely hoping for better, in the A-range at least. Wishful thinking, it was. But no matter, I expected this outcome. I have simply encountered so many logistical clashes and brain retirements. If only I hadn't been such a mess. Not that I could've done too terribly differently anyway. I'm still unsure whether sacrificing a course had been a good idea. I initially thought I could sacrifice a 2-credit course for a combined total of 7 credits, but that plan involves the mentioned 7 credits are actually in the A-range. Not sure.  
+> I have talked about this numerous times before, [since I have been in university](#getting-back-my-hkdse-papers) really, but my goal was to internal transfer into Medicine. And for that, one would need to have attained at least a 3.7 GPA, which I clearly hadn't. Although I would say, it is tantalisingly close, especially considering if not for the pestering *University English* B+ but instead an A-, I would've attained a cGPA of 3.703. Fuck this. I mean I had prepared mentally for a 4-year long GPA struggle but this is still too close to not get frustrated by. APPEAL AHOY!!!
+
+### 02-06-2022
+#### CU Medical Centre tour
+> [TK]
+
+#### Grade appeal bureaucratic hell
+> [TK]
+
+### 04-06-2022
+#### Graduates photo day
+> [TK]
+
+### 06-06-2022
+#### Chat with Professor
+> [TK] Simon Au
+
+### 07-06-2022
+#### Soldering
+> [TK]
+
+### 09-06-2022
+#### Unintentional coincidence
+> [TK] thomas + pool
+
+### 14-06-2022
+#### Grade appeal conclusion (probably)
+> [TK]
