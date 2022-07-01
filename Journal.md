@@ -192,7 +192,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Logic Final](#logic-final)
     - [06-05-2022](#06-05-2022)
       - [Year 1 concluded](#year-1-concluded)
-    - [220-05-2022](#220-05-2022)
+    - [22-05-2022](#22-05-2022)
       - [Lab exposure programme 1](#lab-exposure-programme-1)
     - [24-05-2022](#24-05-2022)
       - [Lab exposure programme 2](#lab-exposure-programme-2)
@@ -736,7 +736,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Academically speaking though, I would say it has been somewhat satisfactory in semester 1, but I'm not too sure about this semester. I'm definitely still going to try and apply or internal transfer, but I don't suppose I can qualify. I guess I figured before that chances are I couldn't get a year 1 transfer anyway. Actually, my first year hasn't actually officially concluded, since I still have a summer semester to go where we'll be mandated to take a *Summer Practical Training* course. Apparently we'll get to actually go do stuff in a hospital, so let's see how that goes.  
 > ***Post-script***: *As mentioned, this is not a complete yearly summary, but rather only a summary of the CUHK-related stuff. For yearly summaries, I thought it would be appropriate to do them every 27/09, seeing that it was the day Toby finally got me to start [the very first entry](#starting-this-journal).*
 
-### 220-05-2022
+### 22-05-2022
 #### Lab exposure programme 1
 > As you might be able to tell from its name, the lab exposure is basically us being exposed to a lab environment. I should first give some background information about what this programme even is. There were 11 supervisors that we can choose to follow, all with their respective research areas. We had to make a priority list for our preferences (which, if you didn't know, I absolutely despise from various past experiences). I believe it was assigned to us based on academic achievements and grades since they also required us to submit a CV alongside the application form. Anyway, I was assigned to my first choice, and my supervisor was the department's chairman. To be fair, that was also partly the reason I put him as my first choice since I thought he would have considerably more resources at his disposal. He has three research areas: soft robotics for rehabilitation, Kinect AR rehabilitation system, and brain research EEG MRI. Honestly, the scheme was so poorly introduced to us that I didn't even know we have to/ could choose from the research areas. We just thought all 3 were in the same package. So I chose the brain research EEG MRI.  
 > Some post-graduates in his team acted as my correspondence and added me to a group chat. I should first tell you that for this supervisor, he has provided 8 positions for us. You could imagine how surprised I was when I found out that the group chat has only myself and my correspondences. It wouldn't make much sense to create separate group chats for each student, since they also said that all arrangements will be made in the group chat. Maybe the brain research thing was just very niche(?) although I highly doubt it. I told Martin about the absurdity of this. He also chose the exact same thing as him, but he said no one has replied to his emails so far. Long story short, he was shortly added to the same group chat so at least it would be half as silent/awkward(?).  
