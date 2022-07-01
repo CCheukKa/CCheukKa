@@ -192,7 +192,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Logic Final](#logic-final)
     - [06-05-2022](#06-05-2022)
       - [Year 1 concluded](#year-1-concluded)
-    - [20-05-2022](#20-05-2022)
+    - [220-05-2022](#220-05-2022)
       - [Lab exposure programme 1](#lab-exposure-programme-1)
     - [24-05-2022](#24-05-2022)
       - [Lab exposure programme 2](#lab-exposure-programme-2)
@@ -211,6 +211,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Unintentional coincidence](#unintentional-coincidence)
     - [14-06-2022](#14-06-2022)
       - [Grade appeal conclusion (probably)](#grade-appeal-conclusion-probably)
+    - [20-06-2022](#20-06-2022)
+      - [Internal transfer shenanigans](#internal-transfer-shenanigans)
+    - [24-06-2022](#24-06-2022)
+      - [Some party](#some-party)
+    - [28-06-2022](#28-06-2022)
+      - [Lesson experience](#lesson-experience)
 
 ---
 
@@ -730,10 +736,14 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Academically speaking though, I would say it has been somewhat satisfactory in semester 1, but I'm not too sure about this semester. I'm definitely still going to try and apply or internal transfer, but I don't suppose I can qualify. I guess I figured before that chances are I couldn't get a year 1 transfer anyway. Actually, my first year hasn't actually officially concluded, since I still have a summer semester to go where we'll be mandated to take a *Summer Practical Training* course. Apparently we'll get to actually go do stuff in a hospital, so let's see how that goes.  
 > ***Post-script***: *As mentioned, this is not a complete yearly summary, but rather only a summary of the CUHK-related stuff. For yearly summaries, I thought it would be appropriate to do them every 27/09, seeing that it was the day Toby finally got me to start [the very first entry](#starting-this-journal).*
 
-### 20-05-2022
+### 220-05-2022
 #### Lab exposure programme 1
-> As you might be able to tell from its name, the lab exposure is basically us being exposed to a lab environment.
-> [TK]
+> As you might be able to tell from its name, the lab exposure is basically us being exposed to a lab environment. I should first give some background information about what this programme even is. There were 11 supervisors that we can choose to follow, all with their respective research areas. We had to make a priority list for our preferences (which, if you didn't know, I absolutely despise from various past experiences). I believe it was assigned to us based on academic achievements and grades since they also required us to submit a CV alongside the application form. Anyway, I was assigned to my first choice, and my supervisor was the department's chairman. To be fair, that was also partly the reason I put him as my first choice since I thought he would have considerably more resources at his disposal. He has three research areas: soft robotics for rehabilitation, Kinect AR rehabilitation system, and brain research EEG MRI. Honestly, the scheme was so poorly introduced to us that I didn't even know we have to/ could choose from the research areas. We just thought all 3 were in the same package. So I chose the brain research EEG MRI.  
+> Some post-graduates in his team acted as my correspondence and added me to a group chat. I should first tell you that for this supervisor, he has provided 8 positions for us. You could imagine how surprised I was when I found out that the group chat has only myself and my correspondences. It wouldn't make much sense to create separate group chats for each student, since they also said that all arrangements will be made in the group chat. Maybe the brain research thing was just very niche(?) although I highly doubt it. I told Martin about the absurdity of this. He also chose the exact same thing as him, but he said no one has replied to his emails so far. Long story short, he was shortly added to the same group chat so at least it would be half as silent/awkward(?).  
+> The correspondences told us there would be an EEG experiment today and invited us to observe. I had little expectation going into this since, as I've mentioned, we were barely given any introduction prior. The lab was rather quaint, if I might comment. It was located in my department's floor of the building, and I have walked past it quite a few times without batting an eye. Well I have taken the time to notice that the were using Linux but that was as much interest as I have given it before. It was rather small and crowded. It was mainly separated into two rooms. The entrance gives way to the "control room" with some computers and stuff. It was connected to a small toilet-looking area with no toilet weirdly enough. Then there were two thick doors, comparable to those seen outside of MRI rooms. Probably filled with lead or something, although weirdly enough there was a window on the door for some reason. They were in serial, mind you, not side-by-side, so it was quite apparent that they were trying to block radiation of sorts; but again the window just completely baffles me since it defeats their entire purpose. Behind the doors was a room lightly padded with sound-proof lining. There were quite a lot of prototype machines, gadgets, and whatnot.  
+> The associates gave us some brief introduction of what they'll be doing, namely measuring the brain waves of a stroke recovery patient while she is doing tasks. Not long after, said old lady arrived alongside her caretaker/daughter(?). She was seated in that experiment room where a probe-filled headgear was put onto her. The associates then proceeded to inject a gel in-between the headgear and her head with syringes. The probes will be measuring her minute brain voltages so the gel is quite important as they minimises the resistances given by the air gap. The way they apply the gel is quite a sight to behold though. There were holes in the headgear for this exact purpose, but apparently the gel couldn't spread well enough on its own so they had to wriggle the syringe in all sorts of directions to spread. It genuinely looked a lot like they were performing minimally invasive brain surgery on her. The whole I was just thinking about the bare metal not-non-sharp point of the syringes scraping against her scalp. As this ritual is taking place, we could see the computer indicating the resistances was reaching acceptable levels with a map of the probes lighting up sequentially.  
+> That whole process took ~45 minutes. An associate came out and briefly talked about what they will be doing next. He said apparently the hugely thick doors are to block stray radiation and signals from the outside world since the equipment was very prone to external disturbances. He then closed the two aforementioned hugely thick doors and went back into the room. The experiment then began. They were measuring her brain signals while she was doing motor tasks. We were just asked to sit and wait outside. The experiment went on for a very long time. Martin eventually got tired of it and went to fetch his laptop to work on an assignment. After ~10 minutes, an associate came out and chatted with us about various things. He showed us some MRI images and models and we discussed about the contemporary challenges and future research directions. Somewhere along the line Martin just straight up fell asleep. We kept on chatting for ~15 minutes before he went back into the room. Martin then proceeded to finish the rest of the assignment while we kept waiting. The entire experiment lasted for around an hour. The old lady was escorted out of the room. Her hair was soaked in the gel. And now finally the pieces were put together: the toilet area was so that she could wash her hair. That still has to be the most ridiculous infrastructure I would imagine seeing in a laboratory environment. They quickly dried her hair with a hairdryer and escorted her out of the lab. And that would be the end of this.  
+> Going into this, I genuinely expected the supervisor himself to show up somehow in some shape or form. He didn't. And I expected the lab to be more lab-like instead of whatever cramped room that was. I can't say it was disappointing, but this wasn't what I had in mind, nor can I tell you what I got from this experience. Eh.
 
 ### 24-05-2022
 #### Lab exposure programme 2
@@ -769,6 +779,17 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 #### Grade appeal bureaucratic hell
 > I suppose I should do a detailed breakdown before anything else lest my eagerness makes little sense.  
+> First of all, this course accounts for 4 credits, which is nothing to scoff at. To give you some perspective, I have only take na total of 33 credits this whole year, so it definitely matters a lot for my GPA.  
+> Anyway, as I have mentioned, I have put a lot of time into this course. And frankly, I got quite decent grades:  
+> 
+> | Assessment item            |    Score | Weighting |
+> | :------------------------- | -------: | :-------- |
+> | Summary Synthesis Exercise | 83.5/100 | 20%       |
+> | Essay Proposal             | 80.5/100 | 20%       |
+> | Oral Presentation          |   83/100 | 20%       |
+> | Expository Essay           |      TBA | 40%       |
+> 
+> The first item, *summary synthesis exercise*, accounts for a whopping 20% of the entire course. However, the entire assignment involves only writing a grand total of 20 words
 > [TK]
 
 ### 04-06-2022
@@ -790,3 +811,15 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 14-06-2022
 #### Grade appeal conclusion (probably)
 > [TK]
+
+### 20-06-2022
+#### Internal transfer shenanigans
+> [TK]
+
+### 24-06-2022
+#### Some party
+> escape room + party room [TK]
+
+### 28-06-2022
+#### Lesson experience
+> UGFN focus group study [TK]
