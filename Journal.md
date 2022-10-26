@@ -833,3 +833,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 28-06-2022
 #### Lesson experience
 > UGFN focus group study [TK]
+
+### 28-09-2022
+#### Biomechanics quiz 1
+> This quiz was rather unexpectedly difficult. I have no idea why, but I seem to struggle with it a lot. I guess I can partly attribute it to the weird question formats and the unorthodox diagrams. I genuinely don't have too much expectation on this one.
