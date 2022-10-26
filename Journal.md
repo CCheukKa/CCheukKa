@@ -847,3 +847,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 18-10-2022
 #### Complex Analysis and Differential Equations midterm
 > This might actually be the easiest exam I have done in my life, and the scary thing is that I might not actually be exaggerating. My preferred method of studying tend to be only doing past papers and less about actually reading into the material since I find learning by doing much more effective. The thing is that, literally every single question in the entire paper is copied straight from past papers. I have literally seen and done and read the solution of every single question before. I would genuinely be surprised if I don't get something like ~90% unless I make some stupid blunder (although I do tend to do that a lot). Laziest setter ever.
+
+
+### 26-10-2022
+#### Biomechanics quiz 2
+> This time it was quite easy, as expected. Honestly, it was only the last time that had a weird difficulty to it for some reason. I guess dynamics have always been easier than statics. The syllabus was mainly rotation stuff but there was actually only a few questions concerning that with most about regular mechanics. I'd say I would have high hopes for this one.
