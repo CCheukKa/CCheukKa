@@ -754,7 +754,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ### 31-05-2022
 #### Year 1 Semester 2 results released
-> This is overall quite weird and unexpected.
+> This is overall quite weird and unexpected. *(This is not the final grades since there was idiocy involved, see updated version [here](#grade-appeal-conclusion-probably))*  
 >  
 > | Course Title                                 | Credit | Grade |
 > | :------------------------------------------- | :----: | :---- |
