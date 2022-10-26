@@ -842,3 +842,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 10-10-2022
 #### Biomechanics quiz 1 results released
 > I don't think I have seen results this horrible ever. I got only 60% in the quiz, but I guess it was somewhat expected. I am not too particularly shaken by it since each quiz only accounts for 10% of the total course grade, but I guess I should do better. Although I would argue that I don't agree with quite a handful of questions with the way they are phrased and the way they were interpreted. I mean this is by all means a physics course but for some reason taught not by physics professors, so it is a little bit sketchier than I would've like, not to mention that the entire paper is apparently not even set by the professors but instead by the TA. Let's hope the next quiz would serve me better.
+
+
+### 18-10-2022
+#### Complex Analysis and Differential Equations midterm
+> This might actually be the easiest exam I have done in my life, and the scary thing is that I might not actually be exaggerating. My preferred method of studying tend to be only doing past papers and less about actually reading into the material since I find learning by doing much more effective. The thing is that, literally every single question in the entire paper is copied straight from past papers. I have literally seen and done and read the solution of every single question before. I would genuinely be surprised if I don't get something like ~90% unless I make some stupid blunder (although I do tend to do that a lot). Laziest setter ever.
