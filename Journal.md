@@ -837,3 +837,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 28-09-2022
 #### Biomechanics quiz 1
 > This quiz was rather unexpectedly difficult. I have no idea why, but I seem to struggle with it a lot. I guess I can partly attribute it to the weird question formats and the unorthodox diagrams. I genuinely don't have too much expectation on this one.
+
+
+### 10-10-2022
+#### Biomechanics quiz 1 results released
+> I don't think I have seen results this horrible ever. I got only 60% in the quiz, but I guess it was somewhat expected. I am not too particularly shaken by it since each quiz only accounts for 10% of the total course grade, but I guess I should do better. Although I would argue that I don't agree with quite a handful of questions with the way they are phrased and the way they were interpreted. I mean this is by all means a physics course but for some reason taught not by physics professors, so it is a little bit sketchier than I would've like, not to mention that the entire paper is apparently not even set by the professors but instead by the TA. Let's hope the next quiz would serve me better.
