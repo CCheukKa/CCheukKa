@@ -291,6 +291,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [InnoCarnival 2022 helper: day 2](#innocarnival-2022-helper-day-2)
     - [26-10-2022](#26-10-2022)
       - [Biomechanics quiz 2](#biomechanics-quiz-2)
+    - [31-10-2022](#31-10-2022)
+      - [Complex Analysis and Differential Equations midterm results released](#complex-analysis-and-differential-equations-midterm-results-released)
 
 ---
 
@@ -952,3 +954,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 26-10-2022
 #### Biomechanics quiz 2
 > This time it was quite easy, as expected. Honestly, it was only the last time that had a weird difficulty to it for some reason. I guess dynamics have always been easier than statics. The syllabus was mainly rotation stuff but there was actually only a few questions concerning that with most about regular mechanics. I'd say I would have high hopes for this one.
+
+### 31-10-2022
+#### Complex Analysis and Differential Equations midterm results released
+> As I have mentioned [before](#complex-analysis-and-differential-equations-midterm), literally none of the questions are new. One can literally know nothing about the subject and take only the marking schemes as their cheat sheet and get a full score. I got a 100% in this midterm, and I heard a lot of people got high 90%s too. If it was up to me, this kind of lecturers would definitely get fired like as soon as they became one. I highly doubt that they would have the audacity to still recycle old questions for the final examination after this fiasco, so I guess I do have to expect the final exam be much tougher lest everyone gets an A.
+
