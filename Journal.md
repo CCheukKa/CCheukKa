@@ -894,7 +894,23 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ### 14-06-2022
 #### Grade appeal conclusion (probably)
-> [TK]
+> A lot had happened since [this ordeal began](#grade-appeal-bureaucratic-hell), countless emails
+> He eventually did respond and said I should go ahead and request an official grade appeal from the English department. I felt like he was trying to ignore me to lessen his workload during his holidays. I couldn't stand his sloth, so I went straight ahead and involved the English department to request this grade appeal. I made sure to CC him in the email so he wouldn't be able to ignore me. I don't believe he really meant it when he said that I should ask the English department directly, since immediately after my email, he said that I had *"bypassed him"*. I made it clear to him that I was merely following his instructions and of course I also CC'd the department just to make sure we are on the same page. After a total of ***21*** fucking emails, he eventually agreed to entertain my appeal and bumped me up a sub-grade from B+ to A-.  
+> So here are my grades as they stand:  
+>   
+> | Course Title                                 | Credit | Grade |
+> | :------------------------------------------- | :----: | :---- |
+> | In Dialogue with Nature                      |   3    | A     |
+> | Multivariable Calculus for Engineers         |   3    | A     |
+> | English Communication for University Studies |   4    | A-    |
+> | Linear Algebra for Engineers                 |   3    | A-    |
+> | Logic                                        |   2    | A-    |
+> | Human Anatomy and Physiology 2               |   2    | B+    |
+> | Physical Education                           |   1    | TBD   |
+> **Term GPA: 3.756 @17**  
+> **Cumulative GPA: 3.703 @33*
+>  
+> One might think this is a completely ridiculous endeavour, but might I draw your attention to the 0.048 difference in GPA, which is definitely nothing to scoff at. I hope I never encounter this absurd demonstration of bureaucracy and sloth ever again in my entire life, although somehow I doubt this could ever come true.
 
 ### 20-06-2022
 #### Internal transfer shenanigans
