@@ -295,6 +295,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Biomechanics quiz 2](#biomechanics-quiz-2)
     - [31-10-2022](#31-10-2022)
       - [Complex Analysis and Differential Equations midterm results released](#complex-analysis-and-differential-equations-midterm-results-released)
+      - [Programming midterm results released](#programming-midterm-results-released)
 
 ---
 
@@ -965,4 +966,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 31-10-2022
 #### Complex Analysis and Differential Equations midterm results released
 > As I have mentioned [before](#complex-analysis-and-differential-equations-midterm), literally none of the questions are new. One can literally know nothing about the subject and take only the marking schemes as their cheat sheet and get a full score. I got a 100% in this midterm, and I heard a lot of people got high 90%s too. If it was up to me, this kind of lecturers would definitely get fired like as soon as they became one. I highly doubt that they would have the audacity to still recycle old questions for the final examination after this fiasco, so I guess I do have to expect the final exam be much tougher lest everyone gets an A.
+
+#### Programming midterm results released
+> I absolutely still stand by what I have said [before](#programming-midterm). Considering this is a compulsory course for all students, such demon-spawn of a curriculum must not be tolerated.  
+> With that said, I got a 96% in this exam. I'd genuinely rather not find out where the 4% went lest I commit arson through sheer fury and disbelief alone.
 
