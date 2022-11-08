@@ -296,6 +296,9 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [31-10-2022](#31-10-2022)
       - [Complex Analysis and Differential Equations midterm results released](#complex-analysis-and-differential-equations-midterm-results-released)
       - [Programming midterm results released](#programming-midterm-results-released)
+  - [November](#november-1)
+    - [01-11-2022](#01-11-2022)
+      - [Outline of Chinese Culture midterm](#outline-of-chinese-culture-midterm)
 
 ---
 
@@ -970,4 +973,10 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Programming midterm results released
 > I absolutely still stand by what I have said [before](#programming-midterm). Considering this is a compulsory course for all students, such demon-spawn of a curriculum must not be tolerated.  
 > With that said, I got a 96% in this exam. I'd genuinely rather not find out where the 4% went lest I commit arson through sheer fury and disbelief alone.
+
+## November
+### 01-11-2022
+#### Outline of Chinese Culture midterm
+> This course is really quite interesting. Despite what the course title suggests, it is really more about studying, questioning, and subverting traditional Chinese culture and ideas than simply appreciating it as we have done for years. It is a little bit radical in a sense. This might be the only course that I completely have no idea about when I took it. *UGEA (Chinese Cultural Heritage)* courses were the ones I dreaded most since this area concerns Chinese culture and history, all of which urges me to pull my hair out, but this is easily the most interesting course I have taken so far, barring *UGFN (In Dialogue with Nature)*.  
+> The midterm exam consists of 20 T/F questions and 6 long questions. The lecturer was quite insistent that we give concise and precise answers instead of writing everything that comes to mind, for which I'm quite glad. Interestingly, we were allowed to bring in a double-sided A4 cheat sheet, which I honestly didn't really find too much utility in, but I guess I can see why this is a thing. I have genuinely no idea how I did, as do I for most expressive-type questions/papers. I guess I understood the ideas pretty well, although not so much for the material itself on a word-to-word basis. So I guess I can't imagine myself doing either too bad or terribly great.
 
