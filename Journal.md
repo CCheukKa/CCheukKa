@@ -82,7 +82,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [04-11-2021](#04-11-2021)
       - [Zhong profile picture taking](#zhong-profile-picture-taking)
     - [06-11-2021](#06-11-2021)
-      - [Physics midterm 1](#physics-midterm-1)
+      - [Physics midterm](#physics-midterm)
     - [09-11-2021](#09-11-2021)
       - [Maths midterm results](#maths-midterm-results)
     - [13-11-2021](#13-11-2021)
@@ -167,29 +167,29 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [An attempt to hike](#an-attempt-to-hike)
   - [March](#march)
     - [03-03-2022](#03-03-2022)
-      - [Multivariable Calculus Midterm](#multivariable-calculus-midterm)
+      - [Multivariable Calculus midterm](#multivariable-calculus-midterm)
     - [08-03-2022](#08-03-2022)
-      - [Logic Midterm](#logic-midterm)
+      - [Logic midterm](#logic-midterm)
       - [Human Anatomy and Physiology 2 CA1](#human-anatomy-and-physiology-2-ca1)
     - [11-03-2022](#11-03-2022)
-      - [Linear Algebra Midterm](#linear-algebra-midterm)
+      - [Linear Algebra midterm](#linear-algebra-midterm)
   - [April](#april)
     - [09-04-2022](#09-04-2022)
       - [CUHK Camping trip](#cuhk-camping-trip)
     - [14-04-2022](#14-04-2022)
       - [Inevitable reoccurring hiatuses](#inevitable-reoccurring-hiatuses)
-      - [Year 1 Semester 2 Midterm results released](#year-1-semester-2-midterm-results-released)
+      - [Year 1 Semester 2 midterm results released](#year-1-semester-2-midterm-results-released)
     - [19-04-2022](#19-04-2022)
       - [Human Anatomy and Physiology 2 CA2](#human-anatomy-and-physiology-2-ca2)
     - [28-04-2022](#28-04-2022)
-      - [Multivariable Calculus Final](#multivariable-calculus-final)
+      - [Multivariable Calculus final](#multivariable-calculus-final)
   - [May](#may)
     - [03-05-2022](#03-05-2022)
-      - [Human Anatomy and Physiology 2 Final](#human-anatomy-and-physiology-2-final)
+      - [Human Anatomy and Physiology 2 final](#human-anatomy-and-physiology-2-final)
     - [04-05-2022](#04-05-2022)
-      - [Linear Algebra Final](#linear-algebra-final)
+      - [Linear Algebra final](#linear-algebra-final)
     - [05-05-2022](#05-05-2022)
-      - [Logic Final](#logic-final)
+      - [Logic final](#logic-final)
     - [06-05-2022](#06-05-2022)
       - [Year 1 concluded](#year-1-concluded)
     - [22-05-2022](#22-05-2022)
@@ -502,11 +502,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Today we went to ***CWC College*** to get our profile pictures for the zhong documents taken. That was the very first time I went to ***CWC***. Anyway, I was something like 2 hours late since I had a College General Education Class at the same time we decided to do this. Everyone had finished their solo profile picture by then so I hurried to the spot and proceeded to take a really long time to take a whole series of photos. I was really never a photo-philic kind of person but since Kody said to take my time I really took my time. Apparently I took a really long time compared to everyone else but in my defence, I never knew that, and Kody wasn't seeming particularly annoyed by it so I thought it was fine. Either way, we then took a whole bunch of group pictures with all sorts of formations (most of them turned out horrible) and even some sitting on the road. We ended when the sun started going down. The dress code was that we had to wear the zhong T-shirt and jeans. And I'll say it right here: I *hate* jeans. They are really as uncomfortable as an article of clothing can get. The creases it would make at the posterior of your knees whenever your knee bend even slightly are absolutely irritating. Unless they are made of really thin fabric, this problem would be there no matter what. Moreover, their pockets are never deep enough for anything, and their positioning is horrendous. Maybe I'll talk some other time about my grunt with various species of clothing, lest this become an endless rant.
 
 ### 06-11-2021
-#### Physics midterm 1
+#### Physics midterm
 > Honestly, I basically winged this midterm. Partly because I didn't have much motivation to study it, partly because I had no clue how to even study it in the first place. Either way, I basically did the least amount of preparation possibly; any less and it wouldn't have counted at all. I skimmed through the lecture slides, did some past papers to no avail, and typed up a cheat sheet (Yes it was allowed). Surprisingly, I'd say it went the most smoothly among all the midterms. I had time remaining for some reason, to perform double-checks and self-doubt. Interestingly, the most challenging parts of the entire Physics midterm were questions that involved more Maths than Physics, where you had to do a lot lot of algebra to prove something. The cheat sheet honestly didn't really help much 'cus I don't think you would really need a cheat sheet or formula list if you are familiar with the curriculum. I don't think I've referenced the formula list at all in my DSE, except for the Einstein(?) atomic stuff. Anyway, after sessions of peer-cross-checks, I was feeling pretty confident about my performance. Honestly I have no clue what this entry would be about when I started writing it but I kinda feel like I should write something, so this is that.
 
 ### 09-11-2021
 #### Maths midterm results
+> *[Here](#mathematics-midterm) is the corresponding post-exam evaluation.*  
 > Today, the results for the Maths midterm was released. I got 110 out of 150 which translates to 73.33%. It definitely wasn't ideal, and I can't say I am too impressed by my performance. And in addition, I believe some marks were deducted unjustly which I will probably request a regrade on. I guess I can't dwell too much on this, since a non-insignificant amount of the deducted score came from time constraints. Despite this, it shall't serve as an excuse for the other rather-significant amount of that from my carelessness and incompetence. As of the writing of this, I still am not too sure about how GPA is calculated for each and every course, nor do I know whether they are calculated by absolute grading or relative grading, so I can't say how bad my current GPA is right now, especially not when my performances in the other midterms are still shrouded in mystery. I can't say I'm too thrilled about everything that's going on in my life in terms of academics. Not just the midterms, but also the assignments, or more specifically the time allocation for them. Since about two weeks ago, I had lost track of my to-do list and had been failing to stay ahead of it. (I guess you can tell by how many days I've skipped writing entries for recently) Last week flew by while I barely even noticed it. Deadlines are now looming closer and closer while I still have little clue about them. I basically started giving up some of my group assignments and had left some of them to the group and basically started free-riding. That's quite a role-reversal for me seeing that it's usually me who's the one being free-ridden. Yes, I'm exaggerating a bit here but honestly it's further away from the truth. I know I have to keep my shit together, but with the projects, presentations, assignments, meetings, and finals all piled up and due in November, I can't say I have the confidence I could achieve this and lighten my burden, both academically and mentally, before they prove too great to be handled and I just end up breaking. Yes, internal transferral is still a thing, at least I hope so. It would just all come down to my performance in my finals and whatever should happen in the next semester.  
 > ***Post-script***: *Honestly this semester felt more like a whole year than barely half of it. I guess things are just moving at a different pace than I'm used to. I'll probably have more insights once the semester actually ends, so let's wait and see.*
 
@@ -541,6 +542,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ### 24-11-2021
 #### Physics midterm results released
+> *[Here](#physics-midterm) is the corresponding post-exam evaluation.*  
 > The results of my physics midterm examination had been released today. I got 93.5% in it. As mentioned, it felt rather easy at the time, and it sure seemed so now. Despite this, it shalln't be used as an example to be followed since I skipped practically all lectures and tutorials of Physics barring the first few, and I meant "*all*" when I said "all". I'm in a kind of special relationship with Physics, I would say. It was the subject that I banked the most on achieving a 5** in in the HKDSE, and hence it was the most disappointing to not have a 5** in, alongside with Maths. So I'd say I kinda have a grunt towards Physics. It's not like I dislike Physics or anything, it's just that it can be annoying at times. I guess I could say tha same about Maths, seeing that university-level Physics is basically applicable Maths with more flare anyway. Either way, I guess it was somewhat justified since the syllabus mostly covered stuff that I already had the fundamentals nailed in my secondary school years - actually not really, since it now apparently involves more derivatives and integrations than the Maths paper. "Like" is a strong word but I genuinely think I like Physics. The way it makes you think and reconsider interactions based seemingly on intuition, and makes you wonder what makes this whole world tick. It allows you a playground in which you can express your logic and proficiency in the subject matter to a satisfying degree, but not too boundless and ungrounded as pure Mathematics can sometimes be. No matter how complex the proposed scenario might be, it would always work at the very end. A solution will *always* exist, since basically the entirety of existence itself banks on it. I'd say it would be very rare that you couldn't visualise a Physics scenario with enough comprehension of it. But that was enough of me being a salesperson for a field of science. The point is, I have no idea what the point I was trying to express was. Physics is quite beautiful I guess (when excessive amounts of calculus aren't involved).
 
 ### 25-11-2021
@@ -551,6 +553,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Taxis can fly
 > I woke up at 14:02 today, at home, and had a lecture in CUHK, at 14:30. Fuck. It would take 50 minutes at the very least, just to transit. But I had the bright idea, or rather, the only idea, to try my luck and took a taxi. Honestly, that was a rather big gamble since taxi drivers usually tend not to entertain passengers trying to go beyond their usual work area, namely from Kowloon to the New Territories. Anyway, I got onto the taxi at 14:10, and somehow managed to arrive CUHK at 14:26. I was quite dumbfounded by the speed it managed. For the times we tried driving there, it took around 25 minutes. But I guess I shouldn't be surprised by how efficient Hong Kong people can get. And to add on, the taxi driver took me exactly where I needed to go to (***Chung Chi College*** entrance) since he apparently didn't know any other conventional entrances (MTR station/ Main entrance) to CUHK. Apparently taxis can really fly in Hong Kong, hence the term "fly taxi". Oh yeah and it costed something like $136, so never again.
 #### Anatomy and Physiology CA1 results released
+> *[Here](#anatomy-and-physiology-ca1) is the corresponding post-assessment evaluation.*  
 > There isn't much to say honestly, but I thought I should make an entry for every exam/assessment just for the sake of documentation, but also for cross-referencing my post-test feel versus the actual scores themselves. Anyway, I got 18 out of 21, which translates into 85.7%. I don't know how to comment on this except that it seemed to be a rather admirable score compared to the rest of the class. The fail rate was as high as 30%, if I had heard correctly. True or not, I should be preparing for the next CA, which was proposed to be on 07/12, weirdly close to the finals seeing that the Physics final would be on 10/12 and the other subjects would soon follow. Not much else to comment except my piled up work again.
 #### Some zhong meal/gathering
 > Honestly, I don't know at this point. I believe I no longer have any clue what this whole ordeal is evolving into. The IVP of the "other side" contacted a few of us yesterday trying to recruit a whole new cabinet, which proved to be quite futile, seeing that they still haven't yet managed to establish one even today, as of the writing of this, on 29/11. Either way, the people on "this side" along with two of the previous zhong who we are close to had decided to dine out, at exactly where everything had started, the place in *Fo Tan*, as seen in the entry on 30/09. I didn't write too much about that restaurant thing then, since I thought it was rather ritualistic and shouldn't warrant too much of a mention. Someone proposed that we should "go back to where everything had started" and hence that was the place that we chose, or at least that would have been the case, if that someone had booked the correct place. He actually booked the place next to that restaurant, which surprisingly tasted a lot better than the place we were originally planning to dine at, not to mention it had air-conditioning which the other place didn't. It's not like I understood the concept of "returning to the starting point of everything" in the first place. Other than that the food was rather tasty and that we managed to scam the restaurant by having them repeatedly refilling our large pot of congee for at least five times. The staff/boss was getting really annoyed which was quite funny. As usual, the meal itself wasn't otherwise too eventful.  
@@ -675,16 +678,16 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Year 1 Semester 1 results released
 > It was really a roller coaster. Of the first few subjects released, my GPA was comfortably above 3.7, until the rest got released, which dramatically killed it. Maybe I should do a table to break them down.  
 > 
-> | Course Title                           | Credit | Grade |  
-> | :------------------------------------- | :----: | :---- |  
-> | Human Anatomy and Physiology 1         |   2    | A     |  
-> | Calculus for Engineers                 |   3    | A-    |  
-> | Engineering Physics                    |   3    | A-    |  
-> | University Chinese 1                   |   3    | A-    |  
-> | College General Education 1            |   2    | A-    |  
-> | College General Education 2            |   1    | B+    |  
-> | Introduction to Biomedical Engineering |   1    | B+    |  
-> | Physical Education                     |   1    | B     |  
+> | Course Title                                                                        | Credit | Grade |
+> | :---------------------------------------------------------------------------------- | :----: | :---- |
+> | [Human Anatomy and Physiology 1](#human-anatomy-and-physiology-1-final-examination) |   2    | A     |
+> | [Calculus for Engineers](#calculus-final-examination)                               |   3    | A-    |
+> | [Engineering Physics](#physics-final-examination)                                   |   3    | A-    |
+> | [University Chinese 1](#chinese-final-examination)                                  |   3    | A-    |
+> | College General Education 1                                                         |   2    | A-    |
+> | College General Education 2                                                         |   1    | B+    |
+> | Introduction to Biomedical Engineering                                              |   1    | B+    |
+> | Physical Education                                                                  |   1    | B     |
 > **Term GPA: 3.644 @16**  
 > *Cumulative GPA: 3.644 @16*
 > 
@@ -742,12 +745,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ## March
 ### 03-03-2022
-#### Multivariable Calculus Midterm
+#### Multivariable Calculus midterm
 > To be fair, I did not attend a single lecture of this course. I just started revising yesterday and it somehow seem to have worked for me, in this exam at least. Honestly, I didn't find it particularly challenging. Partly credited to this exam being open-book, but I guess the one exercise that I've semi-done yesternight also helped somewhat.  
 > As for the reason why I hadn't been attending lectures: the lecturer sucks ass. I shall now take liberal time to rant about him. His notes are horrendous and incomplete. I would go as far as, if not further than, to say that they are the worst notes I have ever seen in my entire life. Entire examples and theorems can be missing from the notes, since apparently he would like us all to attend his lectures where he goes through the curriculum more slowly than a beginner with absolutely no knowledge in the topic at all. I'm glad we have a feedback questionnaire at the end of each semester cus you bet I'm going to report his ass with his incomplete notes. I have basically dropped this lecturer entirely. For my revision, I have been using notes from another lecturer, whose notes are extremely professional and quality. Apparently, this is only his side job too. He mainly teaches secondary school maths in tutor centers, so I guess this would be where the format, layout, and flow of this notes are from.
 
 ### 08-03-2022
-#### Logic Midterm
+#### Logic midterm
 > The exam was honestly much harder than I had thought it would be, although it's definitely still doable. I honestly though the allocated time was too adequate for a whole bunch of MC questions, however, it turns out I have barely enough time to go through all of them. I had to foresight to compile a cheat sheet in this already open-book exam, which definitely cut down the time I had to take going through the lecture slides. To be honest, I was quasi-attending the lectures, as in, I would attend but put the lecture in the background. I was still able to get the most important points of each lectures though (somewhat).
 
 #### Human Anatomy and Physiology 2 CA1
@@ -755,7 +758,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > I ended up sleeping for 2 hours then woke up at 02:00 to start studying. I was miraculously able to chow down an entire semester of lecture and successfully went through everything at least once while making notes, before my lectures started at 08:30. Despite this, I obviously couldn't get too familiarised with the curriculum, which I absolutely had to for this course. Surprisingly, I did all right in the closed-book exam, but I ended up falling for some simple traps and details that I would've known about had I gone through the syllabus multiple times. I guess I was glad that exams for this course didn't require you to understand the subject completely since it is arguably leans not too much on the logic side of things.
 
 ### 11-03-2022
-#### Linear Algebra Midterm
+#### Linear Algebra midterm
 > I had the displeasure to be taught by the same ass lecturer again, and suffice to say, I once again didn't attend any of the lectures again. However, that other good lecturer doesn't teach this course so I was basically on my own with only the help of Martin's notes. I spent some time whipping up a cheat sheet since this is another closed-book exam (for some reason). Although I understand every aspect of the curriculum, I ultimately was victim of the tried and true reality of easy courses having difficult exams. This course basically only concerns mostly secondary school level M2 stuff, although much more meticulous and tricky. To be fair, I had no problem with the "difficult" parts, but got stuck in simple algebra. I would say I have never done a worse paper in since secondary school. Let's hope I didn't do too badly that I would have a chance to catch up in my final examination.
 
 ## April
@@ -780,12 +783,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > A tangentially related thing is that I believe I have aged quite significantly this year. Apart from the sleep thing, I get tired a lot more easily. Although I would say me peak productivity have somewhat increased overall, I can't say that they would be sufficient to make up the increased downtime that I would have to take in-between productivity sessions. My brain moves substantially slower, as mentioned above, and I've gotten a lot *lot* more forgetful. My vigour and passion dipped. I feel like this is somewhat about ageing, since I've read that your body ages a lot more in certain years of your life instead of a steady decline. This may be one of those years. I may also be worrying more about various things. I genuinely have little clue.  
 > Yes. No conclusion, no outlook, and no cue for the end of the entry.
 
-#### Year 1 Semester 2 Midterm results released
+#### Year 1 Semester 2 midterm results released
 > They're not good.  
-> For the *Multivariable Calculus* midterm, I got 84%, which I guess is quite passable, and I would say it aligned with my expectation rather closely. For the other ones, however, not so much.  
-> For the *Linear Algebra* midterm, I got a mere 69%, which is to be frank, absolutely horrendous. I was stuck on the simplest algebraic calculations, even on ones that doesn't involve any high-level mathematics at all. I genuinely have no idea why that was the case, but I guess my mathematics senses have left me, at least the fundamental mathematics senses.  
-> For the *Human Anatomy and Physiology 2* CA1, I got absolutely smoked, but I guess it was to be expected. I got a mere 71.4%. I'm genuinely not sure how to feel about this, considering the [circumstances](#human-anatomy-and-physiology-2-ca1), however, what I would say is that I thought I had done better than I actually had.  
-> For the *Logic* midterm, I got 80%. I also don't know how to feel about this, since my initial idea for taking this course is to bring my GPA up. I guess it had somewhat achieved this goal, but I can't say I'm too certain about it. I guess we'll have to wait for its final examination.  
+> For the [*Multivariable Calculus* midterm](#multivariable-calculus-midterm), I got 84%, which I guess is quite passable, and I would say it aligned with my expectation rather closely. For the other ones, however, not so much.  
+> For the [*Linear Algebra* midterm](#linear-algebra-midterm), I got a mere 69%, which is to be frank, absolutely horrendous. I was stuck on the simplest algebraic calculations, even on ones that doesn't involve any high-level mathematics at all. I genuinely have no idea why that was the case, but I guess my mathematics senses have left me, at least the fundamental mathematics senses.  
+> For the [*Human Anatomy and Physiology 2* CA1](#human-anatomy-and-physiology-2-ca1), I got absolutely smoked, but I guess it was to be expected. I got a mere 71.4%. I'm genuinely not sure how to feel about this, considering the [circumstances](#human-anatomy-and-physiology-2-ca1), however, what I would say is that I thought I had done better than I actually had.  
+> For the [*Logic* midterm](#logic-midterm), I got 80%. I also don't know how to feel about this, since my initial idea for taking this course is to bring my GPA up. I guess it had somewhat achieved this goal, but I can't say I'm too certain about it. I guess we'll have to wait for its final examination.  
 > Another thing, due to the [hiatus and burnout thing](#inevitable-reoccurring-hiatuses), I didn't manage to write these as separate entries as I had last semester. TO be frank, I didn't even check my grades at all despite them being out for more than a month already. I guess this point of me documenting these in the first place was to allow myself time to think and reflect, or was it? No idea. I should stop rambling before my words stop making the slightest hint of sense.
 
 ### 19-04-2022
@@ -794,22 +797,22 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > I have no idea what happened in this CA. I wasn't even aware of its existence until a week prior, but that's not too relevant here just yet. As it goes, I had a grand total of 4 days of pure holidays to study for this CA. As it happened, I was still in a deep burnout state, and I literally slept for 2 entire days, so I had 2 days left. Following that, I wasn't able to concentrate at all since I was contemplating my *In Dialogue with Nature* essay topic. I'm not even sure what happened at the end, but I'd estimate around 60% of those 2 days were *not* productive at all. Either way, I felt like I was pretty okay before the test, at least better than [CA1](#human-anatomy-and-physiology-2-ca1). Although I wasn't able to learn the material completely (which I realised is a trash statement since I don't suppose it's possible), I felt like it could suffice. Turns out, I got the exact [same score](#year-1-semester-2-midterm-results-released) as in CA1, 71.4%. This time, the score was revealed immediately after submitting the paper, for some reason. I would say I was pretty disappointed, but I'd also say I can't say I'm surprised. Despite me putting (marginally) more effort into this, it ultimately covered much harder topics than in CA1.
 
 ### 28-04-2022
-#### Multivariable Calculus Final
+#### Multivariable Calculus final
 > Honestly, I believe I did rather swimmingly, barring some minor hiccups. I was rather confident after finishing this paper, although the last time I was *"rather confident"* about [something](#mathematics-midterm) it [didn't go too well](#maths-midterm-results). Honestly I'm unsure what more I can say about this since I've already ranted the lecturer's ass off [some entries ago](#multivariable-calculus-midterm). I guess I have been rather lucky to have found myself in one rather academically-focused friend group. They definitely hard carried me during this whole thing.
 
 ## May
 ### 03-05-2022
-#### Human Anatomy and Physiology 2 Final
+#### Human Anatomy and Physiology 2 final
 > Literally [the same exact thing](#human-anatomy-and-physiology-2-ca1) happened. I swear this course is cursed somehow. Its CA schedule coincided with my *University English* essay and *In Dialogue with Nature* term paper again. And to make it worse, I wasn't even aware of the [CA](#human-anatomy-and-physiology-2-ca2)'s existence until a week prior, so I actually had less time to finish the papers than I initially thought, hence this mess of an arrangement. I had to push back my revision for this substantially to make way. The lack of ideas and organisation in my papers, and my perfectionist refinements definitely didn't help. Either way, I should have a grand total of ~2 days to study for this after submitting the papers. However, you guessed it, I didn't have the slightest chance to get myself out of the burnout that started like 2 months ago since there has been nothing but tests, assignments, presentations, and papers. Not to mention that I had little sleep in the past 2 weeks focusing on the papers (do you know how long researching takes? *jesus fucking christ*) and prior tests.  
 > It sounds a lot like I'm making excuses for myself, but I can assure you that I have spent those 2 days doing nothing but sitting in front of my iPad with the notes open while blasting my usual accompanying music with the A/C turned up high. I don't believe even I got distracted by anything at all either. This should typically get me into studying and hard focus mode rather effectively. However, nothing clicked in my brain. I remember staring at the same 5 slides for literally an entire day, and I still couldn't get anything into my brain. I don't think I've experienced such a drought of mental power before, at all. I would estimate I had only around 16 hours left when I started going through the slides at a reasonable rate (i.e. *not 5 slides per day*). Keep in mind, that since both of my previous times revising this material was quite rushed, I didn't have time to consolidate anything. Practically nothing was committed into my long-term memory, so I basically had to re-learn the entire syllabus. I was profoundly tired, but I stayed up all night and "finished" going through the material *barely*. I had to take time to jump around in my room and in the living room so as to regain my focus and concentration. I even turned to caffeinated energy drinks around 3 hours prior to the exam. They didn't even do much other than raise my heart rate.  
 > Anyway, I got through the exam relatively final, except some hiccups in the short questions, which coincidentally accounted for quite a non-negligible amount of points. We had the choice to choose only half the questions to answer, but of course, in each and every one of them I failed to remember at least some key concept. Such is my luck and memory. To be fair, I don't believe I'm even knowledgable enough about the material to gauge my performance, so I don't suppose I should. Not satisfactory though, that's for sure.
 
 ### 04-05-2022
-#### Linear Algebra Final
+#### Linear Algebra final
 > I genuinely believe there is some wrong with my brain. There has to be. The key to these examinations have always been time management, since you should barely have enough time if you finish them normally. Meanwhile, my dumb self decided to spend ~30 minutes getting stuck on the simplest algebra and computation problems for no goddamn reason at all. I guess I've always done better in higher-level more complex topics than the lower-level more fundamental topics? Is that even a thing? It's not like I don't understand the concepts at all, quite the converse, actually. A lot of these were covered in M2 back in secondary school (apparently secondary school stuff can actually be useful, who knew?). Despite this, I'd say I managed to clutch out and answer all the questions that were well-within my realm of knowledge during the last moments right before the clock struck zero (some of those are completed after the clock stuck zero but let's not talk about them). As for the ones that are outside my realm of knowledge, I still tried to wrote some half-baked seemingly logical but mostly smokes-and-mirrors steps for them. I'd estimate around 70% of everything I've written down was in the second-half of the allowed time, a lot of which actually with only 15 minutes on the clock. However, this of course means that sadly I didn't really have time to ponder on the actually tricky questions. Why does my brain function in mysterious ways? I have no idea, but I'd very much like it to stop doing this.
 
 ### 05-05-2022
-#### Logic Final
+#### Logic final
 > This entire course is really quite enjoyable despite me not having attend a single lesson. She just talks too slowly, what more can I say? I found that university lecturers suck at time management, in that they very much like to teach the very complex topics in the same amount of time they used for the very easy topics. I've already [written once](#lecture-time-allocations) about this phenomenon, and this just further proves my point. But I digress.  
 > I spend a day self-learning the material from lecture slides, making my own notes. Honestly, I found a large majority of the exam pretty easy, with the only exception being the aforementioned very complex topic: *natural deduction*. I'd say the concept itself is not too hard to understand, but from the lecture slides and the few lecture recordings that she had put up, I found that she had missed some very key concepts that are vital to actually grasping and answering these types of questions. Natural deduction is basically like proofs in mathematics, in that you are given >1 premises statements in the form of logical operators and such, and from those, you'll have to transform them into the given conclusion statement, also in the form of logical jargon, using a set of identities. While the identities themselves are not hard to understand, and frankly, I don't think the correct way of tackling such questions is to understand those identities anyway, and what you had to do to derive the conclusion is easy to wrap your head around, the complexity of this entire ordeal grows exponentially as the statements get more and more complex. I'm genuinely unsure if there is an actual method to actually compute them but I can assure you that they are definitely not trivial to do despite the easy examples in textbooks and lecture slides coercing you to believe otherwise. While I was able to complete some steps and push the problem in the correct general direction, I ultimately couldn't finish any of the three questions of this sort to completion. They didn't account for too many points so it's not like I was too sad about this but I'd say this is quite a shame to not be able to complete them despite the goal seemingly within the reaches of my fingertips. I can't say the entire exam in general is too hard, since we were allowed to use as many tools to help us as we please, although the effectiveness of those "tools" are rather non-existent. All in all, I'd say I did passably. Perhaps I may even dive deeper into such topics in my own time.
 
@@ -842,15 +845,15 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Year 1 Semester 2 results released
 > This is overall quite weird and unexpected. *(This is not the final grades since there was idiocy involved, see updated version [here](#grade-appeal-conclusion-probably))*  
 >  
-> | Course Title                                 | Credit | Grade |
-> | :------------------------------------------- | :----: | :---- |
-> | In Dialogue with Nature                      |   3    | A     |
-> | Multivariable Calculus for Engineers         |   3    | A     |
-> | Linear Algebra for Engineers                 |   3    | A-    |
-> | Logic                                        |   2    | A-    |
-> | English Communication for University Studies |   4    | B+    |
-> | Human Anatomy and Physiology 2               |   2    | B+    |
-> | Physical Education                           |   1    | TBD   |
+> | Course Title                                                            | Credit | Grade |
+> | :---------------------------------------------------------------------- | :----: | :---- |
+> | In Dialogue with Nature                                                 |   3    | A     |
+> | [Multivariable Calculus for Engineers](#multivariable-calculus-final)   |   3    | A     |
+> | [Linear Algebra for Engineers](#linear-algebra-final)                   |   3    | A-    |
+> | [Logic](#logic-final)                                                   |   2    | A-    |
+> | English Communication for University Studies                            |   4    | B+    |
+> | [Human Anatomy and Physiology 2](#human-anatomy-and-physiology-2-final) |   2    | B+    |
+> | Physical Education                                                      |   1    | TBD   |
 > **Term GPA: 3.665 @17**  
 > **Cumulative GPA: 3.655 @33*
 > 
@@ -910,15 +913,15 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > He eventually did respond and said I should go ahead and request an official grade appeal from the English department. I felt like he was trying to ignore me to lessen his workload during his holidays. I couldn't stand his sloth, so I went straight ahead and involved the English department to request this grade appeal. I made sure to CC him in the email so he wouldn't be able to ignore me. I don't believe he really meant it when he said that I should ask the English department directly, since immediately after my email, he said that I had *"bypassed him"*. I made it clear to him that I was merely following his instructions and of course I also CC'd the department just to make sure we are on the same page. After a total of ***21*** fucking emails, he eventually agreed to entertain my appeal and bumped me up a sub-grade from B+ to A-.  
 > So here are my grades as they stand:  
 >   
-> | Course Title                                 | Credit | Grade |
-> | :------------------------------------------- | :----: | :---- |
-> | In Dialogue with Nature                      |   3    | A     |
-> | Multivariable Calculus for Engineers         |   3    | A     |
-> | English Communication for University Studies |   4    | A-    |
-> | Linear Algebra for Engineers                 |   3    | A-    |
-> | Logic                                        |   2    | A-    |
-> | Human Anatomy and Physiology 2               |   2    | B+    |
-> | Physical Education                           |   1    | TBD   |
+> | Course Title                                                            | Credit | Grade |
+> | :---------------------------------------------------------------------- | :----: | :---- |
+> | In Dialogue with Nature                                                 |   3    | A     |
+> | [Multivariable Calculus for Engineers](#multivariable-calculus-final)   |   3    | A     |
+> | English Communication for University Studies                            |   4    | A-    |
+> | [Linear Algebra for Engineers](#linear-algebra-final)                   |   3    | A-    |
+> | [Logic](#logic-final)                                                   |   2    | A-    |
+> | [Human Anatomy and Physiology 2](#human-anatomy-and-physiology-2-final) |   2    | B+    |
+> | Physical Education                                                      |   1    | TBD   |
 > **Term GPA: 3.756 @17**  
 > **Cumulative GPA: 3.703 @33*
 >  
@@ -959,6 +962,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ### 10-10-2022
 #### Biomechanics quiz 1 results released
+> *[Here](#biomechanics-quiz-1) is the corresponding post-quiz evaluation.*  
 > I don't think I have seen results this horrible ever. I got only 60% in the quiz, but I guess it was somewhat expected. I am not too particularly shaken by it since each quiz only accounts for 10% of the total course grade, but I guess I should do better. Although I would argue that I don't agree with quite a handful of questions with the way they are phrased and the way they were interpreted. I mean this is by all means a physics course but for some reason taught not by physics professors, so it is a little bit sketchier than I would've like, not to mention that the entire paper is apparently not even set by the professors but instead by the TA. Let's hope the next quiz would serve me better.
 
 
@@ -978,9 +982,11 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ### 31-10-2022
 #### Complex Analysis and Differential Equations midterm results released
+> *[Here](#complex-analysis-and-differential-equations-midterm) is the corresponding post-exam evaluation.*  
 > As I have mentioned [before](#complex-analysis-and-differential-equations-midterm), literally none of the questions are new. One can literally know nothing about the subject and take only the marking schemes as their cheat sheet and get a full score. I got a 100% in this midterm, and I heard a lot of people got high 90%s too. If it was up to me, this kind of lecturers would definitely get fired like as soon as they became one. I highly doubt that they would have the audacity to still recycle old questions for the final examination after this fiasco, so I guess I do have to expect the final exam be much tougher lest everyone gets an A.
 
 #### Programming midterm results released
+> *[Here](#programming-midterm) is the corresponding post-exam evaluation.*  
 > I absolutely still stand by what I have said [before](#programming-midterm). Considering this is a compulsory course for all students, such demon-spawn of a curriculum must not be tolerated.  
 > With that said, I got a 96% in this exam. I'd genuinely rather not find out where the 4% went lest I commit arson through sheer fury and disbelief alone.
 
