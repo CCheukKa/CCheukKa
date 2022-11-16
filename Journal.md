@@ -305,6 +305,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Mortal currency](#mortal-currency)
     - [15-11-2022](#15-11-2022)
       - [Biomechanics quiz 2 results released](#biomechanics-quiz-2-results-released)
+    - [16-11-2022](#16-11-2022)
+      - [Perspectives in Economics midterm results released](#perspectives-in-economics-midterm-results-released)
 
 ---
 
@@ -1017,3 +1019,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > *[Here](#biomechanics-quiz-2) is the corresponding post-quiz evaluation.*  
 > I got a 93%. I guess what I have to say has already been said [before](#biomechanics-quiz-2), so I'll let this be the shortest entry in a long while.
 
+
+### 16-11-2022
+#### Perspectives in Economics midterm results released
+> *[Here](#perspectives-in-economics-midterm) is the corresponding post-exam evaluation.*  
+> I got an 82%. I genuinely don't know what to think about it. I mean I suppose it is not too bad considering I have not studied economics before, but it is not good considering *UGE* courses are supposed to be able to help raise my GPA and not lower it. I hoenstly felt like I did pretty well, but I guess economics has always been a subject that requires precise answers.
