@@ -307,6 +307,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Biomechanics quiz 2 results released](#biomechanics-quiz-2-results-released)
     - [16-11-2022](#16-11-2022)
       - [Perspectives in Economics midterm results released](#perspectives-in-economics-midterm-results-released)
+    - [20-11-2022](#20-11-2022)
+      - [Outline of Chinese Culture midterm results released](#outline-of-chinese-culture-midterm-results-released)
 
 ---
 
@@ -1024,3 +1026,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Perspectives in Economics midterm results released
 > *[Here](#perspectives-in-economics-midterm) is the corresponding post-exam evaluation.*  
 > I got an 82%. I genuinely don't know what to think about it. Judging by the score itself, I suppose it is not too bad considering I have not studied economics before, but I wouldn't say it is too good either. But apparently this score is almost up by a whole SD compared to the mean. Going into this, I thought this course would be a major trap since those who take this course would most likely be those who had taken Economics in secondary school, but I guess the proportion of that group is smaller than I had thought(?). I genuinely didn't have high hopes taking this course but now I am starting to think it might not be actively harming my grades after all. Interesting.
+
+### 20-11-2022
+#### Outline of Chinese Culture midterm results released
+> *[Here](#outline-of-chinese-culture-midterm) is the corresponding post-exam evalutaion.*  
+> The exam is split into two parts, a T/F section and a long question section. I got 80% in the former and 70% in the latter, netting to a total of 74%. I don't suppose I did too well, and to consider that this is already said to be the easiest, most interesting, and least painful course in the *UGEA (Chinese Cultural Heritage)* area, I really don't think my brain is built for stuff like this. I mean I guess I can formulate intricate enough opinions, or at least I would like to think so, but all my years of education so far tells me that apparently I don't. At least this is only a 2-credit course, and there is still a term paper that accounts for a whopping 50% of the entire course, so there is still hope to do something about this I guess.
