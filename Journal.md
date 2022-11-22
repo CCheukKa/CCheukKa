@@ -1024,38 +1024,39 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 #### Year 1 results finalised
 > The last course to release a grade is PE. Who would've thought? Anyway, with that, all of my year 1 results are finalised.  
+> > Here is a summary for the entirety of year 1:  
+> > | [Year 1 Semester 1](#year-1-semester-1-results-released) Courses                    | Credit | Grade |
+> > | :---------------------------------------------------------------------------------- | :----: | :---- |
+> > | [Human Anatomy and Physiology 1](#human-anatomy-and-physiology-1-final-examination) |   2    | A     |
+> > | [Calculus for Engineers](#calculus-final-examination)                               |   3    | A-    |
+> > | [Engineering Physics](#physics-final-examination)                                   |   3    | A-    |
+> > | [University Chinese 1](#chinese-final-examination)                                  |   3    | A-    |
+> > | College General Education 1                                                         |   2    | A-    |
+> > | College General Education 2                                                         |   1    | B+    |
+> > | Introduction to Biomedical Engineering                                              |   1    | B+    |
+> > | Physical Education                                                                  |   1    | B     |
+> > **Term GPA: 3.644 @16**  
+> > *Cumulative GPA: 3.644 @16*  
+> > 
+> > | [Year 1 Semester 2](#year-1-semester-2-results-released) Courses                  | Credit | Grade |
+> > | :-------------------------------------------------------------------------------- | :----: | :---- |
+> > | In Dialogue with Nature                                                           |   3    | A     |
+> > | [Multivariable Calculus for Engineers](#multivariable-calculus-final)             |   3    | A     |
+> > | [English Communication for University Studies](#grade-appeal-conclusion-probably) |   4    | A-    |
+> > | [Linear Algebra for Engineers](#linear-algebra-final)                             |   3    | A-    |
+> > | [Logic](#logic-final)                                                             |   2    | A-    |
+> > | [Human Anatomy and Physiology 2](#human-anatomy-and-physiology-2-final)           |   2    | B+    |
+> > | Physical Education                                                                |   1    | A-    |
+> > **Term GPA: 3.756 @18**  
+> > *Cumulative GPA: 3.703 @34*  
+> >
+> > | Year 1 Semester S Courses                                                                       | Credit | Grade |
+> > | :---------------------------------------------------------------------------------------------- | :----: | :---- |
+> > | [Hospital Experience](#cu-medical-centre-tour) and [Engineering Practical Training](#soldering) |   1    | P     |
+> > **Term GPA: N/A @1**  
+> > *Cumulative GPA: 3.703 @35*  
 > 
-> | [Year 1 Semester 1](#year-1-semester-1-results-released) Courses                    | Credit | Grade |
-> | :---------------------------------------------------------------------------------- | :----: | :---- |
-> | [Human Anatomy and Physiology 1](#human-anatomy-and-physiology-1-final-examination) |   2    | A     |
-> | [Calculus for Engineers](#calculus-final-examination)                               |   3    | A-    |
-> | [Engineering Physics](#physics-final-examination)                                   |   3    | A-    |
-> | [University Chinese 1](#chinese-final-examination)                                  |   3    | A-    |
-> | College General Education 1                                                         |   2    | A-    |
-> | College General Education 2                                                         |   1    | B+    |
-> | Introduction to Biomedical Engineering                                              |   1    | B+    |
-> | Physical Education                                                                  |   1    | B     |
-> **Term GPA: 3.644 @16**  
-> *Cumulative GPA: 3.644 @16*  
-> 
-> | [Year 1 Semester 2](#year-1-semester-2-results-released) Courses                  | Credit | Grade |
-> | :-------------------------------------------------------------------------------- | :----: | :---- |
-> | In Dialogue with Nature                                                           |   3    | A     |
-> | [Multivariable Calculus for Engineers](#multivariable-calculus-final)             |   3    | A     |
-> | [English Communication for University Studies](#grade-appeal-conclusion-probably) |   4    | A-    |
-> | [Linear Algebra for Engineers](#linear-algebra-final)                             |   3    | A-    |
-> | [Logic](#logic-final)                                                             |   2    | A-    |
-> | [Human Anatomy and Physiology 2](#human-anatomy-and-physiology-2-final)           |   2    | B+    |
-> | Physical Education                                                                |   1    | A-    |
-> **Term GPA: 3.756 @18**  
-> *Cumulative GPA: 3.703 @34*  
->
-> | Year 1 Semester S Courses                                                                       | Credit | Grade |
-> | :---------------------------------------------------------------------------------------------- | :----: | :---- |
-> | [Hospital Experience](#cu-medical-centre-tour) and [Engineering Practical Training](#soldering) |   1    | P     |
-> **Term GPA: N/A @1**  
-> *Cumulative GPA: 3.703 @35*  
->
+> Here is a running summary of everything so far:  
 > | Semesters         | Term GPA @ Credit | cGPA @ Credit |
 > | :---------------- | :---------------: | :-----------: |
 > | Year 1 Semester 1 |     3.644 @16     |   3.644 @16   |
