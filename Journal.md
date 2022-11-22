@@ -303,6 +303,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Perspectives in Economics midterm](#perspectives-in-economics-midterm)
     - [10-11-2022](#10-11-2022)
       - [Mortal currency](#mortal-currency)
+      - [Year 1 results finalised](#year-1-results-finalised)
     - [15-11-2022](#15-11-2022)
       - [Biomechanics quiz 2 results released](#biomechanics-quiz-2-results-released)
     - [16-11-2022](#16-11-2022)
@@ -1020,6 +1021,46 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > There's something I feel like people don't talk enough about. There is always this talk about how time is limited for us mortals, and how it is the one most important currency that we will ever have the luxury, or displeasure, of owning and spending. But for me, that place should really be given to energy. I think have briefly talked about this before, though I can't find the entry for the life of me. But the gist is, I get tired terribly easily. I might as well be a frail old sack of meat and bones. Whenever I get out of the house, I get extremely tired. Not at the moment really, but more so after the event. It's like some sort of debt that I have to repay at the end of every event and social interaction I partake in. I guess it's similar to what I talked about in [social forfeit](#social-forfeit). For me, the time cost of participating in anything includes: the mental and physical preparation prior to leaving my house, the trip travelling to the venue, the event itself, the trip travelling back home, the un-preparation after returning, the mental and physical collapse from the exhaust that I will have for the next few days, and the nagging reliving of and betterment proposal from the memories of the event. This is basically the sole reason why I would very much like to avoid social interactions or anything near that realm. Simply put, the true time cost for me for participating in any event at all is way way higher than one might assume. I literally cannot get back onto my feet and return to my prior productivity levels until I have gone through my exhaust cycle. Maybe there is already some existing economic concepts that can perfectly describe what I'm trying to convey, but the opportunity cost for me attending anything is simply way too high. I guess you could say that it is my desire to not waste my mortal time not attaining my maximum productivity that is my main reason for trying to minimise things to have to do. I am aware that some people (maybe most) can recharge instead of draining themselves by going out. I have heard enough analogies about this types of introvert vs extrovert thing, but I don't believe the exhaustion is either mental or physical, but rather it stems from the soul of my being. There is simply a nagging feeling that I should be doing something productive with my time, precisely because my time is so limited. I can basically never sit still if I know deep-down that what I am currently doing is not what my soul is yearning to do. I am terrible with words but please do try to grasp at what I'm trying to say.  
 > That desire is not merely about preferring work or school or whatnot over social stuff either. It is something about perfection. It is also this desire to do what I think I should be doing that is keeping me from doing precisely that. I believe what I deem to be most deserving of my time, and hence where I should spend most of my limited mortal time on, is to reach for perfection. It's not that I dread social stuff and enjoy doing solitary stuff, but rather I dread not being able to do something to a perfect extent, and avoiding spending precious time on things I don't believe I am good at is simply a better economic choice for me. Looping back to the soul thing and the reliving I've mentioned, I, or rather, my sub-consciousness, simply cannot cease to ponder how I could have acted better in any given past situation. The more impactful the situation, naturally the more I ponder. But pondering itself takes up so much mental capacity and energy at a time that it is simply better to not have put myself in such circumstances in the first place. I tend to put off my obligations until I have reasonable confidence that I would be able to complete them to the best of my abilities; half-assing things is simply not acceptable. But as you might have guessed, this also can lead to endless heaps of work sitting there simply not being done. I have still yet to figure out a tolerable compromise. I do realise I am not making too much cohesive sense, but I guess this is some kind of soul-searching exercise, and there really is not such thing as an organised soul. On that note, "soul" is a horrible word for what I'm trying to express, but it will have to do for the time being.  
 > The thing that tipped me to this mortal currency, is that I have recently noticed more and more that my preferred mode of scheduling is based on rationing energy instead of time. I believe this has always been the way that I have operated, just that I have only started to notice recently, for whatever reason. I find myself not really following the circadian rhythm, as anyone who knows me can testify. I believe this originates from my childhood insomnia (or is it the other way round?), but I do like to believe that my productivity is mostly unaffected by the time of day. The thing that I mentioned not enough people talk about, is that not all time is equal. One's productivity strictly wanes as time passes, however, crucially, it is not only dependent on the passage of time, rather on a multitude of other factors, for example the aforementioned social events. Therefore I propose that a fixed sleeping cycle, or circadian rhythm is very much outdated. It simply fails to consider energy/productivity as a valuable resource. On the contrary, my sleep-whenever-I-want pattern might work tons better seeing that I recharge whenever I feel necessary and work whenever my excessive energy urges me to, rather than to have some inanimate indifferent time-telling device dictate that for you. Spacing out work according to energy is really quite the hack, for me at least, especially during times of need, like exams and whatnot. Although I believe I have been operated in this mode since forever, I have only really recognised it recently. I might try to devise a better way than a daily calendar schedule to plan my energy expenditure, although I highly doubt there is any since there is hardly any metric one can rely on. Well this entry is really the classic rambling-on-and-on-until-I-have-no-idea-where-I-have-veered-off-into type of deal. My train of thought just ended so I guess this entry should too lest I write more empty nonsense.
+
+#### Year 1 results finalised
+> The last course to release a grade is PE. Who would've thought? Anyway, with that, all of my year 1 results are finalised.  
+> 
+> | [Year 1 Semester 1](#year-1-semester-1-results-released) Courses                    | Credit | Grade |
+> | :---------------------------------------------------------------------------------- | :----: | :---- |
+> | [Human Anatomy and Physiology 1](#human-anatomy-and-physiology-1-final-examination) |   2    | A     |
+> | [Calculus for Engineers](#calculus-final-examination)                               |   3    | A-    |
+> | [Engineering Physics](#physics-final-examination)                                   |   3    | A-    |
+> | [University Chinese 1](#chinese-final-examination)                                  |   3    | A-    |
+> | College General Education 1                                                         |   2    | A-    |
+> | College General Education 2                                                         |   1    | B+    |
+> | Introduction to Biomedical Engineering                                              |   1    | B+    |
+> | Physical Education                                                                  |   1    | B     |
+> **Term GPA: 3.644 @16**  
+> *Cumulative GPA: 3.644 @16*  
+> 
+> | [Year 1 Semester 2](#year-1-semester-2-results-released) Courses                  | Credit | Grade |
+> | :-------------------------------------------------------------------------------- | :----: | :---- |
+> | In Dialogue with Nature                                                           |   3    | A     |
+> | [Multivariable Calculus for Engineers](#multivariable-calculus-final)             |   3    | A     |
+> | [English Communication for University Studies](#grade-appeal-conclusion-probably) |   4    | A-    |
+> | [Linear Algebra for Engineers](#linear-algebra-final)                             |   3    | A-    |
+> | [Logic](#logic-final)                                                             |   2    | A-    |
+> | [Human Anatomy and Physiology 2](#human-anatomy-and-physiology-2-final)           |   2    | B+    |
+> | Physical Education                                                                |   1    | A-    |
+> **Term GPA: 3.756 @18**  
+> *Cumulative GPA: 3.703 @34*  
+>
+> | Year 1 Semester S Courses                                                                       | Credit | Grade |
+> | :---------------------------------------------------------------------------------------------- | :----: | :---- |
+> | [Hospital Experience](#cu-medical-centre-tour) and [Engineering Practical Training](#soldering) |   1    | P     |
+> **Term GPA: N/A @1**  
+> *Cumulative GPA: 3.703 @35*  
+>
+> | Semesters         | Term GPA @ Credit | cGPA @ Credit |
+> | :---------------- | :---------------: | :-----------: |
+> | Year 1 Semester 1 |     3.644 @16     |   3.644 @16   |
+> | Year 1 Semester 2 |     3.756 @18     |   3.703 @34   |
+> | Year 1 Semester S |      N/A @1       |   3.703 @35   |
 
 ### 15-11-2022
 #### Biomechanics quiz 2 results released
