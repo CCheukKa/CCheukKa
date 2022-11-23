@@ -221,6 +221,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [09-07-2022](#09-07-2022)
       - [Interpersonal relationships](#interpersonal-relationships)
   - [August - 2022](#august---2022)
+    - [01-08-2022](#01-08-2022)
+      - [Failed bowling](#failed-bowling)
   - [September - 2022](#september---2022)
     - [17-09-2022](#17-09-2022)
       - [Spontaneous rendezvous](#spontaneous-rendezvous)
@@ -904,6 +906,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 
 ## August - 2022
+### 01-08-2022
+#### Failed bowling
+> I have no idea why we proposed bowling, but here we are anyway. We found a place in *Whampoa*, and it really is one of the only places in Hong Kong with affordable bowling. So we met up at 12:20, and of course CNok was late by half an hour as usual. It really had been quite a while since we've seen each other. Such is the reality when none of us is in the same university. Anyway, we split up; Samuel and I went to the bowling place to try to secure a booking while CNok and Efren went looking for something to eat. I gotta say, the exterior of the bowling place is very drab, and the plaza is literally empty. I really did not have high hopes for the place. Once we step in, however, it was like another world. The place is much much larger than I had imagined. I'd say there are ~20 lanes, with passable decor. When we got there, there wasn't really much traffic, so we thought it wouldn't be necessary to get a ticket. I don't believe the place offer such ticket booking services anyway, judging from how cost is calculated there. So we went back to meet up with them. I have no idea what CNok and Efren were doing but apparently they still haven't found a place to eat yet, so Samuel and I proceeded to stroll in nearby malls on our way to them. Every restaurant we looked at had terribly long queues, and after ~40 minutes of looking around, we gave up and just went to some small restaurant instead of waiting for a curry place or some shit.  
+> We ended up eating for ~90 minutes, and by the time we got back to the bowling place, it was completely packed with people, like literally full of people everywhere. Stark contrast to what it was like earlier in the day. We sat around waiting for ~30 minutes, but the ticketing number did not tick down once. So we eventually gave up. It is honestly rather funny how we can never seem to get things to go with our plan whenever we plan something; [last time](#an-attempt-to-hike) it was because of the weather, and this time it was because we ate for too long. I guess we are better at doing unplanned shit? Is that even a thing?  
+> CNok suddenly had the idea to go to the *Science Museum* for some reason, so we took a taxi there. And of course it just so happens that there was some sort of special dinosaur exhibit going on (What did I say about being better at doing unplanned shit?). It has genuinely be so long since I've been there, but barely anything seems to have changed. I don't know what else I can talk about, but somehow we managed to spend 2.5 horus there. This has got to be the stupidest day we've ever spent.
+
 
 ## September - 2022
 ### 17-09-2022
