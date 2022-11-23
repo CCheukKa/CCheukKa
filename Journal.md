@@ -8,7 +8,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 # Table of Contents <!-- omit in toc -->
 
 - [2021](#2021)
-  - [September](#september)
+  - [September /2021](#september-2021)
     - [26-09-2021](#26-09-2021)
       - [Farewell Toby](#farewell-toby)
     - [27-09-2021](#27-09-2021)
@@ -22,7 +22,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [30-09-2021](#30-09-2021)
       - [Journal page on my website](#journal-page-on-my-website)
       - [Joining "zhong"](#joining-zhong)
-  - [October](#october)
+  - [October /2021](#october-2021)
     - [02-10-2021](#02-10-2021)
       - [The undocumented and sealed-away memories](#the-undocumented-and-sealed-away-memories)
     - [03-10-2021](#03-10-2021)
@@ -74,7 +74,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Shaw-lane with CNok](#shaw-lane-with-cnok)
     - [29-10-2021](#29-10-2021)
       - [Medical concerns](#medical-concerns)
-  - [November](#november)
+  - [November /2021](#november-2021)
     - [01-11-2021](#01-11-2021)
       - [18th birthday](#18th-birthday)
     - [03-11-2021](#03-11-2021)
@@ -104,7 +104,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Some zhong meal/gathering](#some-zhong-mealgathering)
     - [29-11-2021](#29-11-2021)
       - [Stuffed alpaca toys in CUHK](#stuffed-alpaca-toys-in-cuhk)
-  - [December](#december)
+  - [December /2021](#december-2021)
     - [07-12-2021](#07-12-2021)
       - [Finals approach](#finals-approach)
       - [Anatomy and Physiology CA2](#anatomy-and-physiology-ca2)
@@ -133,7 +133,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [31-12-2021](#31-12-2021)
       - [Pre-consultation again (Part 2)](#pre-consultation-again-part-2)
 - [2022](#2022)
-  - [January](#january)
+  - [January /2022](#january-2022)
     - [01-01-2022](#01-01-2022)
       - [2022 new year](#2022-new-year)
     - [05-01-2022](#05-01-2022)
@@ -158,14 +158,14 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [22-01-2022](#22-01-2022)
       - [Binge-writing](#binge-writing)
       - [Character introduction](#character-introduction)
-  - [February](#february)
+  - [February /2022](#february-2022)
     - [05-02-2022](#05-02-2022)
       - [Zhong hike trip](#zhong-hike-trip)
     - [12-02-2022](#12-02-2022)
       - [Last day in hostel](#last-day-in-hostel)
     - [19-02-2022](#19-02-2022)
       - [An attempt to hike](#an-attempt-to-hike)
-  - [March](#march)
+  - [March /2022](#march-2022)
     - [03-03-2022](#03-03-2022)
       - [Multivariable Calculus midterm](#multivariable-calculus-midterm)
     - [08-03-2022](#08-03-2022)
@@ -173,7 +173,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Human Anatomy and Physiology 2 CA1](#human-anatomy-and-physiology-2-ca1)
     - [11-03-2022](#11-03-2022)
       - [Linear Algebra midterm](#linear-algebra-midterm)
-  - [April](#april)
+  - [April /2022](#april-2022)
     - [09-04-2022](#09-04-2022)
       - [CUHK Camping trip](#cuhk-camping-trip)
     - [14-04-2022](#14-04-2022)
@@ -183,7 +183,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Human Anatomy and Physiology 2 CA2](#human-anatomy-and-physiology-2-ca2)
     - [28-04-2022](#28-04-2022)
       - [Multivariable Calculus final](#multivariable-calculus-final)
-  - [May](#may)
+  - [May /2022](#may-2022)
     - [03-05-2022](#03-05-2022)
       - [Human Anatomy and Physiology 2 final](#human-anatomy-and-physiology-2-final)
     - [04-05-2022](#04-05-2022)
@@ -217,18 +217,18 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Some party](#some-party)
     - [28-06-2022](#28-06-2022)
       - [Lesson experience](#lesson-experience)
-  - [July](#july)
+  - [July /2022](#july-2022)
     - [09-07-2022](#09-07-2022)
       - [Interpersonal relationships](#interpersonal-relationships)
-  - [August](#august)
-  - [September](#september-1)
+  - [August /2022](#august-2022)
+  - [September /2022](#september-2022)
     - [17-09-2022](#17-09-2022)
       - [Spontaneous rendezvous](#spontaneous-rendezvous)
     - [27-09-2022](#27-09-2022)
       - [Peculiar encounter](#peculiar-encounter)
     - [28-09-2022](#28-09-2022)
       - [Biomechanics quiz 1](#biomechanics-quiz-1)
-  - [October](#october-1)
+  - [October /2022](#october-2022)
     - [10-10-2022](#10-10-2022)
       - [Biomechanics quiz 1 results released](#biomechanics-quiz-1-results-released)
     - [17-10-2022](#17-10-2022)
@@ -240,7 +240,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [31-10-2022](#31-10-2022)
       - [Complex Analysis and Differential Equations midterm results released](#complex-analysis-and-differential-equations-midterm-results-released)
       - [Programming midterm results released](#programming-midterm-results-released)
-  - [November](#november-1)
+  - [November /2022](#november-2022)
     - [01-11-2022](#01-11-2022)
       - [Outline of Chinese Culture midterm](#outline-of-chinese-culture-midterm)
     - [09-11-2022](#09-11-2022)
@@ -261,7 +261,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 # 2021
 
-## September
+## September /2021
 
 ### 26-09-2021
 #### Farewell Toby
@@ -309,7 +309,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Joining "zhong"
 > It is official. I am now a part of the "zhong" of my own department, Biomedical Engineering. I am now in charge of Leisure and Physical stuff, whatever that means. Honestly, a lot of the positions sound weird and make little sense, but hey, if it ain't broke, don't fix it. We were tasked to think of an activity that could bond students and professors. It was the usual sort of stuff really, nothing too remarkable. And after that we did a round of voting to decide who would be assigned to what position. We ended this whole thing with a dinner in some outdoors rural restaurant *Fo Tan*. I wish I could talk more about it, as this might be a quite monumental event. But honestly, I don't think it is quite justified that I start discussing something that I have barely taken a part in yet. I used not to join too much activities and whatnot during my secondary school years, and I have made a sort of promise to myself that I would try to be more active and achieve more during my university years, that is, the mountain-load of academics start being daunting. So I guess this marks the first page in that book, let's hope that book may be full of interesting stuff by the time I graduate.
 
-## October
+## October /2021
 
 ### 02-10-2021
 #### The undocumented and sealed-away memories
@@ -433,7 +433,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Medical concerns
 > I got the aforementioned body check report back. It wasn't too interesting barring some technical shenanigans with age and reference values, except for one note. Apparently, from the ECG, the posterior left ventricular nerve of my heart is slower than usual, whatever that means. I for once, had never heard of a diagnosis such as that. From the little medical knowledge that I have, I believe it should only lead to a decrease in cardiac output without much significant impact. But I guess if the analysis had deemed it noteworthy, then I should probably pay some attention to it. My dad requested a referral to Cardiology, so I guess I'll have to wait for that.
 
-## November
+## November /2021
 
 ### 01-11-2021
 #### 18th birthday
@@ -518,7 +518,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Stuffed alpaca toys in CUHK
 > I was walking with Martin in CUHK at night and came across two stuffed alpaca toys just laying next to garbage pins. Seeing that they weren't dirty and didn't have any tears, I decided to bring them with me. We walked around CUHK with them, much to the amusement of other pedestrians. Since we were originally intending to go to a study room to work on our assignments or study, we just brought them into the room. It wasn't too eventful since the study room was isolated and there were only the two of us. However, when it was past its operating hours, we were asked to leave and had to continue at the ***Chung Chu College Library*** which was nearby. I found it quite funny when I walked in willy-nilly with two huge stuffed toys in my arms. As of the writing of this, I just finished my assignment, and we are still sitting in the library with the two huge stuffed toys beside us on the table. I guess I'll have to disinfect them either way before I should further handle them.
 
-## December
+## December /2021
 ### 07-12-2021
 #### Finals approach
 > It has been very long since the last entry, my longest hiatus yet. I thought this entry would serve as an update to everything that's going on. First off, the finals are coming, starting from 10/12, until 15/12. Let's not dwell on the fact that I have basically no hope of studying in time just yet. 10/12 would be when my Physics final examination would be, and it just so happen to coincide with the deadlines of *two* college general education term papers. I have no clue why they even exist in the first place, considering general education courses are supposed to relatively chill and smooth-sailing, not to mention the plurality of which. That alone is exotically dumb. However, on top of that, the deadlines are also purposefully set in a way that it would guarantee time conflicts with students' revision schedule. Why on earth does this college exist at all anyway. While it may be true that it is relatively trivial to get good grades in the college general education courses if you at least tried a little, it also comes with a price, namely the sacrifice of other courses. Is this a fair trade-off? I mean the *two* college general education courses do account for 6 credits in total, so maybe I should take this deal and focus on the term papers- ***fuck no***. No one should be made to make this horrible decision between a rock and a hard place. Why in the fuck is chung chi college this sadistic? Yes I didn't capitalise or bold or italicise it 'cus it does not deserve any respect at all. All of these might as well be some satanic ritual for all I care, it's not like it's any different from carving my heart out to be sold to the devil. As things stand, I have just finished the second ***Anatomy and Physiology*** continuous assessment, and now I have precisely 2 days left to finish two term papers and to revise for the Physics final. You might think I have terrible time management and that's the cause of this whole ordeal but I can assure you that it is not true. I don't think I have stopped working since the beginning of October, and I haven't even stepped out of CUHK for more than a month, barring the few hours as in *[Taxis can fly](#taxis-can-fly)*. I already have more than enough of actual work to be done, and now this shit popped up. I could've put them in my well-beyond-saturated to-do list, *IF THEIR TOPICS WERE ANNOUNCED MORE THAN A WEEK BEFORE THEY'RE DUE!* I can't stress this enough but it is excessively abusive. No one in this world should be given this stupendous amount of workload just for an insignificant college general education course - oh did I say *a* college general education course? 'cus by "a" I meant two courses plus weekly assemblies. I'm saying it right now, that I'm not giving these shitty papers more than 10 hours combined, and that is already too much time allotted. I don't care that the title of this entry implies this would be oriented around the final examinations. Don't expect these kind of rants to ever stop until I graduate, because as long as this abysmal college share the same dimension as me, I would be suffering in more ways than one.
@@ -592,7 +592,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 # 2022
 
-## January
+## January /2022
 
 ### 01-01-2022
 #### 2022 new year
@@ -680,7 +680,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Character introduction
 > I don't know why, but I tend to dismiss the mentions of the names of the characters in my entries. Honestly, I have no idea why. Some characters I have divulges the names of, others I haven't. I guess it is because I don't believe a good story would need too much extra information. Come to think of it, I think my standards for this is whether they appear often in a story or a saga. I can't imagine many other people writing like this, since as far as I can tell, most books/movies/stories tend to introduce all the characters from the very get-go. I find them quite overwhelming, especially since I have a hard time remembering names. Ultimately, I guess I have chosen to slowly reveal each and every character for this reason or some other. Or not. Maybe I'm just uncomfortable about typing names for some reason. What even is this entry anyway?
 
-## February
+## February /2022
 ### 05-02-2022
 #### Zhong hike trip
 > We had proposed to organise a hike trip for the freshmen next year, and today we went there to hike up ourselves to scout the trail. It was the *Dragon's Back* trail in *Shek O*. The trek was to start at 13:00, but some of us thought to get something to eat before that. We met up in the *Shau Kei Wan* MTR station at ~12:00. Martin insisted to buy a bottle of mineral water from the nearby supermarket since apparently he was obsessed over the taste of mineral water. We entertained his little water discovery journey while getting some snacks for ourselves before eating at a restaurant. After the meal, we waited for a very very long time outside the MTR station for the rest of them to arrive.  
@@ -698,7 +698,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Samuel and CNok proposed to hike in *Mei Foo* today, so we met up but it turns out it had decided to rain heavily for the entire day. We persisted until the beginning of the trail, but ultimately decided against it due to safety concerns. Samuel had been pushing hard to realise this hike and his disappointment at that point was very apparent. Come to think of it, he seems to have been very into hiking recently. Perhaps it is not a recent matter, since I can remember him vaguely talking about random night hikes he would go by himself in secondary school. Anyway, CNok proposed to walk around the *Elements* mall in *Kowloon*, so we travelled there. Honestly, he has a particular liking towards malls and shopping centers in general, which is an appeal I don't share, nor is it one that I can fathom. I mean it's not like he ever buy things the times we had walked around malls with him. Anyway, after we were done annoying the staff in those luxury shops, we headed to the nearby *M+* museum type thing, except it was closed, so we just walked around the promenade a bit and had lunch in a nearby store.  
 > I guess it was both quite eventful and uneventful at the same time. Honestly, for the past few times we have met, I have felt like something is lacking that they didn't feel as interesting or eventful than those we've in secondary school. I think now I know the answer to this: Toby. He has always been giving a seriously ridiculous vibe to this group. I guess a more suitable word would be dramatic(?), or maybe it's just me, since this has always been my impression of him since we've first known each other. Perhaps it's me whose energy has subsided?
 
-## March
+## March /2022
 ### 03-03-2022
 #### Multivariable Calculus midterm
 > To be fair, I did not attend a single lecture of this course. I just started revising yesterday and it somehow seem to have worked for me, in this exam at least. Honestly, I didn't find it particularly challenging. Partly credited to this exam being open-book, but I guess the one exercise that I've semi-done yesternight also helped somewhat.  
@@ -716,7 +716,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Linear Algebra midterm
 > I had the displeasure to be taught by the same ass lecturer again, and suffice to say, I once again didn't attend any of the lectures again. However, that other good lecturer doesn't teach this course so I was basically on my own with only the help of Martin's notes. I spent some time whipping up a cheat sheet since this is another closed-book exam (for some reason). Although I understand every aspect of the curriculum, I ultimately was victim of the tried and true reality of easy courses having difficult exams. This course basically only concerns mostly secondary school level M2 stuff, although much more meticulous and tricky. To be fair, I had no problem with the "difficult" parts, but got stuck in simple algebra. I would say I have never done a worse paper in since secondary school. Let's hope I didn't do too badly that I would have a chance to catch up in my final examination.
 
-## April
+## April /2022
 ### 09-04-2022
 #### CUHK Camping trip
 > I guess this was a rather logical continuation for the trends of our events. We have been discussing about having a legitimate "wilderness" camping trip in the UK for our graduation trip thing, which did not happen sadly, due to border lockdowns. And then there was a failed hiking attempt, which is also very sad and uncalled for. Anyway, the idea came when I shared myself having seen tons of stars in CUHK. I suggested that they would come and watch the stars together, since Samuel was suddenly very fond of watching stars for some reason. I proposed us to set up a tent in CUHK for the night.  
@@ -755,7 +755,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Multivariable Calculus final
 > Honestly, I believe I did rather swimmingly, barring some minor hiccups. I was rather confident after finishing this paper, although the last time I was *"rather confident"* about [something](#mathematics-midterm) it [didn't go too well](#maths-midterm-results). Honestly I'm unsure what more I can say about this since I've already ranted the lecturer's ass off [some entries ago](#multivariable-calculus-midterm). I guess I have been rather lucky to have found myself in one rather academically-focused friend group. They definitely hard carried me during this whole thing.
 
-## May
+## May /2022
 ### 03-05-2022
 #### Human Anatomy and Physiology 2 final
 > Literally [the same exact thing](#human-anatomy-and-physiology-2-ca1) happened. I swear this course is cursed somehow. Its CA schedule coincided with my *University English* essay and *In Dialogue with Nature* term paper again. And to make it worse, I wasn't even aware of the [CA](#human-anatomy-and-physiology-2-ca2)'s existence until a week prior, so I actually had less time to finish the papers than I initially thought, hence this mess of an arrangement. I had to push back my revision for this substantially to make way. The lack of ideas and organisation in my papers, and my perfectionist refinements definitely didn't help. Either way, I should have a grand total of ~2 days to study for this after submitting the papers. However, you guessed it, I didn't have the slightest chance to get myself out of the burnout that started like 2 months ago since there has been nothing but tests, assignments, presentations, and papers. Not to mention that I had little sleep in the past 2 weeks focusing on the papers (do you know how long researching takes? *jesus fucking christ*) and prior tests.  
@@ -895,7 +895,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Lesson experience
 > UGFN focus group study [TK]
 
-## July
+## July /2022
 ### 09-07-2022
 #### Interpersonal relationships
 > In a late night 4-hour phone call with Samuel, we discussed various things and among them we explored the roots of the relationships of and around us. I have always have this sort of meta viewpoint to things that have happened and are currently happening (I have frequently talked with Toby about [this](#self-awareness)), but I always thought it was merely part of my typical overthinking as I always do. I used to analyse myself and the people around me quite a lot, not so much anymore but I now still do it sometimes. It used to be a constant task that I have to tend do, as though someone is always in my head nagging for objective statistics and insights and whatnot. I have to say, it kind of helped with learning to read people. I have always been commented by other to not be able to read people well, but I guess I just have not tried hard enough before(?) although I think it might just be my incompetence for subjectivity.  
@@ -946,7 +946,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > I absolutely still stand by what I have said [before](#programming-midterm). Considering this is a compulsory course for all students, such demon-spawn of a curriculum must not be tolerated.  
 > With that said, I got a 96% in this exam. I'd genuinely rather not find out where the 4% went lest I commit arson through sheer fury and disbelief alone.
 
-## November
+## November /2022
 ### 01-11-2022
 #### Outline of Chinese Culture midterm
 > This course is really quite interesting. Despite what the course title suggests, it is really more about studying, questioning, and subverting traditional Chinese culture and ideas than simply appreciating it as we have done for years. It is a little bit radical in a sense. This might be the only course that I completely have no idea about when I took it. *UGEA (Chinese Cultural Heritage)* courses were the ones I dreaded most since this area concerns Chinese culture and history, all of which urges me to pull my hair out, but this is easily the most interesting course I have taken so far, barring *UGFN (In Dialogue with Nature)*.  
