@@ -220,12 +220,15 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
   - [July - 2022](#july---2022)
     - [09-07-2022](#09-07-2022)
       - [Interpersonal relationships](#interpersonal-relationships)
+  - [August - 2022](#august---2022)
+  - [September - 2022](#september---2022)
     - [17-09-2022](#17-09-2022)
       - [Spontaneous rendezvous](#spontaneous-rendezvous)
     - [27-09-2022](#27-09-2022)
       - [Peculiar encounter](#peculiar-encounter)
     - [28-09-2022](#28-09-2022)
       - [Biomechanics quiz 1](#biomechanics-quiz-1)
+  - [October - 2022](#october---2022)
     - [10-10-2022](#10-10-2022)
       - [Biomechanics quiz 1 results released](#biomechanics-quiz-1-results-released)
     - [17-10-2022](#17-10-2022)
@@ -899,6 +902,10 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Anyway, I have always thought that I have always acted as a bridge for people around me. The way that I interact and joke with people tend to also bring completely unrelated groups together and basically let them introduce themselves to themselves non-verbally. For instance, I would sometimes start a joke with one group of people but finish it with another. I realise it sounds odder than it feels like if you are actually there, but I admit it is quite a weird act. If I have to describe it, I would say it is like as if I am the protagonist of a show or cartoon and I'm doing throwback jokes or references that only the audience will be able to follow and understand. It sounds quite self-centred when it's put this way, but I argue that everyone can only ever wish to be self-centred anyway since it's not like you can just be someone else and experience their entire storyline, so to speak. To be honest, I have always been aware of this phenomenon, even when I was at the moment in the middle of said acts. I never really paid too much thought to it though, although I admit it did lead to some weirdness from time to time, but they tended to fit my thematic personality of being highly plastic. *(**Side tangent**: The thematic plasticity, I figured, was [mainly from Toby](#farewell-toby). I believed it started since he was arguably my first friend in secondary school. It just so happens that plasticity is a very easy and somewhat novel way of [knowing new people and making friends](#farewell-marwin-and-marcus), although I have to say that it is definitely not everyone's cup of tea nor can it be even performed in front of certain people.)*  
 > Anyway, Samuel noted this phenomenon too and I think that's the first time I realise it is not merely my overthinking (or perhaps we are boh very prone to overthinking?). He said that he specifically try to approach me as a means to broaden his social circle, which looking back, sounds very odd, especially considering I don't really see myself as a really social person. I can definitely name a few scenarios where this is pretty evident though; the most recent one being me having introduced Eddy to Martin, and somehow they become more acquainted than I am with Eddy despite us having ~10 years of head-start.
 
+
+## August - 2022
+
+## September - 2022
 ### 17-09-2022
 #### Spontaneous rendezvous
 > Samuel suddenly messaged me saying that he is for some reason near my home. He has around an hour to spare and so I invited him over. We thought of going to my clubhouse but apparently it is a Saturday and absolutely everything is booked to the brim. So we went up to my room and played some games instead, and that was pretty much it. Very weird and brief rendezvous. I probably wouldn't have agreed to it and have woken up because of it if I had known it was such efforts for such brief duration. Although I guess having a spontaneous group of friends is kinda nice since it can really be just about anything instead of everything being premeditated or "staged".
@@ -912,6 +919,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Biomechanics quiz 1
 > This quiz was rather unexpectedly difficult. I have no idea why, but I seem to struggle with it a lot. I guess I can partly attribute it to the weird question formats and the unorthodox diagrams. I genuinely don't have too much expectation on this one.
 
+
+## October - 2022
 
 ### 10-10-2022
 #### Biomechanics quiz 1 results released
