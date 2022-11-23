@@ -1003,15 +1003,15 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > > | Year 1 Semester S Courses                                                                       | Credit | Grade |
 > > | :---------------------------------------------------------------------------------------------- | :----: | :---- |
 > > | [Hospital Experience](#cu-medical-centre-tour) and [Engineering Practical Training](#soldering) |   1    | P     |
-> > **Term GPA: N/A @1**  
-> > *Cumulative GPA: 3.703 @35*  
+> > **Term GPA: N/A @0**  
+> > *Cumulative GPA: 3.703 @34*  
 > 
 > Here is a running summary of everything so far:  
-> | Semesters         | Term GPA @ Credit | cGPA @ Credit |
-> | :---------------- | :---------------: | :-----------: |
-> | Year 1 Semester 1 |     3.644 @16     |   3.644 @16   |
-> | Year 1 Semester 2 |     3.756 @18     |   3.703 @34   |
-> | Year 1 Semester S |      N/A @1       |   3.703 @35   |
+> | Semesters         | Term GPA @ Credit | cGPA @ Credit | All Credit |
+> | :---------------- | :---------------: | :-----------: | :--------: |
+> | Year 1 Semester 1 |     3.644 @16     |   3.644 @16   |     16     |
+> | Year 1 Semester 2 |     3.756 @18     |   3.703 @34   |     34     |
+> | Year 1 Semester S |      N/A @0       |   3.703 @34   |     35     |
 
 ### 15-11-2022
 #### Biomechanics quiz 2 results released
