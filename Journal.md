@@ -256,6 +256,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Biomechanics quiz 2 results released](#biomechanics-quiz-2-results-released)
     - [16-11-2022](#16-11-2022)
       - [Perspectives in Economics midterm results released](#perspectives-in-economics-midterm-results-released)
+    - [18-11-2022](#18-11-2022)
+      - [Technology obtained: Smartwatch](#technology-obtained-smartwatch)
     - [20-11-2022](#20-11-2022)
       - [Outline of Chinese Culture midterm results released](#outline-of-chinese-culture-midterm-results-released)
     - [21-11-2022](#21-11-2022)
@@ -1044,6 +1046,11 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Perspectives in Economics midterm results released
 > *[Here](#perspectives-in-economics-midterm) is the corresponding post-exam evaluation.*  
 > I got an 82%. I genuinely don't know what to think about it. Judging by the score itself, I suppose it is not too bad considering I have not studied economics before, but I wouldn't say it is too good either. But apparently this score is almost up by a whole SD compared to the mean. Going into this, I thought this course would be a major trap since those who take this course would most likely be those who had taken Economics in secondary school, but I guess the proportion of that group is smaller than I had thought(?). I genuinely didn't have high hopes taking this course but now I am starting to think it might not be actively harming my grades after all. Interesting.
+
+### 18-11-2022
+#### Technology obtained: Smartwatch
+> I'm unsure what actually triggered me to have this sudden urge to buy a watch, perhaps it is the [hike trip](#zhong-hike-trip-event) that will happen tomorrow, but I basically rushed and set aside time to buy one in only 2 days. I guess the utility of a smartwatch is really too good to not have. The amount of times I had to keep pulling out my phone for *Google Maps* navigation and music track changing is quite a nuisance. The watch I ended up deciding on is the *Galaxy Watch 5*. I really wanted to like and buy the *Google Pixel Watch*, but it seems that the technology is just not ready, although I do like the seamlessness it claimed to have. Perhaps this is also the reason why I couldn't really find many places that would sell one in Hong Kong. Anyway, I went to the *Samsung Experience Store* in *Tsim Sha Tsui*, 'cus y'know there really wasn't a reason not to buy from the vendor directly. It was $2498. The salesperson also said that apparently they would gift me an electronic balance for free for some reason. There was also this discount for a pair of $499 earbuds for an extra $99, so I was like sure why not. Funnily enough, either of the extra products I ended up taking home was larger than the smartwatch itself. It's quite comical really.  
+> It has really been quite a while since I got new technology to tinker with, so perhaps I would write more about its utility once I spend time with it. Who knows.
 
 ### 20-11-2022
 #### Outline of Chinese Culture midterm results released
