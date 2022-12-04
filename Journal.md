@@ -266,6 +266,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Mental sunk cost](#mental-sunk-cost)
     - [26-11-2022](#26-11-2022)
       - [Smartwatch: Sleep 3](#smartwatch-sleep-3)
+    - [30-11-2022](#30-11-2022)
+      - [Biomechanics quiz 3](#biomechanics-quiz-3)
 
 ---
 
@@ -1081,3 +1083,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 26-11-2022
 #### Smartwatch: Sleep 3
 > Today is the first day I woke up to a normal sleep chart. There is actually a rhythm to my stages of sleep and a normal period length of ~90 minutes. From the graph, I can actually see and tell when I finished all my deep sleep. Surprisingly, I actually never went back to deep sleep after I was done, instead brief periods of being awake took its place. I actually woke up in the awake stage too, although it didn't seem to help with the tiredness as much as I thought it would. I had a good 7-hour-and-40-minute sleep too, despite it being completely off a normal circadian rhythm.
+
+
+### 30-11-2022
+#### Biomechanics quiz 3
+> As per usual, I didn't really start revising until quite late. Anyway, the syllabus material isn't really too friendly, with all its variables and symbols. The funny thing is, I have no idea why the lecture notes/ textbook felt the need to use a whole set of different greek letters to address the same quantity while most of them have the same/ similar equations. That was quite a confusing mess to have to wrap my head around. Another thing about these quizzes are that we are not allowed to bring in cheat sheets or anything (for a physics quiz!). That is genuinely rather ridiculous in my book. It's not like bringing cheat sheets would allow some sort of exploit. Granted, they have provided some sort of brief formula list, but that is not nearly enough at all. I think I have mentioned it before, but the one thing I hate most is having to memorise shit. The subject itself really isn't that difficult, and I would like to think I did pretty well in the quiz. However, I have remembered one crucial equation incorrectly, and I think it had costed me an entire question. Utter ridiculousness. I guess this also shed light on how much I actually relied on good cheat sheets, but that's besides the point. So yeah, I don't really have high hopes on this one.
