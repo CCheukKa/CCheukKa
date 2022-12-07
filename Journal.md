@@ -1,7 +1,7 @@
 # Introduction <!-- omit in toc -->
 
-See [Starting this journal](#starting-this-journal).
-Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md) / [Github.io site](https://ccheukka.github.io/journal)
+See [Starting this journal](#starting-this-journal).  
+Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md) / [Github.io site](https://ccheukka.github.io/journal)  
 
 ---
 
@@ -649,7 +649,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 #### Year 1 Semester 1 results released
 > It was really a roller coaster. Of the first few subjects released, my GPA was comfortably above 3.7, until the rest got released, which dramatically killed it. Maybe I should do a table to break them down.  
-> 
+>  
 > | Course Title                                                                        | Credit | Grade |
 > | :---------------------------------------------------------------------------------- | :----: | :---- |
 > | [Human Anatomy and Physiology 1](#human-anatomy-and-physiology-1-final-examination) |   2    | A     |
@@ -662,7 +662,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > | Physical Education                                                                  |   1    | B     |
 > **Term GPA: 3.644 @16**  
 > *Cumulative GPA: 3.644 @16*
-> 
+>  
 > As you might be able to see, I performed quite well in all of the high credit courses. I actually attained scores within the A-range for all of the "expensive" courses. Turns out I made pretty decent predictions about these courses. However, apparently I decided to fail every single 1-credit course just because. The entire results of this is rather ridiculous since the harder the course was, the higher my grade had turned out to be. I literally have no comment about this at all, not that I know how to. The one thing I would say is that, in *Introduction to Biomedical Engineering*, I failed to attend for *one* of the lessons, and apparently that gave me a -10% penalty to the final score, which I believe accounts to 2 sub-grades. And coincidentally, this was the *only course* among these that counted to my honour GPA. I practically killed everything. If not accounting for all the 1-credit courses that I B-ranged, my GPA would have been 3.746. Looking forward, if I wish to go for internal transfer, I'd have to attain a cGPA of at least 3.75 across the two semesters, which means I'll have to get at least 3.844 GPA in the next semester with my 18 credit of courses. I don't believe it would be quite achievable to say the least. Why on earth would CUHK offer so many unrelated 1-credit courses??!?!?
 
 ### 13-01-2022
@@ -829,7 +829,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > | Physical Education                                                      |   1    | TBD   |
 > **Term GPA: 3.665 @17**  
 > *Cumulative GPA: 3.655 @33*
-> 
+>  
 > As I said, weird indeed. I have no idea where to start so I think we should go through them each according to their grades.  
 > For starters, I have actually sunken a tremendous amounts of work into the *In Dialogue with Nature* course from the very get-go. Martin took this course by the same lecturer the previous semester and he said that this lecturer favours hard work by the way he calculate his grades. I suppose I should introduce a little about what this course is about in the first place. In essence, it's meant to enrich students with the history, conception, principles, and whatnot of modern science and mathematics with the occasional philosophy mixed in. We had to attend weekly lectures that I skipped all of since they are entirely optional as I've been told by Martin, and weekly tutorial sessions which are really just some class discussion shit. It is highly encouraged that we learn the material, i.e. read 40-60 pages of the textbook, before the discussions since you would otherwise be very unlikely to know what on earth the discussion is about since they got pretty deep and complex at times. We also have biweekly quizzes that you should be able to get all correct if you had read the textbook and memorised the stuff (and yes even the minute stuff is very important). Anyway, this is only his method of assessment. From what I've heard, every lecturer has a different set of assessments and standards so it is of utmost importance that you chose a decent lecturer when you take this compulsory course. Now I haven't read, nay, attempted to read a book for, I'd say, around 6 years or so, and the book consists entirely of "classical" excerpts by anyone from Plato and Euclid to Newton and some other very important scientists that I didn't even know existed prior to this. Long story short, I was kinda expecting half broken medieval Latin-English with weird Shakespearean phrasing, which surprisingly were all translated into readable english. Fortunately, I was, and luckily still am, quite a keen reader, so I was able to get away with only starting to read the required materials an hour prior to the discussions, every single time. To be fair, I wasn't intending to do this, but rather I was quite against the grotesque idea of rushing through books; however, as the gods of all things unfortunate would dictate, I had the most demanding 2-hour course, *University English*, first thing in the morning right before this with only an hour break in-between. *Anyway*, for the actually demanding assignments, we had to write an 800-word reflective journal during our midterm period, and an 1500-word term paper during our finals period. Both of them required an enormous amounts of brainstorming, re-reading the entire textbook, further researching, and fine-tuning. And if you consider both papers were assigned in the middle of exam periods, you can imagine that it wasn't particularly too fun of an experience. I even sacrificed an entire other course just for this (more about this later). So ultimately, I got full score in the quizzes, a staggeringly high 89.2% for my reflective journal, and a decently high 86% for my term paper. I even choose to write a free topic for my term paper since I didn't find any of the given ones to be very interesting. Holy shit, this is a long paragraph. The point is, if I hadn't gotten an A in this course, some murdering of the lecturer would probably have occurred.  
 > Both maths courses *(**MC**: [M](#multivariable-calculus-midterm), [F](#multivariable-calculus-final); **LA**: [M](#linear-algebra-midterm), [F](#linear-algebra-final))* are quite similar so I'll just talk about them together. I will try my best not to start ranting about the shitty lecturer again seeing that I've already done it 2 times already. To be fair, their grades were very much unexpected. Unexpected not in a way that they're very high or very low, just that I didn't really have an expectation at all since I honestly didn't care or them too much now or ever. Partly I'd say this would be 'cus I was too focused on the other courses this semester. To be fair, I'd say I had only devoted around 5 hours to both courses combined, so this is definitely very cost-effective.  
@@ -849,14 +849,14 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > I suppose I should do a detailed breakdown before anything else lest my eagerness makes little sense.  
 > First of all, this course accounts for 4 credits, which is nothing to scoff at. To give you some perspective, I have only take na total of 33 credits this whole year, so it definitely matters a lot for my GPA.  
 > Anyway, as I have mentioned, I have put a lot of time into this course. And frankly, I got quite decent grades:  
-> 
+>  
 > | Assessment item            |    Score | Weighting |
 > | :------------------------- | -------: | :-------- |
 > | Summary Synthesis Exercise | 83.5/100 | 20%       |
 > | Essay Proposal             | 80.5/100 | 20%       |
 > | Oral Presentation          |   83/100 | 20%       |
 > | Expository Essay           |      TBA | 40%       |
-> 
+>  
 > The first item, *summary synthesis exercise*, accounts for a whopping 20% of the entire course. However, the entire assignment involves only writing a grand total of 20 words. You literally only have to rephrase a sentence from a paragraph and that would be it. An absolutely ridiculous effort-to-weighting ratio if you ask me.  
 > The second one, *essay proposal*. It's basically just a compilation of the general flow and ideas of the essay we would have to write later on. This course is basically one big assignment, in the way that everything taught in this course leads us to the final essay. To be fair, it was a bit of a rush for me to complete this particular assessment item since I had decided to change the essay topic rather close to the submission deadline of the essay proposal, and hence I was not able to do too much research. An on top of this, I managed to submit it late despite having rushed the content, which costed me 3 points off the score. Most of the time taken was actually to cut down on my word count since for some inexplicable reason everyone loves to put harsh word limits on papers. Considering that, I actually got 83.5% in it, which is actually pretty decent.  
 > The third one, *oral presentation*. We had to present the entire content of our essay in just 5 minutes. Did I mention I hate harsh word limits yet? because this is the next worse thing. I had to talk so fast to cram everything into the 5 minutes I was practically giving the presentation in double speed. Luckily I managed to not trip up too much as I tend to do when I speak, especially at that kinds of speed. The final grade is respectable I guess.  
@@ -885,7 +885,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > A lot had happened since [this ordeal began](#grade-appeal-bureaucratic-hell), countless emails
 > He eventually did respond and said I should go ahead and request an official grade appeal from the English department. I felt like he was trying to ignore me to lessen his workload during his holidays. I couldn't stand his sloth, so I went straight ahead and involved the English department to request this grade appeal. I made sure to CC him in the email so he wouldn't be able to ignore me. I don't believe he really meant it when he said that I should ask the English department directly, since immediately after my email, he said that I had *"bypassed him"*. I made it clear to him that I was merely following his instructions and of course I also CC'd the department just to make sure we are on the same page. After a total of ***21*** fucking emails, he eventually agreed to entertain my appeal and bumped me up a sub-grade from B+ to A-.  
 > So here are my grades as they stand:  
->   
+>  
 > | Course Title                                                            | Credit | Grade |
 > | :---------------------------------------------------------------------- | :----: | :---- |
 > | In Dialogue with Nature                                                 |   3    | A     |
@@ -1017,7 +1017,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > > | Physical Education                                                                  |   1    | B     |
 > > **Term GPA: 3.644 @16**  
 > > *Cumulative GPA: 3.644 @16*  
-> > 
+> >  
 > > | [Year 1 Semester 2](#year-1-semester-2-results-released) Courses                  | Credit | Grade |
 > > | :-------------------------------------------------------------------------------- | :----: | :---- |
 > > | In Dialogue with Nature                                                           |   3    | A     |
@@ -1035,7 +1035,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > > | [Hospital Experience](#cu-medical-centre-tour) and [Engineering Practical Training](#soldering) |   1    | P     |
 > > **Term GPA: N/A @0**  
 > > *Cumulative GPA: 3.703 @34*  
-> 
+>
 > Here is a running summary of everything so far:  
 > | Semesters         | Term GPA @ Credit | cGPA @ Credit | All Credit |
 > | :---------------- | :---------------: | :-----------: | :--------: |
@@ -1062,7 +1062,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 20-11-2022
 #### Outline of Chinese Culture midterm results released
 > *[Here](#outline-of-chinese-culture-midterm) is the corresponding post-exam evaluation.*  
-> The exam is split into two parts, a T/F section and a long question section. I got 80% in the former and 70% in the latter, netting to a total of 74%. I don't suppose I did too well, and to consider that this is already said to be the easiest, most interesting, and least painful course in the *UGEA (Chinese Cultural Heritage)* area, I really don't think my brain is built for stuff like this. I mean I guess I can formulate intricate enough opinions, or at least I would like to think so, but all my years of education so far tells me that apparently I don't. At least this is only a 2-credit course, and there is still a term paper that accounts for a whopping 50% of the entire course, so there is still hope to do something about this I guess.
+> The exam is split into two parts, a T/F section and a long question section. I got 80% in the former and 70% in the latter, netting to a total of 74%. I don't suppose I did too well, and to consider that this is already said to be the easiest, most interesting, and least painful course in the *UGEA (Chinese Cultural Heritage)* area, I really don't think my brain is built for stuff like this. I mean I guess I can formulate intricate enough opinions, or at least I would like to think so, but all my years of education so far tells me that apparently I don't. At least this is only a 2-credit course, and there is still a term paper that accounts for a whopping 50% of the entire course, so there is still hope to do something about this I guess.  
 
 ### 21-11-2022
 #### Deterioration
