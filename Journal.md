@@ -109,13 +109,13 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Finals approach](#finals-approach)
       - [Anatomy and Physiology CA2](#anatomy-and-physiology-ca2)
     - [10-12-2021](#10-12-2021)
-      - [Physics final examination](#physics-final-examination)
+      - [Physics final](#physics-final)
     - [13-12-2021](#13-12-2021)
-      - [Calculus final examination](#calculus-final-examination)
+      - [Calculus final](#calculus-final)
     - [14-12-2021](#14-12-2021)
-      - [Chinese final examination](#chinese-final-examination)
+      - [Chinese final](#chinese-final)
     - [15-12-2021](#15-12-2021)
-      - [Human Anatomy and Physiology 1 final examination](#human-anatomy-and-physiology-1-final-examination)
+      - [Human Anatomy and Physiology 1 final](#human-anatomy-and-physiology-1-final)
       - [End of Year 1 Semester 1](#end-of-year-1-semester-1)
     - [19-12-2021](#19-12-2021)
       - [Zhong meeting again](#zhong-meeting-again)
@@ -544,19 +544,19 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > I just finished taking the second CA of this course, which is interestingly 8 days before its corresponding final examination. I definitely performed worse this time than the last, there is little doubt to it. I didn't have enough time or mental capacity to revise to extents that could be considered effective. I mean I did manage to go through the entire syllabus and made flow-charts and such, barring one PowerPoint where I literally just discovered the existence of 3 hours before the test. I was really not in the flow when I was doing this test. I just wasn't feeling it. Just from glancing, I could already tell I have made countless mistakes, although I did manage to find a mistake in the questions which the professor later confirmed, so I guess I wasn't completely brain-dead when I took it. If I have understood the terribly confusing mark allocation scheme, this CA should only account for 7.5% of the final grade. I don't know what I can comment about it really. I guess I could just hope for the best.
 
 ### 10-12-2021
-#### Physics final examination
+#### Physics final
 > Right off the bat, I'll admit that I did not study as much as I should. Honestly, I didn't even prepare at all, except for making the cheat sheet. But, despite this atrocity, I do believe I performed rather well in the exam. This entire week has been a mess. My sleeping and working schedule was haywire and I have no clue what was going on half the time. I don't believe I have much else to say about this other than what I have already said for the mid-term exam. Though one thing I would like to add is that, I found it quite funny why a senior who is currently in Year 3 asked me for help for this examination. He dropped this course once, failed once, and thus had to take it in his third year. Anyway, I have a very annoying book report to finish before 23:59 tonight, and it is already 18:43 as of the writing of this right after the exam had finished. Actually, I had two essays due tonight, and fortunately I had to foresight to give up my sleeping schedules to squeeze time to finish it the previous day/night/twilight(?). But at any rate, I should get going.
 
 ### 13-12-2021
-#### Calculus final examination
+#### Calculus final
 > This was the most dreadful examination I have ever done in my entire life. It was pure misery. I studied quite a lot to be fair but I just can't seem to be able to quite to them. In a lot of the questions, I have a solid lead and solid idea of how I could tease the answer out off the question, but I just couldn't quite execute the calculation itself. And it's not like I didn't understand the theorems and tricks either. I feel like I was stuck in Mathematics in a way I have never been before. The paper wasn't quite structured in a way that one could wrestle some partial credit either. I just don't know. I don't think I have ever been this unconfident ever after an exam.
 
 ### 14-12-2021
-#### Chinese final examination
+#### Chinese final
 > Honestly, I didn't think I would cross paths with Chinese after HKDSE but turns out I was so dead wrong. But I guess for all it's worth, the Chinese composition went better than I had thought. At least I managed to squeeze my residual brain cells ideas and wrote something moderately quality. I guess writing is really a process of exploration and self-reflection, as I could clearly say as of the writing of this. Speaking of language, I find myself deteriorating in terms of vocabulary and general writing quality ever since I have been in university, both Chinese and English. Honestly, I found it extremely odd that this would be the case. Of all things, I would've thought the abundance of non-locals would help to make this environment more academically-oriented, and that English would play a more prominent role in the picture. But it seems that my SJC is somehow more internationalised than CUHK. I really need to get working on my language, lest they forever leave me and become a thing of the past, as proven in today's examination where I managed to forget how to write a lot of very common words. What a weird place I am in right now.
 
 ### 15-12-2021
-#### Human Anatomy and Physiology 1 final examination
+#### Human Anatomy and Physiology 1 final
 > This went rather swimmingly, I would say. Honestly, I would say I performed better in this than the CA2, which would be odd considering the syllabus for this final examination is obviously larger. But I believe the existence of long questions helped me a lot since they are the place that I could dare say I excel in. MCQs just never sat well with me ever. And with that, it would conclude this semester for me. I have had this nagging headache for the past two days and it seems that it just won't go away. I should be getting some actual rest.
 
 #### End of Year 1 Semester 1
