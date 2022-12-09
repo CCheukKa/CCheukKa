@@ -273,6 +273,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
   - [December](#december)
     - [07-12-2022](#07-12-2022)
       - [Complex Analysis and Differential Equations final](#complex-analysis-and-differential-equations-final)
+    - [09-12-2022](#09-12-2022)
+      - [Programming final](#programming-final)
 
 ---
 
@@ -1103,4 +1105,9 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 07-12-2022
 #### Complex Analysis and Differential Equations final
 > The [midterm](#complex-analysis-and-differential-equations-midterm) for this course is absolutely ridiculous with its recycling of old questions, and I'm not very pleased to say that the final is not much different. I don't believe any single one question was new, not even a single number changed I don't believe. Utter absurdity. It's like why even have a normal cheat sheet anymore if a copy of the past paper answer would work just fine, if not better? I seriously do not understand the rationale behind this for whoever set the papers.
+
+### 09-12-2022
+#### Programming final
+> Holy shit this exam was quite the insanity. First off, its length is quite ridiculous. Of all past papers, the longest ones are at most 14 pages long, but this exam is 22 pages long. 22 pages in only 2 hours! I barely managed to finish the paper at all; double-checking was completely out of the question. I have already voiced my hatred for *C* [before](#programming-midterm), and a programming exam on paper is among the most idiotic things on the face of this planet. Programming is about problem solving, not memorising syntax and shit. I guess this paper did lean more heavily on the problem solving side, and by that I mean the problems are rather brutal, magnitudes more than those in past papers. I guess this was not the main point of absurdity either. The real royal pain are the fill-in-the-blank questions. They asked us to fill in the blanks among statements and shit. It is basically a guessing game at best. Seriously, who thought these questions types were acceptable? It takes a long of time and effort trying to decipher what the setter's code was trying to achieve with all the most crucial parts being blanks. Can you imagine if maths exams did shit like this? And the thing is, half of the time, the code and methods given are of the weirdest approaches. Definitely not what the sane would do. For the love of god just let me use my own approaches. Granted, these questions only account for a relatively small part of the paper, but they are still very much time-consuming.  
+> I would say I did quite well. I mean at least I finished, which, from what I've heard, is not what most can say. Although I was unable to double-check, and I definitely utterly needed to do so, considering the kinds of careless mistakes I apparently so enjoy making. And considering I still had 2 whole questions (the hardest ones, might I add) to go when there was only 30 minutes left, I really can't be so certain my code would work at all. Logic errors and shit plague me as is without me having to code with pen and paper, and one can only imagine what horrors lay await amongst the graphite. Either way, I am very glad I am completely done with *C* in the foreseeable future. I wish you burn in programming language hell and die a horribly painful death. Amen.
 
