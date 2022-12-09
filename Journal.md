@@ -270,7 +270,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Nervousness and artificial confidence](#nervousness-and-artificial-confidence)
     - [30-11-2022](#30-11-2022)
       - [Biomechanics quiz 3](#biomechanics-quiz-3)
-  - [December](#december)
+  - [December - 2022](#december---2022)
     - [07-12-2022](#07-12-2022)
       - [Complex Analysis and Differential Equations final](#complex-analysis-and-differential-equations-final)
     - [09-12-2022](#09-12-2022)
@@ -1101,7 +1101,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Biomechanics quiz 3
 > As per usual, I didn't really start revising until quite late. Anyway, the syllabus material isn't really too friendly, with all its variables and symbols. The funny thing is, I have no idea why the lecture notes/ textbook felt the need to use a whole set of different greek letters to address the same quantity while most of them have the same/ similar equations. That was quite a confusing mess to have to wrap my head around. Another thing about these quizzes are that we are not allowed to bring in cheat sheets or anything (for a physics quiz!). That is genuinely rather ridiculous in my book. It's not like bringing cheat sheets would allow some sort of exploit. Granted, they have provided some sort of brief formula list, but that is not nearly enough at all. I think I have mentioned it before, but the one thing I hate most is having to memorise shit. The subject itself really isn't that difficult, and I would like to think I did pretty well in the quiz. However, I have remembered one crucial equation incorrectly, and I think it had costed me an entire question. Utter ridiculousness. I guess this also shed light on how much I actually relied on good cheat sheets, but that's besides the point. So yeah, I don't really have high hopes on this one.
 
-## December
+## December - 2022
 ### 07-12-2022
 #### Complex Analysis and Differential Equations final
 > The [midterm](#complex-analysis-and-differential-equations-midterm) for this course is absolutely ridiculous with its recycling of old questions, and I'm not very pleased to say that the final is not much different. I don't believe any single one question was new, not even a single number changed I don't believe. Utter absurdity. It's like why even have a normal cheat sheet anymore if a copy of the past paper answer would work just fine, if not better? I seriously do not understand the rationale behind this for whoever set the papers.
