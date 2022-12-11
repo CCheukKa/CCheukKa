@@ -1212,8 +1212,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 ### 15-11-2022
 #### Biomechanics quiz 2 results released
-> *[Here](#biomechanics-quiz-2) is the corresponding post-quiz evaluation.*  
 <!-- 📚 Academics -->
+> *[Here](#biomechanics-quiz-2) is the corresponding post-quiz evaluation.*  
 > I got a 93%. I guess what I have to say has already been said [before](#biomechanics-quiz-2), so I'll let this be the shortest entry in a long while.
 
 
