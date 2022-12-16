@@ -5,7 +5,7 @@
 - 🌐 I have a personal website at [CCheukKa.github.io](https://CCheukKa.github.io)
 - 📫 How to reach me:
   1. 📧 Email: [contact.CCheukKa@gmail.com](mailto:contact.CCheukKa@gmail.com)
-  2. Don't.
+  2. 🚫 Try not to contact me via other means. I tend not to check them at all.
 - ⚡ Fun fact: I'm a human.
 
 
