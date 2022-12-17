@@ -281,6 +281,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [COVID-19 near me](#covid-19-near-me)
     - [16-12-2022](#16-12-2022)
       - [Biomechanics final](#biomechanics-final)
+    - [18-12-2022](#18-12-2022)
+      - [Some fever](#some-fever)
 
 ---
 
@@ -1312,3 +1314,10 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Biomechanics final
 <!-- 📚 Academics -->
 > Well, this exam is quite a weird one. From all the quizzes before, we had expected that the final would be equally tricky and unintuitive. The questions posed in this course tends to be very obscured and obfuscated. The terminology and logic tends to be quite dodgy at times, not to mention that literally all of the course materials are error-ridden. It would be safe to assume that this exam would be equally so. However, as it turned out, this paper in particular just so happens to skip right over all the most trickiest parts of the course, and practically the all the problems are pieces of pastry. I mean I guess the paper *is* interesting, which is honestly more than what one can say for most other courses. The biggest offender of this paper though, was precisely the one concerning what I deemed to be the trickiest part of the course. Despite this, the question was set to be trivially easy. It is literally a giveaway question. The setter even had the audacity to give the same problem twice, only doubling one quantity for the second instance. Partly due to this slack of problem-setting, I was even able to finish and leave a whole hour early. I even doubled-checked and all. Well, this course was definitely a whole roller coaster ride. I'm not sure if the score curve would be all weird and wonky because of all the shenanigans they pulled, but I don't suppose I would do too terribly in any case.
+
+### 18-12-2022
+#### Some fever
+<!-- 🌞 Well-being -->
+> Apparently I spoke too soon [here](#covid-19-near-me). As of the writing of this, it is 04:37 and I am apparently having a fever of 38.1°C. I did take a COVID RAT test this morning and immediately before the writing of this, and they both came out negative, so that rules that out. I'm not sure if this is an early symptom, but I do tend to have abnormally cold feet for some reason, to the point where I literally can fail to make it warm near my feet under the blankets after a whole couple hours of snuggling. This is not too big of a problem in and of itself, I can just get more blankets. But the thing is, my whole torso is literally burning while this whole ordeal is going on. This is why I woke up in the first place. I simply couldn't sleep, not the mention the back pains this horrible mattress is giving me. I went to take a shower, and it was then that I felt my heart pounding rapidly. My heart rate stayed at ~115bpm for a whole hour while my blood oxygen was apparently at only ~88%. All the signs of COVID yet all the tests came back negative.  
+> I mentioned I have a horribly weak respiratory system, and in fact, my whole family has it, so it's kinda like some hereditary ailment. I'm not sure if it is related, but I do get sore throats very easily. It could take as little as breathing in dry air while I'm sleep for me to manifest a sore throat. It is honestly very annoying considering its frequency, especially in winter. It really doesn't help having weird symptoms while under high risk of actually contracting COVID.  
+> If you know me, the one thing I hate most about ailments is that they impair my cognitive capacity, and the fever is definitely doing that. I am in a bad enough head space as is normally, and I definitely do not need some other excuse to hinder my brain. I'm genuinely not sure why I'm writing this entry, but I guess all the disorganised rambling is a good display of my failing brain. Sure let's go with that.  
