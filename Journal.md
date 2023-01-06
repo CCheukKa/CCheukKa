@@ -287,6 +287,10 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [COVID positive](#covid-positive)
     - [24-12-2022](#24-12-2022)
       - [COVID recovery](#covid-recovery)
+- [2023](#2023)
+  - [January - 2023](#january---2023)
+    - [06-01-2023](#06-01-2023)
+      - [Perspectives in Economics make-up final](#perspectives-in-economics-make-up-final)
 
 ---
 
@@ -1344,3 +1348,11 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > I think I'm officially COVID-free again. It would seem that the symptoms I mentioned [here](#some-fever) was the worst. Everything else was just going uphill, weirdly enough. Anyway, I do still have some very mild cold-like symptoms going on, but it's really nothing I'm not familiar with.  
 > Regarding [the psychological horror aspect](#covid-positive) of it, it would seem that all my concerns were wholly unjustified. I have overthought it all, as I always do, although I would argue that it is still too early to say whether there is some sort of lingering bullshit for me to deal with down the line, but I'm really not too worried about anything else as long as it doesn't affect my brain. Or perhaps it already has, and I have already been dumbed down so much that I am no longer able to tell at all. Perhaps unrelated, but I do find my drive to do stuff quite a bit lowered, or even killed entirely in the past few days. I barely want to move at all, it would seem. I mean I wasn't able to sleep at all for the aforementioned reasons, so I guess I have been catching up on sleep recently, but I would really hope that I would have some sort of urge to do the stuff that I had been wanting to do every single time I got free time.  
 > Back to the exam shit. Yes, I've missed an exam due to COVID, and for some stupid reason, CUHK requires students to submit a absence excuse application form *in person* within 5 days of the original examination date in order to not be awarded a fail in the course. First of all, this is an absolutely horrible idea to have students not be able to submit online, considering that they have presumably just fucking recovered from whatever ailment they have been suffering from. Secondly, there is absolutely no way that someone could recover from anything that would warrant a sick leave in just 5 days. Lastly, there was absolutely no special policy regarding COVID-19 at all. They literally just reused the same system and application form for regular illnesses, and frankly I'm not even sure forcing students to leave their quarantine location in 5 days is legal at all. Also, as you may have noticed, it is nearly Christmas at this point, and I'm not even sure the office opens during the holidays. My deadline is 27/12, mind you, so I;m absolutely having a jolly time trying to play this little game of theirs. How very delightful.
+
+# 2023
+## January - 2023
+### 06-01-2023
+#### Perspectives in Economics make-up final
+<!-- 📚 Academics -->
+> As mentioned in [COVID recovery](#covid-recovery), it took so long for a make-up exam arrangement to be made. In fact, I waited a whole week only to get an email with a pdf telling me to wait longer. But alas, two days ago, I was informed that the exam would be today. Anyway, the exam paper was apparently different from what the original final exam paper, although I was kinda surprised they actually had put effort to do this, I guess it is to be expected. The paper was inexplicably hard. I'd say half the stuff is different from what the lecture notes had covered. Despite this, I don't believe I'm too worried since I guess everyone else was struggling too. However, it *is* a 3-credit course, and I really only took it because I didn't want to underload my this semester, so it'd be rather silly is it would turn out that I get a terrible grade in this. Oh well.
+
