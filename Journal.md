@@ -1399,13 +1399,13 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > *[Here](#ielts-exam) is the corresponding post-exam evaluation.*  
 >   
 > Tabulation time, as always.  
-> | Section     |  Score  |
-> | :---------- | :-----: |
-> | Listening   |   9.0   |
-> | Reading     |   8.5   |
-> | Writing     |   7.5   |
-> | Speaking    |   7.5   |
-> | **Overall** | **8.0** |
+> | Section       |   Score   |
+> | :------------ | :-------: |
+> | Listening     |    9.0    |
+> | Reading       |    8.5    |
+> | Writing       |    7.5    |
+> | Speaking      |    7.5    |
+> | ***Overall*** | ***8.0*** |
 >
 > Well, I was genuinely quite worried about my performance seeing how underprepared I was. Virtually everything caught me off-guard. But apparently I did quite well, all things considered. The full score of each section is 9, so it's like a 88.9% overall. Well it's really 90.3%, but it got rounded down to the nearest 0.5. The speaking score is really unexpected, as I fully anticipated a complete failure seeing how much I was struggling in the organisation department. One thing I'll say is that, although I know IELTS is supposed to be easier than HKDSE, I wasn't quite expecting its standards to be this low.  
 > Honestly, the thing I worry about most is whether I would have enough time to retake the exam for the exchange application if I was to fail it. As of now, I am a full point up the maximum minimum, so I can stop worrying about this and focus on choosing the exchange institute.  
