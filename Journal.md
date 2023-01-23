@@ -295,6 +295,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Year 2 Semester 1 results released](#year-2-semester-1-results-released)
     - [15-01-2023](#15-01-2023)
       - [IELTS exam](#ielts-exam)
+    - [20-01-2023](#20-01-2023)
+      - [IELTS exam results released](#ielts-exam-results-released)
 
 ---
 
@@ -1392,3 +1394,18 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > After a 2-hour break, I had the speaking test in the afternoon session. Again, due to my lack of preparation, I was caught completely off-guard by the structure of the test. The marker was some local guy, and from his souvenirs and stuff, was an HKU graduate. There is already something weird about having a local guy test your English abilities when I have clearly seen there was some British lady in the same test center. It's like some kind of improper hierarchy. Honestly, I would much rather have been tested by said lady. The worst offender is that, he couldn't even speak English clearly. His enunciation is rather subpar. I had quite a bit of trouble dissecting meaning from his words. The test is recorded, and by that I mean he literally had a microphone right in my face. The questions are sporadic at best, and completely irrelevant at worst. He started asking me about my name and occupation, and proceeded to my university. Then he asked what CUHK is special about, and what I think its worst qualities are. That on its own is already very hard to come up with on-the-fly. Anyway, he then started to ask about t-shirts. Yes, t-shirts. Do you remember me ranting about his poor enunciation? I literally could not tell between his "t-shirts" and "teachers". I spent quite a bit of time wondering what he meant by "Do you wear teachers often?" since the logical continuation to talking about one's school is apparently t-shirts instead of teachers. Expectedly, this gave me quite a startle. I wasn't sure why or even whether we switched topics, so I started to talk a bit about CUHK in my answer just in case. Apparently we did switch topics and he began drilling me on my opinions on t-shirts. "Have you ever bought t-shirts as a souvenir when you were on vacations?" Why yes of course I did in my completely true and totally not made-up-on-the-spot story. And of course, I am fully aware about the t-shirt culture in Hong Kong and how it differs from generation to generation as all good citizens do. To my credit, I did manage to make up a whole lot of historical factors that sounded true enough. Then apparently my t-shirt theory is not interesting enough as he then changed the topic to cooperation in children. Of course I can give you a suggestion to boost cooperation in children out of the blue (I mean I did just recycle the bridge building game we used in the [OCamp](#ocamp-day-2)), as I assume the role of paediatric psychologist to explain why children tend to have difficulties cooperating. And thank you for asking since I just so happen to randomly have a fully-formed opinion on why countries have difficulties cooperating and suggestions on how to improve the situation while referring to the benefits of medical communication to society.  
 > By the way, I made none of these up. All of the questions are not exaggerated in any way. They are in all parts wacky and unorthodox. I am really unsure what they are trying to test for in this speaking test, but I really don't believe I did too well in this. I am well aware that my organisation skills are non-existent, and it's not a matter of Chinese vs English either. I organise my thoughts and ideas just as poorly in my native tongue. So needless to say, I absolutely struggled to put everything into words, especially under time pressure and the startle of randomly switching topics. Another thing is that, I think the entirety of my English communication is solely on the side of academic argumentation. I struggle a lot when talking about casual stuff but that struggle is nowhere to be seen when he was drilling me on some of the tougher questions with wider scopes. Food for thought. Yes, and one last rant: who in the actual fuck hired this enunciation-deficient ass person as a fucking marker????
 
+### 20-01-2023
+#### IELTS exam results released
+> *[Here](#ielts-exam) is the corresponding post-exam evaluation.*  
+>   
+> Tabulation time, as always.  
+> | Section     |  Score  |
+> | :---------- | :-----: |
+> | Listening   |   9.0   |
+> | Reading     |   8.5   |
+> | Writing     |   7.5   |
+> | Speaking    |   7.5   |
+> | **Overall** | **8.0** |
+>
+> Well, I was genuinely quite worried about my performance seeing how underprepared I was. Virtually everything caught me off-guard. But apparently I did quite well, all things considered. The full score of each section is 9, so it's like a 88.9% overall. Well it's really 90.3%, but it got rounded down to the nearest 0.5. The speaking score is really unexpected, as I fully anticipated a complete failure seeing how much I was struggling in the organisation department. One thing I'll say is that, although I know IELTS is supposed to be easier than HKDSE, I wasn't quite expecting its standards to be this low.  
+> Honestly, the thing I worry about most is whether I would have enough time to retake the exam for the exchange application if I was to fail it. As of now, I am a full point up the maximum minimum, so I can stop worrying about this and focus on choosing the exchange institute.  
