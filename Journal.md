@@ -297,8 +297,10 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [IELTS exam](#ielts-exam)
     - [20-01-2023](#20-01-2023)
       - [IELTS exam results released](#ielts-exam-results-released)
+  - [February - 2023](#february---2023)
     - [14-02-2023](#14-02-2023)
       - [Shitty physics electromagnetic lab](#shitty-physics-electromagnetic-lab)
+  - [March - 2023](#march---2023)
 
 ---
 
@@ -1425,3 +1427,4 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Throughout the entire 2-hour lab session, and I do mean the entire lab session, we were supposed to keep pressing the buttons in all their permutations and combinations and measure the voltage, only to turn the dials slightly and do the whole thing over and over again. If you think it is tedious enough, you haven't heard anything. The equipment is so old the scope is barely even working. We had to reset it every 10 measurements or so lest it gets stuck in an infinite loop somehow. The measurements tick creeps so slowly it is infuriating to watch. And every time you think the measurement has been stabilised, it would change the second after you write it down. And that's not it either. We had to suffer through a whole 132 measurements. What a load of joy.  
 > For the last part of the 132, we had to measure how the distance of the probe affects the measurements. So we had to do the entire measuring process again except now we also have to move the probe every 4 measurements. The probe was mounted on a rail with markings. There were a ruler on the rail and another one on the probe itself. And you know what the best part of this whole ordeal is? The markings of those two rulers didn't even match! 10mm on one is 9mm on the other. What on god's green earth is this accurate science bullshit if we're making up our own unit sizes anyway?!?  
 > This is the dullest and most labour intensive lab session I have ever done. And let me tell you one thing, there is absolutely no reason they couldn't have cut the entire thing in half either. They could only have us do half the work and we would still have gotten the same graph at the end, but no, they have to squeeze funding out of the faculty by pretending their lab sessions are long even though not a single drop of said funding actually ends up in the lab equipments.  
+## March - 2023
