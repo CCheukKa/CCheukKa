@@ -301,6 +301,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [14-02-2023](#14-02-2023)
       - [Shitty physics electromagnetic lab](#shitty-physics-electromagnetic-lab)
     - [23-02-2023](#23-02-2023)
+      - [Cell and Molecular Biology CA1](#cell-and-molecular-biology-ca1)
       - [Advanced physics quiz 2](#advanced-physics-quiz-2)
   - [March - 2023](#march---2023)
     - [13-03-2023](#13-03-2023)
@@ -1431,6 +1432,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Throughout the entire 2-hour lab session, and I do mean the entire lab session, we were supposed to keep pressing the buttons in all their permutations and combinations and measure the voltage, only to turn the dials slightly and do the whole thing over and over again. If you think it is tedious enough, you haven't heard anything. The equipment is so old the scope is barely even working. We had to reset it every 10 measurements or so lest it gets stuck in an infinite loop somehow. The measurements tick creeps so slowly it is infuriating to watch. And every time you think the measurement has been stabilised, it would change the second after you write it down. And that's not it either. We had to suffer through a whole 132 measurements. What a load of joy.  
 > For the last part of the 132, we had to measure how the distance of the probe affects the measurements. So we had to do the entire measuring process again except now we also have to move the probe every 4 measurements. The probe was mounted on a rail with markings. There were a ruler on the rail and another one on the probe itself. And you know what the best part of this whole ordeal is? The markings of those two rulers didn't even match! 10mm on one is 9mm on the other. What on god's green earth is this accurate science bullshit if we're making up our own unit sizes anyway?!?  
 > This is the dullest and most labour intensive lab session I have ever done. And let me tell you one thing, there is absolutely no reason they couldn't have cut the entire thing in half either. They could only have us do half the work and we would still have gotten the same graph at the end, but no, they have to squeeze funding out of the faculty by pretending their lab sessions are long even though not a single drop of said funding actually ends up in the lab equipments.  
+
+### 23-02-2023
+#### Cell and Molecular Biology CA1
+<!-- 📚 Academics -->
+> This course title sounds a lot easier than the [*Human Anatomy and Physiology*](#year-1-results-finalised) courses I took last year, and it is. Makes you wonder why they make us take the courses in this order. But anyhow, this course is actually quite delightful to study for, since it mainly concerns biotechnology, or rather all the rationales and tangents of biotechnology without actually talking about biotechnology.  
+> The CA itself is rather fine, although I did find myself having quite a bit of trouble for some particular questions, although granted, they are all MC questions anyway, so a guess always do the trick. However, I have noticed that the correct answer is ever so slightly more lightly shaded for one of the questions, which I believe since they always just print the marking scheme directly where the correct answers are in red and use it as the question paper. While I only noticed this phenomenon for this one question, apparently Louis said that he was able to see all the answers in this manner. Absolutely ridiculous. I might add that I believe this had happened before in a *Human Anatomy and Physiology* CA last year, though only vaguely so seeing that I seem to not have committed it to this journal. But I would be quite pissed if this would turn out to be the thing that would cost me.
 
 #### Advanced physics quiz 2
 <!-- 📚 Academics -->
