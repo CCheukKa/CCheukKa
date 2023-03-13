@@ -306,6 +306,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [24-02-2023](#24-02-2023)
       - [iGEM: beginning](#igem-beginning)
   - [March - 2023](#march---2023)
+    - [08-03-2023](#08-03-2023)
+      - [Cell and Molecular Biology CA1 results released](#cell-and-molecular-biology-ca1-results-released)
     - [13-03-2023](#13-03-2023)
       - [Statistics midterm](#statistics-midterm)
 
@@ -1456,6 +1458,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Anyway, I guess this course is some sort of taster appetiser for the whole iGEM since it seems that the entire course orientates around familiarising us with the lab environment. From the course outline, I initially thought we would have a 2-hour lab session weekly, but of course I now learn that the outline and schedule is merely a suggestion seeing that we have already spent 4 whole hours from not really doing too much, and I do believe that the occasional overtime is very much to be expected. I think I may refrain from talking too much about the lab sessions themselves going forward since we do have to write lab logs about each session anyway so perhaps I'll just upload all of them [here](https://ccheukka.github.io/papers) to document. [Here](https://ccheukka.github.io/papers/pdfs/[LSCI-3000]%20[1]%20Lab%20Log%201.pdf) will be the link to the first lab log. A log is worth a thousand words, or something like that, right?
 
 ## March - 2023
+
+### 08-03-2023
+#### Cell and Molecular Biology CA1 results released
+<!-- 📚 Academics -->
+> Hey apparently I didn't do as poorly as I thought I had. I got 95%. Great.
+
 ### 13-03-2023
 #### Statistics midterm
 <!-- 📚 Academics -->
