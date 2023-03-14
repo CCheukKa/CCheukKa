@@ -1473,7 +1473,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 ### 08-03-2023
 #### Cell and Molecular Biology CA1 results released
 <!-- 📚 Academics -->
-> Hey apparently I didn't do as poorly as I thought I had. I got 95%. Great.
+> Hey apparently I didn't do as poorly as I thought I had. I got 95%. Great. Louis got 100% to no one's surprise with [his discovery](#cell-and-molecular-biology-ca1).
 
 ### 13-03-2023
 #### Statistics midterm
