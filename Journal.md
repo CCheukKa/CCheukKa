@@ -313,6 +313,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Cell and Molecular Biology CA1 results released](#cell-and-molecular-biology-ca1-results-released)
     - [13-03-2023](#13-03-2023)
       - [Statistics midterm](#statistics-midterm)
+      - [Advanced physics midterm results released](#advanced-physics-midterm-results-released)
 
 ---
 
@@ -1496,3 +1497,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Anyhow, I should probably talk about the actual exam itself. But first off, before I could actually go and take the exam, I had to go get my cheat sheet printed. So logically, I went to the learning common in *Wu Ho Man Yuen Building* to get it done, considering the time pressure and seeing that it is en route. I thought But as luck would have it, the internet of the place is out, and I can't print my cheat sheet without the internet since everything I have is in the cloud. Great. So then the next logic option would be the *University Library* which would only require a slight detour everything considered. But of course, the entire place is absolutely packed with people for some reason. I spent so much time looking for a vacancy but apparently every single computer is in use. Eventually, I found this accessibility computer. After fumbling with it for a bit, I discovered that it of course was not connected to the printers there. *Great*. Eventually, I just gave up and went back to *BME Computer Lab* to get my shit printed. The thing is that, I always have gone there to get my stuff printed, but the one time that I decided not to, shit like this happens. The one time I thought to avoid detours is the one time the detour proved to be necessary. After running a whole marathon, I barely got there ~5 minutes after the exam had started. But here's the thing: I arrived CU 30 minutes before the exam and apparently this whole ordeal wasted ~35 minutes of my time. Just the best.  
 > I realise I still haven't talked a single bit about the exam. It was fine. Everything about it was easy, and I do mean it. There is not too much in the way of being challenging or tricky. Nothing was out of the ordinary, barring the last "bonus questions" which required you to derive some proofs on your own. It should be alright despite my indifference/disgust towards the subject.
 
+#### Advanced physics midterm results released
+<!-- 📚 Academics -->
+> *[Here](#advanced-physics-midterm) is the corresponding post-exam evaluation.*  
+> I got 82%. It was meh. Expected better, could be better. The style of the exam definitely threw me off quite a bit since my cheat sheet is not formulated in the way that optimises for such styles. We'll see how the final exam goes.
