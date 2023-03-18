@@ -314,6 +314,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [13-03-2023](#13-03-2023)
       - [Statistics midterm](#statistics-midterm)
       - [Advanced physics midterm results released](#advanced-physics-midterm-results-released)
+    - [17-03-2023](#17-03-2023)
+      - [Advanced physics midterm paper checking](#advanced-physics-midterm-paper-checking)
 
 ---
 
@@ -1501,3 +1503,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 <!-- 📚 Academics -->
 > *[Here](#advanced-physics-midterm) is the corresponding post-exam evaluation.*  
 > I got 82%. It was meh. Expected better, could be better. The style of the exam definitely threw me off quite a bit since my cheat sheet is not formulated in the way that optimises for such styles. We'll see how the final exam goes.
+
+
+### 17-03-2023
+#### Advanced physics midterm paper checking
+<!-- 📚 Academics -->
+> After [the results were released](#advanced-physics-midterm-results-released), the TA responsible or marking the papers actually offered two paper checking sessions. He actually set the session times to be rather awkwardly early to go to, probably to discourage people from actually going there, but I went there nonetheless following Martin, who went yesterday and apparently got awarded 2 marks after some arguing. He said that the TA actually didn't even understood the material properly and he had to explain an entire equation to him; and while he was there, another international student got their hands on 6 extra points somehow.  
+> Either way, when I got there, Louis was apparently still there, and he had been there for a whole hour somehow. When I got the paper and checked, I briefly went through the first couple questions, but when I came to the last question, apparently I got got 6/15 from it. I was rather shocked since I that question can literally be on a DSE paper and no one would question it at all. So after a bunch of investigation, I figured out that actually the entire marking scheme for that question is wrong, and instead, my answer was indeed what the marking scheme should've been. Basically everything is the same except that the marking scheme had substituted the wrong number into a variable andd got the wrong answer. And as things go, of course the answer for part b is also dependent on the answer for part a, and so both of them were incorrect. So I talked to the TA and explained everything to him and he eventually gave me a full score for that question, 15/15.  
+> So yes, my final score is now actually 9 points higher, at 91%. I'm honestly surprised that an alleged wrong substitution of a number could've costed me 9 points. And the substitution step is literally the last step of the solutions, so I am absolutely stumped as to how that would constitute 9 points while the entire proof before that would only account for 6. The TA told me that apparently virtually no one got the last question right, and for some reason he didn't think to check the marking scheme because of that. Sure.  
+> While this is a whole scandal and a half, borderline a scam, I guess I can't be too hard on him considering that he actually went through the effort of setting up this paper checking session, which wasn't really a thing for any other course ever. I would like to criticise the wrong marking and whatnot, but I wouldn't even have known if an error existed for the courses that didn't have paper checking sessions. Perhaps I would try to arrange such sessions myself in the future for other courses, since apparently these kinds of things [have historically turned out pretty well for me](#grade-appeal-conclusion-probably). Who knows?
