@@ -319,6 +319,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Bike trail walk and some fancy steakhouse experience](#bike-trail-walk-and-some-fancy-steakhouse-experience)
     - [17-03-2023](#17-03-2023)
       - [Advanced physics midterm paper checking](#advanced-physics-midterm-paper-checking)
+    - [22-03-2023](#22-03-2023)
+      - [Circuits and signals midterm results released](#circuits-and-signals-midterm-results-released)
 
 ---
 
@@ -1544,3 +1546,9 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Either way, when I got there, Louis was apparently still there, and he had been there for a whole hour somehow. When I got the paper and checked, I briefly went through the first couple questions, but when I came to the last question, apparently I got got 6/15 from it. I was rather shocked since I that question can literally be on a DSE paper and no one would question it at all. So after a bunch of investigation, I figured out that actually the entire marking scheme for that question is wrong, and instead, my answer was indeed what the marking scheme should've been. Basically everything is the same except that the marking scheme had substituted the wrong number into a variable andd got the wrong answer. And as things go, of course the answer for part b is also dependent on the answer for part a, and so both of them were incorrect. So I talked to the TA and explained everything to him and he eventually gave me a full score for that question, 15/15.  
 > So yes, my final score is now actually 9 points higher, at 91%. I'm honestly surprised that an alleged wrong substitution of a number could've costed me 9 points. And the substitution step is literally the last step of the solutions, so I am absolutely stumped as to how that would constitute 9 points while the entire proof before that would only account for 6. The TA told me that apparently virtually no one got the last question right, and for some reason he didn't think to check the marking scheme because of that. Sure.  
 > While this is a whole scandal and a half, borderline a scam, I guess I can't be too hard on him considering that he actually went through the effort of setting up this paper checking session, which wasn't really a thing for any other course ever. I would like to criticise the wrong marking and whatnot, but I wouldn't even have known if an error existed for the courses that didn't have paper checking sessions. Perhaps I would try to arrange such sessions myself in the future for other courses, since apparently these kinds of things [have historically turned out pretty well for me](#english-grade-appeal-conclusion-probably) (barring the hassle). Who knows?
+
+### 22-03-2023
+#### Circuits and signals midterm results released
+<!-- 📚 Academics -->
+> *[Here](#circuits-and-signals-midterm) is the corresponding post-exam evaluation.*  
+> I definitely expected worse. I got 80%. Apparently the mean was 60%, which is definitely much high that I had expected, but this course does absolute grading and not some curve shenanigans so it's not like it matters too much anyway. I'm not sure what else I can add here, so let this be the last sentence of this entry.
