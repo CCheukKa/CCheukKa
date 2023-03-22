@@ -307,6 +307,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [24-02-2023](#24-02-2023)
       - [iGEM: beginning](#igem-beginning)
   - [March - 2023](#march---2023)
+    - [01-03-2023](#01-03-2023)
+      - [Circuits and signals midterm](#circuits-and-signals-midterm)
     - [03-03-2023](#03-03-2023)
       - [Advanced physics midterm](#advanced-physics-midterm)
     - [08-03-2023](#08-03-2023)
@@ -1475,6 +1477,12 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Anyway, I guess this course is some sort of taster appetiser for the whole iGEM since it seems that the entire course orientates around familiarising us with the lab environment. From the course outline, I initially thought we would have a 2-hour lab session weekly, but of course I now learn that the outline and schedule is merely a suggestion seeing that we have already spent 4 whole hours from not really doing too much, and I do believe that the occasional overtime is very much to be expected. I think I may refrain from talking too much about the lab sessions themselves going forward since we do have to write lab logs about each session anyway so perhaps I'll just upload all of them [here](https://ccheukka.github.io/papers) to document. [Here](https://ccheukka.github.io/papers/pdfs/[LSCI-3000]%20[1]%20Lab%20Log%201.pdf) will be the link to the first lab log. A log is worth a thousand words, or something like that, right?
 
 ## March - 2023
+### 01-03-2023
+#### Circuits and signals midterm
+<!-- 📚 Academics -->
+> Electric circuits are by far the topic I like least in physics. I'm honestly not sure what I don't like about it specifically, it's just that it never really spoke to me. And now you're telling me that we are somehow going to put complex numbers into circuits and stuff? It is starting to get all hand-wavey, and I can't say I would like my course material to be like that. And on top of that, we are apparently going to actually have to look into chips and stuff, which entails us having to dig into the datasheets trying to decipher what the manufacturer intended the chip to perform. And that is the first problem I'm having with this exam. We are supposed to have an understanding of what a certain chip's behaviour is like, but the chip itself is no goddamn complicated it really isn't feasible to look into its inner workings. And as such, we basically have to treat it as a black box or some program instead of an actual electrical circuit. Normally how I would like to get an understanding on something would be to try and derive said stuff and their surrounding equations myself. This strategy is actually quite good for not only understanding the topic and concepts, but also for during exams when I go completely blank on something and have to derive stuff from the very fundamentals, which happens quite a lot for some obscene reason. Either way, as you might imagine, this completely breaks down for topics too complicated to even get a grasp of in the first place, let alone trying to derive stuff out from it. It is honestly about memorising arbitrary equations that have magically appeared out of thin air at that point.  
+> This happened to be the case in the exam. Although the exam didn't really ask too deep into the chip itself, one of the questions actually requires us to construct a simple circuitry with it. The circuitry in its entirety actually was in one of the appendix of the lecture notes, but of course I didn't study it since, like I said, it was in the appendix, so I had simply assumed that it was just some sort of application demonstration of the chip. I still managed to draw an approximation of the circuit though, but I'm not sure it was good enough.  
+> I can't say I have high hopes for this exam since it was really my weakest topic in physics even in secondary school. Hm.
 
 ### 03-03-2023
 #### Advanced physics midterm
