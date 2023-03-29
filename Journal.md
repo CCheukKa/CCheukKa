@@ -1551,4 +1551,4 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 #### Circuits and signals midterm results released
 <!-- 📚 Academics -->
 > *[Here](#circuits-and-signals-midterm) is the corresponding post-exam evaluation.*  
-> I definitely expected worse. I got 80%. Apparently the mean was 60%, which is definitely much high that I had expected, but this course does absolute grading and not some curve shenanigans so it's not like it matters too much anyway. I'm not sure what else I can add here, so let this be the last sentence of this entry.
+> I definitely expected worse. I got 83.3%. Apparently the mean was 60%, which is definitely much high that I had expected, but this course does absolute grading and not some curve shenanigans so it's not like it matters too much anyway. I'm not sure what else I can add here, so let this be the last sentence of this entry.
