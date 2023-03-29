@@ -321,6 +321,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Advanced physics midterm paper checking](#advanced-physics-midterm-paper-checking)
     - [22-03-2023](#22-03-2023)
       - [Circuits and signals midterm results released](#circuits-and-signals-midterm-results-released)
+    - [27-03-2023](#27-03-2023)
+      - [Statistics midterm results released](#statistics-midterm-results-released)
 
 ---
 
@@ -1552,3 +1554,9 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 <!-- 📚 Academics -->
 > *[Here](#circuits-and-signals-midterm) is the corresponding post-exam evaluation.*  
 > I definitely expected worse. I got 83.3%. Apparently the mean was 60%, which is definitely much high that I had expected, but this course does absolute grading and not some curve shenanigans so it's not like it matters too much anyway. I'm not sure what else I can add here, so let this be the last sentence of this entry.
+
+### 27-03-2023
+#### Statistics midterm results released
+<!-- 📚 Academics -->
+> *[Here](#statistics-midterm) is the corresponding post-exam evaluation.*  
+> I can't say I expected this, but I got 89.5% somehow despite my disinterest in statistics. I would say I barely understood the material enough to do the paper but not to get an actual understanding, which isn't really something that I do normally, but I doubt I will ever come to an internalised understanding of the material ever. I guess statistics is only useful when in comparison relative to other statistics but never in a vacuum, and to me that isn't really worthy shit. Anyway, I guess I can still feasibly get an A or at least be in the A-range for this course, so I will have to put more effort into it in the final exam. Reading the dense lecture notes and deciphering it enough to make the cheat sheet for the midterm is already time-consuming enough I can't really imagine doing that for the final. Not looking forward to it.
