@@ -266,7 +266,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [24-11-2022](#24-11-2022)
       - [Mental sunk cost](#mental-sunk-cost)
     - [26-11-2022](#26-11-2022)
-      - [Smartwatch: Sleep 3](#smartwatch-sleep-3)
+      - [Normal sleep (I think)](#normal-sleep-i-think)
     - [29-11-2022](#29-11-2022)
       - [Nervousness and artificial confidence](#nervousness-and-artificial-confidence)
     - [30-11-2022](#30-11-2022)
@@ -1318,7 +1318,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Perhaps it is my perfectionism, perhaps it is my lack of determination, perhaps it is my lack of time and energy; whatever it may be, it seems that I'll have to start to learn to let go of some ideas lest I get nothing done. And truthfully, I have been archiving some old ideas that I have since deemed unworthy to pursue. Although not being able to put out any finished product, is the enjoyment had during its pursue enough to worth keep working on? To be fair, part of the reason for continuing working on this journal is that initial committent to write an entry every day. While I do admit that I am horribly far from it, at least it is still somewhat consistent. My main fear of pursuing passion projects too far is that it may completely distort the projects themselves and the reason behind why I started them in the first place. This journal, for example, was intended to act more of a vessel of thought and spontaneous philosophy than a record of my daily life. Arguably, it has veered from the initial reason somewhat. Projects could be a good snapshot of one's mentality and aspirations at the time, but those that are starting to span close to a decade? Probably not so much. It's like retroactively deciding who you were some years ago. Honestly, something similar is happening here too. On days I find not enough time to write, I'd just put down and entry title and leave the actual writing for another day. Even if the actual writing might only be some days after the event itself, a lot can already change. And it is precisely this internal struggle of whether to keep pursuing and risk distortion or to just stop and leave be that keeps bothered my mind. Knowing me, I will never stop thinking about stuff until I get them done to the point where it can pass my personal quality control with an ever-rising bar.
 
 ### 26-11-2022
-#### Smartwatch: Sleep 3
+#### Normal sleep (I think)
 <!-- 🌞 Well-being -->
 > Today is the first day I woke up to a normal sleep chart. There is actually a rhythm to my stages of sleep and a normal period length of ~90 minutes. From the graph, I can actually see and tell when I finished all my deep sleep. Surprisingly, I actually never went back to deep sleep after I was done, instead brief periods of being awake took its place. I actually woke up in the awake stage too, although it didn't seem to help with the tiredness as much as I thought it would. I had a good 7-hour-and-40-minute sleep too, despite it being completely off a normal circadian rhythm.
 
