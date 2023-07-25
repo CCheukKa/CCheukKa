@@ -323,6 +323,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Circuits and signals midterm results released](#circuits-and-signals-midterm-results-released)
     - [27-03-2023](#27-03-2023)
       - [Statistics midterm results released](#statistics-midterm-results-released)
+    - [31-05-2023](#31-05-2023)
+      - [Year 2 Semester 2 results released](#year-2-semester-2-results-released)
   - [July - 2023](#july---2023)
     - [25-07-2023](#25-07-2023)
       - [Thought consolidation](#thought-consolidation)
@@ -1563,6 +1565,26 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 <!-- 📚 Academics -->
 > *[Here](#statistics-midterm) is the corresponding post-exam evaluation.*  
 > I can't say I expected this, but I got 89.5% somehow despite my disinterest in statistics. I would say I barely understood the material enough to do the paper but not to get an actual understanding, which isn't really something that I do normally, but I doubt I will ever come to an internalised understanding of the material ever. I guess statistics is only useful when in comparison relative to other statistics but never in a vacuum, and to me that isn't really worthy shit. Anyway, I guess I can still feasibly get an A or at least be in the A-range for this course, so I will have to put more effort into it in the final exam. Reading the dense lecture notes and deciphering it enough to make the cheat sheet for the midterm is already time-consuming enough I can't really imagine doing that for the final. Not looking forward to it.
+
+### 31-05-2023
+#### Year 2 Semester 2 results released
+<!-- 📚 Academics -->
+> ***This entry is written very much retroactively, so I don't think I'll add too much.***
+> | Course Title                            | Credit | Grade |
+> | :-------------------------------------- | :----: | :---- |
+> | Synthetic Biology Workshop              |   2    | A     |
+> | Engineering Physics                     |   3    | A-    |
+> | Statistical Techniques in Life Sciences |   3    | A-    |
+> | Biomedical Engineering Laboratory       |   2    | A-    |
+> | Circuits and Signals                    |   3    | B+    |
+> | English for Engineering Students 1      |   3    | B+    |
+> | Cell and Molecular Biology              |   2    | B+    |
+> **Term GPA: 3.556 @18**  
+> *Cumulative GPA: 3.674 @69*
+>  
+> It is quite shite. Looking at just the grade distribution should sufficiently paint the picture. One reason would be the workload, I suppose. Three of the courses required us to do a project, and the [*Synthetic Biology Workshop*](#synthetic-biology-workshop-case-studies-ended) one was an absolute dumpster fire, to say the least. Numerous reasons I am quite furious, namely towards the English course. I might write an entry on it, but probably not. I have no idea what it is between the English department and me.  
+> No course-by-course breakdown this time, as I have mentioned in the preface. Just too much time has passed, I suppose.
+
 
 ## July - 2023
 ### 25-07-2023
