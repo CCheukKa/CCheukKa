@@ -328,6 +328,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
   - [July - 2023](#july---2023)
     - [17-07-2023](#17-07-2023)
       - [Year 2 Semester S results released](#year-2-semester-s-results-released)
+      - [Year 2 results finalised](#year-2-results-finalised)
     - [25-07-2023](#25-07-2023)
       - [Thought consolidation](#thought-consolidation)
 
@@ -1600,6 +1601,48 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > *Cumulative GPA: 3.688 @72*
 >  
 > I honestly enjoyed this course a whole lot. I have been wanting to take it since last year but just never got the chance to do so. Well, to be fair, I wanted to take the quantum mechanics course most but this is my second choice. The lecturer gave us minigames to play in each lecture, counted towards the final grade of course (which meant I couldn't really skip all lectures, grump-). The topic of this course isn't really too complex and I could genuinely see it being useful IRL, especially the algorithm of fairly splitting bills and stuff.
+
+#### Year 2 results finalised
+<!-- 📚 Academics -->
+> > Here is a summary for the entirety of year 2:  
+> > | [Year 2 Semester 1](#year-2-semester-1-results-released) Courses                                  | Credit | Grade |
+> > | :------------------------------------------------------------------------------------------------ | :----: | :---- |
+> > | [Complex Analysis and Differential Equations](#complex-analysis-and-differential-equations-final) |   3    | A     |
+> > | [Problem Solving by Programming](#programming-final)                                              |   3    | A     |
+> > | [Perspectives in Economics](#perspectives-in-economics-make-up-final)                             |   3    | A     |
+> > | [Orthopaedic Biomechanics and Musculoskeletal Injury](#biomechanics-final)                        |   3    | A-    |
+> > | [University Chinese 2](#chinese-2-final)                                                          |   3    | B+    |
+> > | Outline of Chinese Culture                                                                        |   2    | B+    |
+> > **Term GPA: 3.741 @17**  
+> > *Cumulative GPA: 3.716 @51*
+> >  
+> > | [Year 2 Semester 2](#year-2-semester-2-results-released) Courses | Credit | Grade |
+> > | :--------------------------------------------------------------- | :----: | :---- |
+> > | Synthetic Biology Workshop                                       |   2    | A     |
+> > | Engineering Physics                                              |   3    | A-    |
+> > | Statistical Techniques in Life Sciences                          |   3    | A-    |
+> > | Biomedical Engineering Laboratory                                |   2    | A-    |
+> > | Circuits and Signals                                             |   3    | B+    |
+> > | English for Engineering Students 1                               |   3    | B+    |
+> > | Cell and Molecular Biology                                       |   2    | B+    |
+> > **Term GPA: 3.556 @18**  
+> > *Cumulative GPA: 3.674 @69*
+> > 
+> > | [Year 2 Semester S](#year-2-semester-s-results-released) Courses | Credit | Grade |
+> > | :--------------------------------------------------------------- | :----: | :---- |
+> > | Games and Strategic Thinking                                     |   3    | A     |
+> > **Term GPA: 4.000 @3**  
+> > *Cumulative GPA: 3.688 @72* 
+>
+> Here is a running summary of everything so far:  
+> | Semesters         | Term GPA @ Credit | cGPA @ Credit | All Credit |
+> | :---------------- | :---------------: | :-----------: | :--------: |
+> | Year 1 Semester 1 |     3.644 @16     |   3.644 @16   |     16     |
+> | Year 1 Semester 2 |     3.756 @18     |   3.703 @34   |     34     |
+> | Year 1 Semester S |      N/A @0       |   3.703 @34   |     35     |
+> | Year 2 Semester 1 |     3.741 @17     |   3.716 @51   |     52     |
+> | Year 2 Semester 2 |     3.556 @18     |   3.674 @69   |     70     |
+> | Year 2 Semester S |     4.000 @3      |   3.688 @72   |     73     |
 
 ### 25-07-2023
 #### Thought consolidation
