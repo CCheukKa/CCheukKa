@@ -326,6 +326,8 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
     - [31-05-2023](#31-05-2023)
       - [Year 2 Semester 2 results released](#year-2-semester-2-results-released)
   - [July - 2023](#july---2023)
+    - [17-07-2023](#17-07-2023)
+      - [Year 2 Semester S results released](#year-2-semester-s-results-released)
     - [25-07-2023](#25-07-2023)
       - [Thought consolidation](#thought-consolidation)
 
@@ -1587,6 +1589,18 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 
 
 ## July - 2023
+### 17-07-2023
+#### Year 2 Semester S results released
+<!-- 📚 Academics -->
+> "S" stands for summer. I just thought writing it this way would make it look nicer since consistency and OCD and stuff.
+> | Course Title                 | Credit | Grade |
+> | :--------------------------- | :----: | :---- |
+> | Games and Strategic Thinking |   3    | A     |
+> **Term GPA: 4.000 @3**  
+> *Cumulative GPA: 3.688 @72*
+>  
+> I honestly enjoyed this course a whole lot. I have been wanting to take it since last year but just never got the chance to do so. Well, to be fair, I wanted to take the quantum mechanics course most but this is my second choice. The lecturer gave us minigames to play in each lecture, counted towards the final grade of course (which meant I couldn't really skip all lectures, grump-). The topic of this course isn't really too complex and I could genuinely see it being useful IRL, especially the algorithm of fairly splitting bills and stuff.
+
 ### 25-07-2023
 #### Thought consolidation
 <!-- 🧠 Mentality -->
