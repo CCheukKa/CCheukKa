@@ -198,6 +198,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
       - [Lab exposure programme 2](#lab-exposure-programme-2)
     - [31-05-2022](#31-05-2022)
       - [Year 1 Semester 2 results released](#year-1-semester-2-results-released)
+  - [June - 2022](#june---2022)
     - [02-06-2022](#02-06-2022)
       - [CU Medical Centre tour](#cu-medical-centre-tour)
       - [English grade appeal bureaucratic hell](#english-grade-appeal-bureaucratic-hell)
@@ -1032,6 +1033,7 @@ Links: [Journal.md](https://github.com/CCheukKa/CCheukKa/blob/master/Journal.md)
 > Last but not least, the sacrificial lamb, *Human Anatomy and Physiology* *([CA1](#human-anatomy-and-physiology-2-ca1), [CA2](#human-anatomy-and-physiology-2-ca2), [F](#human-anatomy-and-physiology-2-final))*. Despite its sacrificial status, I was genuinely hoping for better, in the A-range at least. Wishful thinking, it was. But no matter, I expected this outcome. I have simply encountered so many logistical clashes and brain retirements. If only I hadn't been such a mess. Not that I could've done too terribly differently anyway. I'm still unsure whether sacrificing a course had been a good idea. I initially thought I could sacrifice a 2-credit course for a combined total of 7 credits, but that plan involves the mentioned 7 credits are actually in the A-range. Not sure.  
 > I have talked about this numerous times before, [since I have been in university](#getting-back-my-hkdse-papers) really, but my goal was to internal transfer into Medicine. And for that, one would need to have attained at least a 3.7 GPA, which I clearly hadn't. Although I would say, it is tantalisingly close, especially considering if not for the pestering *University English* B+ but instead an A-, I would've attained a cGPA of 3.703. Fuck this. I mean I had prepared mentally for a 4-year long GPA struggle but this is still too close to not get frustrated by. APPEAL AHOY!!!
 
+## June - 2022
 ### 02-06-2022
 #### CU Medical Centre tour
 <!-- 📚 Academics -->
