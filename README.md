@@ -5,7 +5,8 @@
 - 🌐 I have a personal website at [CCheukKa.github.io](https://CCheukKa.github.io)
 - 📫 How to reach me:
   1. 📧 Email: [contact.CCheukKa@gmail.com](mailto:contact.CCheukKa@gmail.com)
-  2. 🚫 Try not to contact me via other means. I tend not to check them at all.
+  2. 🐦 Pigeon mail: If you know where I am/ will be when the pigeon arrives.
+  3. 🚫 Try not to contact me via other means. I tend not to check them at all.
 - ⚡ Fun fact: I'm a human.
 
 
