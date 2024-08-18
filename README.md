@@ -33,17 +33,23 @@ Here are some ideas to get you started:
     <tbody>
         <tr>
             <td rowspan=3 align=center>
-                <img src="https://github-readme-stats.vercel.app/api?username=ccheukka&show_icons=true&theme=github_dark&show=prs_merged,prs_merged_percentage&hide_rank=true&number_format=long&hide_border=true" alt="CCheukKa's GitHub Stats">
+                <a href="https://github.com/CCheukKa">
+                    <img src="https://github-readme-stats.vercel.app/api?username=ccheukka&show_icons=true&theme=github_dark&show=prs_merged,prs_merged_percentage&hide_rank=true&number_format=long&hide_border=true" alt="CCheukKa's GitHub Stats">
+                </a>
             </td>
             <td rowspan=1 align=center>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccheukka&theme=github_dark&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true" alt="CCheukKa's Most Used Languages">
+                <a href="https://github.com/CCheukKa">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccheukka&theme=github_dark&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true" alt="CCheukKa's Most Used Languages">
+                </a>
             </td>
         </tr>
         <tr>
         </tr>
         <tr>
             <td rowspan=1 align=center>
-                <img src="https://img.shields.io/npm-stat/dy/CCheukKa?style=for-the-badge&label=NPM%20package%20downloads&labelColor=%230d1117&color=%231f6feb" alt="CCheukKa's NPM Package Downloads">
+                <a href="https://www.npmjs.com/~ccheukka">
+                    <img src="https://img.shields.io/npm-stat/dy/CCheukKa?style=for-the-badge&label=NPM%20package%20downloads&labelColor=%230d1117&color=%231f6feb" alt="CCheukKa's NPM Package Downloads">
+                </a>
                 <br>
                 <br>
             </td>
