@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 ### I truly believe I am a human
 
-- 📚 I'm currently studying ~~[Biomedical Engineering](http://www.bme.cuhk.edu.hk) at [the Chinese University of Hong Kong](https://www.cuhk.edu.hk)~~ doing whatever
+- 📚 I'm currently ~~studying [Biomedical Engineering](http://www.bme.cuhk.edu.hk) at [the Chinese University of Hong Kong](https://www.cuhk.edu.hk)~~ doing whatever
 - 🌐 I have a personal website at [cck.wtf](https://cck.wtf)
 - 📫 How to reach me:
   1. 📧 Email: [contact.CCheukKa@gmail.com](mailto:contact.CCheukKa@gmail.com)
